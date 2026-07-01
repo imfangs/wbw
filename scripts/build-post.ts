@@ -10,15 +10,16 @@ import { mkdir, writeFile, readFile } from 'node:fs/promises'
 import { existsSync } from 'node:fs'
 import { join } from 'node:path'
 import { scrape, urlToSlug, type Scraped } from './scrape.js'
-import { translate } from './translate.js'
+import { translate, translateTitle } from './translate.js'
 import { rebuildSidebar } from './build-sidebar.js'
 
 const ROOT = new URL('..', import.meta.url).pathname
 
-function frontmatter(meta: { title: string; date?: string; url: string; slug: string }) {
+function frontmatter(meta: { title: string; titleZh?: string; date?: string; url: string; slug: string }) {
   const lines = [
     '---',
     `title: ${JSON.stringify(meta.title)}`,
+    meta.titleZh ? `titleZh: ${JSON.stringify(meta.titleZh)}` : null,
     meta.date ? `date: ${meta.date}` : null,
     `originalUrl: ${meta.url}`,
     `slug: ${meta.slug}`,
@@ -56,13 +57,20 @@ async function buildOne(url: string, opts: { enOnly?: boolean; skipScrape?: bool
     return
   }
 
-  console.log(`[build] 翻译中...`)
-  const zhBody = await translate(scraped.markdown)
-  // 译者可能会把 # 标题也翻译;我们前面已经把标题剥离了,这里直接用译文 body
+  console.log(`[build] 翻译标题...`)
+  const titleZh = await translateTitle(scraped.title).catch(e => {
+    console.warn(`[build] 标题翻译失败,跳过: ${e.message}`)
+    return undefined
+  })
+  if (titleZh) console.log(`[build] 标题 zh: ${titleZh}`)
 
+  console.log(`[build] 翻译正文...`)
+  const zhBody = await translate(scraped.markdown)
+
+  const displayTitle = titleZh ? `${titleZh} · ${scraped.title}` : scraped.title
   const finalMd =
-    frontmatter({ title: scraped.title, date: scraped.date, url: scraped.url, slug: scraped.slug }) +
-    `# ${scraped.title}\n\n` +
+    frontmatter({ title: scraped.title, titleZh, date: scraped.date, url: scraped.url, slug: scraped.slug }) +
+    `# ${displayTitle}\n\n` +
     `> 原文:[${scraped.url}](${scraped.url})${scraped.date ? ` · ${scraped.date}` : ''}\n\n` +
     zhBody + '\n'
 

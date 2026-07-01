@@ -1,11 +1,13 @@
 ---
 title: "The Fermi Paradox"
+titleZh: "费米悖论"
 date: 2014-05-21
-originalUrl: https://waitbutwhy.com/2014/05/fermi-paradox.html
+originalUrl: "https://waitbutwhy.com/2014/05/fermi-paradox.html"
 slug: fermi-paradox
 ---
 
-# The Fermi Paradox
+
+# 费米悖论 · The Fermi Paradox
 
 > 原文:[https://waitbutwhy.com/2014/05/fermi-paradox.html](https://waitbutwhy.com/2014/05/fermi-paradox.html) · 2014-05-21
 

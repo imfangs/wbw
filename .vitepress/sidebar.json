@@ -8,15 +8,31 @@
           "link": "/posts/"
         },
         {
-          "text": "The AI Revolution: The Road to Superintelligence",
+          "text": "SpaceX 如何以及为何殖民火星 · How (and Why) SpaceX Will Colonize Mars",
+          "link": "/posts/how-and-why-spacex-will-colonize-mars"
+        },
+        {
+          "text": "Hyperloop 内幕解析 · The Deal With the Hyperloop",
+          "link": "/posts/hyperloop"
+        },
+        {
+          "text": "Tesla 将如何改变世界 · How Tesla Will Change The World",
+          "link": "/posts/how-tesla-will-change-your-life"
+        },
+        {
+          "text": "Elon Musk 系列:导言 · Elon Musk Series: Introduction",
+          "link": "/posts/elon-musk-the-worlds-raddest-man"
+        },
+        {
+          "text": "AI 革命:通往超级智能之路 · The AI Revolution: The Road to Superintelligence",
           "link": "/posts/artificial-intelligence-revolution-1"
         },
         {
-          "text": "The Fermi Paradox",
+          "text": "费米悖论 · The Fermi Paradox",
           "link": "/posts/fermi-paradox"
         },
         {
-          "text": "Why Procrastinators Procrastinate",
+          "text": "拖延者为何拖延 · Why Procrastinators Procrastinate",
           "link": "/posts/why-procrastinators-procrastinate"
         }
       ]

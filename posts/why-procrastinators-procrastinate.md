@@ -1,11 +1,13 @@
 ---
 title: "Why Procrastinators Procrastinate"
+titleZh: "拖延者为何拖延"
 date: 2013-10-30
-originalUrl: https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html
+originalUrl: "https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html"
 slug: why-procrastinators-procrastinate
 ---
 
-# Why Procrastinators Procrastinate
+
+# 拖延者为何拖延 · Why Procrastinators Procrastinate
 
 > 原文:[https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html) · 2013-10-30
 

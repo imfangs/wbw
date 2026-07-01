@@ -1,11 +1,13 @@
 ---
 title: "The AI Revolution: The Road to Superintelligence"
+titleZh: "AI 革命:通往超级智能之路"
 date: 2015-01-22
-originalUrl: https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
+originalUrl: "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html"
 slug: artificial-intelligence-revolution-1
 ---
 
-# The AI Revolution: The Road to Superintelligence
+
+# AI 革命:通往超级智能之路 · The AI Revolution: The Road to Superintelligence
 
 > 原文:[https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html) · 2015-01-22
 
