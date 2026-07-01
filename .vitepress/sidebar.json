@@ -1,0 +1,25 @@
+{
+  "/posts/": [
+    {
+      "text": "文章",
+      "items": [
+        {
+          "text": "全部",
+          "link": "/posts/"
+        },
+        {
+          "text": "The AI Revolution: The Road to Superintelligence",
+          "link": "/posts/artificial-intelligence-revolution-1"
+        },
+        {
+          "text": "The Fermi Paradox",
+          "link": "/posts/fermi-paradox"
+        },
+        {
+          "text": "Why Procrastinators Procrastinate",
+          "link": "/posts/why-procrastinators-procrastinate"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "wbw",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview",
+    "build:post": "tsx scripts/build-post.ts",
+    "rebuild:sidebar": "tsx scripts/build-sidebar.ts"
+  },
+  "dependencies": {
+    "vitepress": "^1.6.4"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "cheerio": "^1.0.0",
+    "tsx": "^4.19.0",
+    "turndown": "^7.2.0",
+    "@types/turndown": "^5.0.5"
+  }
+}
