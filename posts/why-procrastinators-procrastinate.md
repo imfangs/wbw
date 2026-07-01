@@ -33,11 +33,11 @@ slug: why-procrastinators-procrastinate
 
 要理解拖延者为什么这么爱拖延,我们先看看一个*非*拖延者的大脑长什么样:
 
-[![](/images/why-procrastinators-procrastinate/NP+brain.png)](https://4.bp.blogspot.com/-dID9_Fb3jsQ/Upvh1rjLxYI/AAAAAAAAGb8/fVhfjlj3Pks/s1600/NP+brain.png)
+[![](/images/why-procrastinators-procrastinate/NP-brain.png)](https://4.bp.blogspot.com/-dID9_Fb3jsQ/Upvh1rjLxYI/AAAAAAAAGb8/fVhfjlj3Pks/s1600/NP+brain.png)
 
 挺正常的,对吧?现在,我们再来看看一个拖延者的大脑:
 
-[![](/images/why-procrastinators-procrastinate/P+brain.png)](https://1.bp.blogspot.com/-S6ryaE6HuZg/Upvh2oS7q9I/AAAAAAAAGcI/R2-QDRd6A7o/s1600/P+brain.png)
+[![](/images/why-procrastinators-procrastinate/P-brain.png)](https://1.bp.blogspot.com/-S6ryaE6HuZg/Upvh2oS7q9I/AAAAAAAAGcI/R2-QDRd6A7o/s1600/P+brain.png)
 
 发现什么不同了吗?
 
@@ -45,13 +45,13 @@ slug: why-procrastinators-procrastinate
 
 要是理性决策者懂一点养猴子的门道,这本来也没什么——甚至还挺可爱的。但很不幸,这不在他的培训范围内,所以当猴子把他的工作搅得一塌糊涂时,他完全束手无策。
 
-[![](/images/why-procrastinators-procrastinate/IGM+RDM+interacting+1.png)](https://2.bp.blogspot.com/-Itw_OLDmScQ/Upvh0zdThcI/AAAAAAAAGbc/oTJBvQsSgaA/s1600/IGM+RDM+interacting+1.png)
+[![](/images/why-procrastinators-procrastinate/IGM-RDM-interacting-1.png)](https://2.bp.blogspot.com/-Itw_OLDmScQ/Upvh0zdThcI/AAAAAAAAGbc/oTJBvQsSgaA/s1600/IGM+RDM+interacting+1.png)
 
-[![](/images/why-procrastinators-procrastinate/IGM+RDM+interacting+2.png)](https://1.bp.blogspot.com/-TUld_HzbZP8/Upvh1CFYvBI/AAAAAAAAGbo/i3VQRZ3zPjU/s1600/IGM+RDM+interacting+2.png)
+[![](/images/why-procrastinators-procrastinate/IGM-RDM-interacting-2.png)](https://1.bp.blogspot.com/-TUld_HzbZP8/Upvh1CFYvBI/AAAAAAAAGbo/i3VQRZ3zPjU/s1600/IGM+RDM+interacting+2.png)
 
-[![](/images/why-procrastinators-procrastinate/IGM+RDM+interacting+3.png)](https://3.bp.blogspot.com/-VG-qHIJJeM4/Upvh1QrCVkI/AAAAAAAAGcE/XwQWbOsUIok/s1600/IGM+RDM+interacting+3.png)
+[![](/images/why-procrastinators-procrastinate/IGM-RDM-interacting-3.png)](https://3.bp.blogspot.com/-VG-qHIJJeM4/Upvh1QrCVkI/AAAAAAAAGcE/XwQWbOsUIok/s1600/IGM+RDM+interacting+3.png)
 
-[![](/images/why-procrastinators-procrastinate/IGM+RDM+interacting+4.png)](https://2.bp.blogspot.com/-CLsCpHveOY0/Upvh1oFtMNI/AAAAAAAAGcA/Bu92QWsX0dQ/s1600/IGM+RDM+interacting+4.png)
+[![](/images/why-procrastinators-procrastinate/IGM-RDM-interacting-4.png)](https://2.bp.blogspot.com/-CLsCpHveOY0/Upvh1oFtMNI/AAAAAAAAGcA/Bu92QWsX0dQ/s1600/IGM+RDM+interacting+4.png)
 
 事实是,及时行乐猴是最不该掌权做决定的生物——他*只*考虑当下,无视过去的教训,也完全不管未来,他全部的心思都用在把此时此刻的轻松和愉悦最大化上。他对理性决策者的理解,跟理性决策者对他的理解一样少——他心想,我们干嘛要继续慢跑啊,停下来不是更舒服吗?练那个乐器一点都不好玩,我们为什么要练?明明互联网就在那等着我们去玩,为什么还要用电脑工作?他觉得人类都疯了。
 
@@ -61,11 +61,11 @@ slug: why-procrastinators-procrastinate
 
 黑暗游乐场 (Dark Playground) 是每个拖延者都再熟悉不过的地方。它是这样一个地方:你在本不该休闲的时候进行着休闲活动。在黑暗游乐场里玩耍其实并不快乐,因为这些快乐完全没有挣来,空气里弥漫着内疚、焦虑、自我厌恶和恐惧。有时理性决策者 (Rational Decision-Maker) 会跺脚发火,拒绝让你浪费时间做那些正常的休闲活动,而即时满足猴子 (Instant Gratification Monkey) 又死活不肯让你工作,于是你就发现自己陷入了一种古怪的炼狱,做着一些没人能赢的怪异活动。[2](#footnote-2-502)
 
-[![](/images/why-procrastinators-procrastinate/Dark+Playground.png)](https://store.waitbutwhy.com/collections/posters/products/dark-playground-poster-18x24)
+[![](/images/why-procrastinators-procrastinate/Dark-Playground.png)](https://store.waitbutwhy.com/collections/posters/products/dark-playground-poster-18x24)
 
 而可怜的理性决策者只能在一旁闷闷不乐,试图搞清楚自己怎么又让这个本该由他管的人沦落到了*这步田地*。
 
-[![](/images/why-procrastinators-procrastinate/Dark+Playground+people.png)](https://store.waitbutwhy.com/collections/posters/products/dark-playground-poster-18x24)
+[![](/images/why-procrastinators-procrastinate/Dark-Playground-people.png)](https://store.waitbutwhy.com/collections/posters/products/dark-playground-poster-18x24)
 
 既然处境如此,拖延者究竟是怎么把事情做完的呢?
 
@@ -75,11 +75,11 @@ slug: why-procrastinators-procrastinate
 
 恐慌怪兽 (Panic Monster) 大部分时间都在沉睡,但当截止日期逼近,或者面临公开出丑、职业灾难,或者其他可怕后果时,它就会突然醒来。
 
-[![](/images/why-procrastinators-procrastinate/PM+Scare+1.png)](https://1.bp.blogspot.com/-bRsO0-Gbt5I/Upvh2hIjDJI/AAAAAAAAGcs/Bs_y-0os0aY/s1600/PM+Scare+1.png)
+[![](/images/why-procrastinators-procrastinate/PM-Scare-1.png)](https://1.bp.blogspot.com/-bRsO0-Gbt5I/Upvh2hIjDJI/AAAAAAAAGcs/Bs_y-0os0aY/s1600/PM+Scare+1.png)
 
-[![](/images/why-procrastinators-procrastinate/PM+Scare+2.png)](https://2.bp.blogspot.com/-m06IHIKx56Q/Upvh284PRiI/AAAAAAAAGcg/Dki558dQ1O4/s1600/PM+Scare+2.png)
+[![](/images/why-procrastinators-procrastinate/PM-Scare-2.png)](https://2.bp.blogspot.com/-m06IHIKx56Q/Upvh284PRiI/AAAAAAAAGcg/Dki558dQ1O4/s1600/PM+Scare+2.png)
 
-[![](/images/why-procrastinators-procrastinate/PM+Scare+3.png)](https://4.bp.blogspot.com/-Jjn22OLAd2E/Upvh3ICJbGI/AAAAAAAAGcY/fe37M2hsFiU/s1600/PM+Scare+3.png)
+[![](/images/why-procrastinators-procrastinate/PM-Scare-3.png)](https://4.bp.blogspot.com/-Jjn22OLAd2E/Upvh3ICJbGI/AAAAAAAAGcY/fe37M2hsFiU/s1600/PM+Scare+3.png)
 
 平时不可撼动的即时满足猴子,唯独怕恐慌怪兽怕得要死。不然你怎么解释——同一个人,花两周时间都憋不出一篇论文的开头句,却能突然熬通宵、对抗困意、写出八页纸?不然一个超级懒的人怎么会突然开始严格的健身计划,如果不是因为恐慌怪兽对他变得不那么有魅力这件事抓狂了?
 

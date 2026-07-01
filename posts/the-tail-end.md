@@ -1,0 +1,116 @@
+---
+title: "The Tail End"
+titleZh: "人生的尾声"
+date: 2015-12-11
+originalUrl: https://waitbutwhy.com/2015/12/the-tail-end.html
+slug: the-tail-end
+---
+
+# 人生的尾声 · The Tail End
+
+> 原文:[https://waitbutwhy.com/2015/12/the-tail-end.html](https://waitbutwhy.com/2015/12/the-tail-end.html) · 2015-12-11
+
+*我们为这篇文章做了一个精美的 PDF 版本,方便打印和离线阅读。[点这里购买。](https://gum.co/wbw-tail-end)*
+
+[在去年的一篇文章里](https://waitbutwhy.com/2014/05/life-weeks.html),我们把人的一生可视化地铺开了。按年来看:
+
+[![Years](/images/the-tail-end/Years.jpg)](https://waitbutwhy.com/wp-content/uploads/2015/12/Years.jpg)
+
+按月来看:
+
+[![Months](/images/the-tail-end/Months.jpg)](https://waitbutwhy.com/wp-content/uploads/2015/12/Months.jpg)
+
+按周来看:
+
+[![Weeks](/images/the-tail-end/Weeks.jpg)](https://waitbutwhy.com/wp-content/uploads/2015/12/Weeks.jpg)
+
+写那篇文章的时候,我其实还做过一张按天算的图,但当时觉得有点过头了,就没放进去。不过管他呢。
+
+[![Days](/images/the-tail-end/Days.jpg)](https://waitbutwhy.com/wp-content/uploads/2015/12/Days-large-e1449796562773.jpg)
+
+这张「日」的图和那张「周」的图一样让我震撼。每一个点只是一个星期二、星期五或星期天而已,但就算是幸运地活到 90 岁的人,把一生所有的日子塞进[一张纸](https://waitbutwhy.com/wp-content/uploads/2015/12/A-90-Year-Life-in-Days.pdf)里也毫无压力。
+
+但自从写完《人生以周计》那篇之后,我一直在琢磨另一件事。
+
+除了用时间单位来衡量你的人生,你还可以用活动或事件来衡量它。以我自己为例:
+
+我今年 34 岁,那就乐观点,假设我能一直画火柴人画到 90 岁吧。[1](#footnote-1-4579) 如果是这样的话,我还剩下不到 60 个冬天:
+
+[![Winters](/images/the-tail-end/Winters.png)](https://waitbutwhy.com/wp-content/uploads/2015/12/Winters.png)
+
+大概还有 60 场超级碗:
+
+[![Superbowls](/images/the-tail-end/Superbowls.png)](https://waitbutwhy.com/wp-content/uploads/2015/12/Superbowls.png)
+
+海水冰冷刺骨,把身子泡进去实在算不上什么美好的人生体验,所以我基本上一年只下海游一次。所以尽管听起来很怪,我这辈子可能只剩下 60 次下海的机会了:
+
+[![Ocean](/images/the-tail-end/Ocean.png)](https://waitbutwhy.com/wp-content/uploads/2015/12/Ocean.png)
+
+如果不算给 Wait But Why 做研究看的书,我一年大概读 5 本书,所以尽管感觉未来还有读不完的书在等着,但事实上我只能从这个世界上所有的书里挑出 300 本来读,然后接受这样一个事实:剩下的那些书里在讲什么,我到永远都不会知道了。
+
+[![books](/images/the-tail-end/books.png)](https://waitbutwhy.com/wp-content/uploads/2015/12/books.png)
+
+我在波士顿长大,以前动不动就去看红袜队的比赛,但如果我不搬回去,大概会继续维持现在这个频率——差不多三年去看一场红袜——也就是说,这排小小的 20 个格子,就代表着我这辈子剩下的芬威球场之行:
+
+[![sox](/images/the-tail-end/sox.png)](https://waitbutwhy.com/wp-content/uploads/2015/12/sox.png)
+
+我这辈子经历过 8 次美国总统大选,还有大约 15 次要经历。我看着 5 位总统在任,如果这个速度继续下去,我还会再看到大约 9 位。
+
+[![presidents](/images/the-tail-end/presidents.png)](https://waitbutwhy.com/wp-content/uploads/2015/12/presidents.png)
+
+我大概一个月吃一次披萨,所以我还剩大约 700 次吃披萨的机会。饺子的前景更光明。我大概一个月吃两次中餐,而且每次都会确保吃到 6 个饺子,所以我有一大堆饺子可以期待:
+
+[![dumplings small](/images/the-tail-end/dumplings-small.png)](https://waitbutwhy.com/wp-content/uploads/2015/12/dumplings-small.png)
+
+但这些不是我一直在想的事。我刚刚提到的大多数事情,在我生命的每一年里都以差不多的频率发生,所以它们在时间上分布得相当均匀。如果我人生走了大概三分之一,那我也大概经历了这些活动或事件的三分之一。
+
+我一直在想的,是生命中一个非常重要的部分——它跟上面那些例子不一样,它并不在时间上均匀分布——它的 [已经做过 / 还剩多少] 的比例,跟我人生走了多远完全不对得上:
+
+关系。
+
+我一直在想我的父母,他们现在 60 多岁。在我人生的前 18 年里,我至少 90% 的日子都会跟父母待一些时间。但自从上大学、后来又搬出波士顿以后,我每年跟他们见面的次数平均可能只有 5 次,每次平均大概 2 天。一年 10 天。大约是我童年每年跟他们相处时间的 3%。
+
+他们现在 60 多岁,让我们继续超级乐观地假设我是那种极其幸运的人,父母双方都能活到我 60 多岁。那样的话,我们还有大约 30 年的共存时间。如果每年 10 天的规律不变,那我还剩 300 天可以跟爸妈一起过。比我童年 18 年里任何一年跟他们相处的时间都要少。
+
+当你看清这个现实,你会意识到:尽管你还没走到人生尽头,但你可能已经很接近跟生命中一些最重要的人相处时间的尽头了。如果我把这辈子跟每一位父母相处的总天数摊开来看——假设我幸运到不能再幸运——事情就变得触目惊心地清楚:
+
+[![parents small](/images/the-tail-end/parents-small.png)](https://waitbutwhy.com/wp-content/uploads/2015/12/parents-small.png)
+
+结果发现,我高中毕业那会儿,已经用掉了 93% 的和父母面对面的时间。我现在正在享用最后那 5%。我们已经进入尾声了。
+
+我跟我两个姐妹的情况差不多。分别跟她们一起在一个家里住了 10 年和 13 年之后,我现在住在美国的另一端,每年大概跟她们各自相处 15 天。希望这意味着我们还剩下总共约 15% 的相处时间。
+
+老朋友通常也是这个情况。高中的时候,我几乎每周有五天都跟同样的四个哥们儿一起打红心大战 (hearts)。四年下来,我们大概凑一块儿聚了 700 次。现在,大家散落全国各地,过着完全不同的生活,有着完全不同的日程,我们五个人同处一室的日子,估计每十年也就 10 天左右。这个小团体已经进入最后 7% 的阶段了。
+
+那么,我们该拿这些信息怎么办呢?
+
+先撇开我私底下希望科技进步能让我活到 700 岁的那个小心愿不谈,我从中看到三点启示:
+
+**1) 和你所爱的人住在同一个地方,很重要。** 我剩下能和住在同城的人相处的时间,大概是能和外地人相处时间的 10 倍。
+
+**2) 优先级很重要。** 你剩下能和某个人当面相处的时间,很大程度上取决于这个人在你人生优先级清单上的位置。一定要确保这份清单是你自己定的——而不是被无意识的惯性替你定的。
+
+**3) 高质量的相处很重要。** 如果你和某个所爱之人正处在最后 10% 的时光里,那么和他们在一起时,把这个事实放在脑子最前头,把这段时间当成它本来的样子来对待:珍贵。
+---
+你可以在**[这里](https://gum.co/wbw-tail-end)**买到这篇文章的 PDF 版。
+
+**更多值得思考的东西:**
+
+**[驯服猛犸象:为什么你该停止在意别人怎么想](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)**
+
+**[人生是一幅画,但你活在一个像素里](https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html)。** 道理这么显而易见,又这么难记住。
+
+[**给非宗教人士的宗教**](https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html)**。** 每个人都需要一套成长框架。
+---
+如果你喜欢 Wait But Why,可以订阅我们的**[邮件列表](https://newsletter.waitbutwhy.com/join)**,新文章一发出我们就发给你。
+
+想支持 Wait But Why,请访问我们的 **[Patreon 页面](https://patreon.com/waitbutwhy)**。
+
+* * *
+
+1.  为了帮我别因为写这篇文章把自己给咒了,请在下面每句话前面自行脑补一句"如果我真的很幸运的话"。[↩](#note-1-4579)
+    
+
+[Tweet](https://twitter.com/share)
+
+[![](/images/the-tail-end/pinit_fg_en_rect_gray_20.png)](<//www.pinterest.com/pin/create/button/?url=https://waitbutwhy.com/2015/12/the-tail-end.html&description=The Tail End>)

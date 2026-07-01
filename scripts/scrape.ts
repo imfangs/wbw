@@ -105,6 +105,12 @@ export async function scrape(url: string, projectRoot: string): Promise<Scraped>
   markdown = markdown.replace(/^\s*_{3,}\s*$/gm, '---')
   markdown = markdown.replace(/\n{3,}/g, '\n\n').trim()
 
+  if (markdown.length < 400) {
+    const err = new Error(`content too short (${markdown.length} chars) — likely a meta/link page`) as Error & { code?: string }
+    err.code = 'EMPTY_CONTENT'
+    throw err
+  }
+
   return { slug, title, date, url, markdown, imageCount: downloaded }
 }
 

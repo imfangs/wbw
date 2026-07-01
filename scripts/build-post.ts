@@ -30,7 +30,7 @@ function frontmatter(meta: { title: string; titleZh?: string; date?: string; url
   return lines.join('\n')
 }
 
-async function buildOne(url: string, opts: { enOnly?: boolean; skipScrape?: boolean } = {}) {
+export async function buildOne(url: string, opts: { enOnly?: boolean; skipScrape?: boolean; skipRebuildSidebar?: boolean } = {}) {
   const cacheDir = join(ROOT, 'scripts', '.cache')
   await mkdir(cacheDir, { recursive: true })
 
@@ -78,31 +78,36 @@ async function buildOne(url: string, opts: { enOnly?: boolean; skipScrape?: bool
   await writeFile(outPath, finalMd)
   console.log(`[build] ✓ posts/${scraped.slug}.md`)
 
-  await rebuildSidebar(ROOT)
-  console.log(`[build] ✓ sidebar 已更新`)
-}
-
-const args = process.argv.slice(2)
-const flags = new Set(args.filter(a => a.startsWith('--')))
-const positional = args.filter(a => !a.startsWith('--'))
-
-if (!positional.length) {
-  console.error('用法: tsx scripts/build-post.ts [--en-only] [--skip-scrape] <url-or-slug> [<url> ...]')
-  process.exit(1)
-}
-
-for (const arg of positional) {
-  // --skip-scrape 时,arg 可以直接是 slug;否则要求是完整 URL
-  let url = arg
-  if (flags.has('--skip-scrape') && !arg.includes('://')) {
-    // 直接从缓存读 meta 拿 url
-    const metaPath = join(ROOT, 'scripts', '.cache', `${arg}.meta.json`)
-    if (existsSync(metaPath)) {
-      url = JSON.parse(await readFile(metaPath, 'utf-8')).url
-    } else {
-      console.error(`找不到缓存: ${metaPath}`)
-      process.exit(1)
-    }
+  if (!opts.skipRebuildSidebar) {
+    await rebuildSidebar(ROOT)
+    console.log(`[build] ✓ sidebar 已更新`)
   }
-  await buildOne(url, { enOnly: flags.has('--en-only'), skipScrape: flags.has('--skip-scrape') })
+}
+
+// 仅当作为 CLI 直接运行时执行(被 import 时跳过)
+if (import.meta.url === `file://${process.argv[1]}`) {
+  const args = process.argv.slice(2)
+  const flags = new Set(args.filter(a => a.startsWith('--')))
+  const positional = args.filter(a => !a.startsWith('--'))
+
+  if (!positional.length) {
+    console.error('用法: tsx scripts/build-post.ts [--en-only] [--skip-scrape] <url-or-slug> [<url> ...]')
+    process.exit(1)
+  }
+
+  for (const arg of positional) {
+    // --skip-scrape 时,arg 可以直接是 slug;否则要求是完整 URL
+    let url = arg
+    if (flags.has('--skip-scrape') && !arg.includes('://')) {
+      // 直接从缓存读 meta 拿 url
+      const metaPath = join(ROOT, 'scripts', '.cache', `${arg}.meta.json`)
+      if (existsSync(metaPath)) {
+        url = JSON.parse(await readFile(metaPath, 'utf-8')).url
+      } else {
+        console.error(`找不到缓存: ${metaPath}`)
+        process.exit(1)
+      }
+    }
+    await buildOne(url, { enOnly: flags.has('--en-only'), skipScrape: flags.has('--skip-scrape') })
+  }
 }

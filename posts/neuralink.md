@@ -1,0 +1,2184 @@
+---
+title: "Neuralink and the Brain's Magical Future — Wait But Why"
+titleZh: "Neuralink 与大脑的神奇未来"
+date: 2017-04-20
+originalUrl: https://waitbutwhy.com/2017/04/neuralink.html
+slug: neuralink
+---
+
+# Neuralink 与大脑的神奇未来 · Neuralink and the Brain's Magical Future — Wait But Why
+
+> 原文:[https://waitbutwhy.com/2017/04/neuralink.html](https://waitbutwhy.com/2017/04/neuralink.html) · 2017-04-20
+
+***注:** 如果你想打印这篇文章或者离线阅读,PDF 版可能是最好的选择。你可以[在这里购买](https://gum.co/neuralink)。
+**另外[这里是本文的 G 级(全年龄适宜)版本](https://waitbutwhy.com/neuralink-cleanversion),适合所有年龄段的读者。*
+---
+上个月,我接到了一通电话。
+
+![](/images/neuralink/Call-1.png)
+
+好吧,事情可能不完全是这样发生的,他说的话也可能不是原话。但在了解了 Elon Musk 正在创办的这家新公司之后,我意识到——这确实就是他想做的事。
+
+当我写 [Tesla](https://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html) 和 [SpaceX](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html) 的时候,我发现:要真正搞懂某些公司,你必须同时把镜头拉得很近很近*、又*拉得很远很远。近到能看清工程师面对的技术难题,远到能看见人类作为一个物种面对的存在性挑战。近到能看清当下世界的快照,远到能看见我们是怎么走到这一刻的、以及遥远的未来可能是什么样子的宏大叙事。
+
+Elon 的这家新公司 —— Neuralink —— 不仅属于同一类,而且在第一次了解它的六周之后,我确信,无论是在工程挑战的大胆程度上,还是在使命的宏伟程度上,它都超越了 Tesla 和 SpaceX。那两家公司想重新定义未来人类会*做什么* —— 而 Neuralink 想重新定义未来人类会*是什么**。*
+
+Neuralink 使命那种把人脑子拧麻的*宏大*,加上人脑本身那座复杂到不可能的迷宫,让这一堆概念成为我迄今为止最难完全搞懂的东西 —— 但当我在两端都花了足够多的时间去缩放,一切最终"啪"地一声全部*对上*的时候,它也成了最令人激动的一次。我感觉自己坐了时光机去了未来,而我回来是要告诉你:那儿比我们想象的还要怪。
+
+但在我带你上时光机看我发现的东西之前,我们得先坐上缩放机 —— 因为我用最难的方式学到:Elon 的那些巫师帽计划,只有当你的脑袋放到对的位置上,才能被正确地理解。
+
+所以,把你的大脑清空,忘掉它自以为知道的关于自己和自己未来的一切,穿上软和衣服,咱们跳进漩涡吧。
+---
+目录
+
+**[第一部分:人类巨兽](#part1)**
+
+**[第二部分:大脑](#part2)**
+
+**[第三部分:脑机接口](#part3)**
+
+**[第四部分:Neuralink 的挑战](#part4)**
+
+**[第五部分:巫师时代](#part5)**
+
+**[第六部分:大融合](#part6)**
+
+![Notes key: Type 1 are fun notes for fun facts, extra thoughts, or further explanation. Type 2 are boring notes for sources and citations.](/images/neuralink/Notes-Key.png)
+
+* * *
+
+**第一部分:人类巨兽**
+
+6 亿年前,没有谁真的做过任何事,从来没有。
+
+[![](/images/neuralink/sponge.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/sponge.png) [![](/images/neuralink/sponge-2.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/sponge-2.png)
+
+问题在于,没有谁长着神经。没有神经,你就没法动,没法思考,也没法处理任何信息。所以你就只能干耗着,在那儿等死。
+
+但后来,水母出现了。
+
+[![](/images/neuralink/jellyfish-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/jellyfish-1.png)
+
+水母是第一种意识到「神经这东西显然得整一套」的动物,它拥有了世界上第一个神经系统——一张神经网。
+
+[![](/images/neuralink/jellyfish-3.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/jellyfish-3.png)
+
+[![](/images/neuralink/jellyfish-5.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/jellyfish-5.png) [![](/images/neuralink/jellyfish-6.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/jellyfish-6.png) [![](/images/neuralink/jellyfish-7.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/jellyfish-7.png)[![](/images/neuralink/jellyfish-8a.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/jellyfish-8a.png)
+
+水母的神经网让它能从周围世界收集重要信息——比如哪里有物体、有捕食者、有食物——然后通过一场大型的「传话游戏」,把这些信息传递到身体的每个部位。能接收和处理信息意味着水母可以真正对环境变化做出反应,从而提高活下去的几率,而不是漫无目的地漂着、听天由命。
+
+不久之后,又出现了一种新动物,它的想法更酷。
+
+[![](/images/neuralink/flatworm-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/flatworm-1.png)
+
+扁虫想明白了:如果神经系统里有一个负责总揽全局的家伙——一个神经系统老板——那能干成的事就多多了。这位老板住在扁虫的脑袋里,并且立了个规矩:身体里所有神经一旦发现新信息,都得直接向他汇报。所以扁虫的神经系统没有排成网状,而是全部围绕着一条中央高速公路——由传令神经组成,负责在老板和其他所有人之间来回传递消息:
+
+[![](/images/neuralink/Flatworm-brain-1-2.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/Flatworm-brain-1-2.jpg) [![](/images/neuralink/Flatworm-brain-2-2.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/Flatworm-brain-2-2.jpg)
+
+扁虫的这套「老板+高速公路」系统就是世界上第一个中枢神经系统,而扁虫脑袋里的那位老板,就是世界上第一个大脑。
+
+「弄个神经系统老板」的想法很快在其他物种间流行开来,没多久,地球上就有了成千上万种带脑子的物种。
+
+随着时间推移,地球上的动物开始发明各种复杂的新身体系统,老板们也越来越忙。
+
+[![](/images/neuralink/frog-1-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/frog-1-1.png)
+
+[![](/images/neuralink/Frog-brain-1-1.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/Frog-brain-1-1.jpg)
+
+[![](/images/neuralink/Frog-brain-2-2.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/Frog-brain-2-2.jpg)
+
+又过了一段时间,哺乳动物登场了。作为动物王国里的「千禧一代」,它们的生活相当复杂。是的,它们的心脏得跳,肺得呼吸,但哺乳动物可远不止于生存功能——它们还能体会到爱、愤怒、恐惧这些复杂情绪。
+
+对爬行动物脑来说,它以前只需要应付爬行动物和其他更简单的生物,而哺乳动物简直……太难搞了。于是哺乳动物体内进化出了第二位老板,来跟爬行动物脑搭档,负责处理这些新需求——这就是世界上第一个边缘系统 (limbic system)。
+
+[![](/images/neuralink/rodent-1-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/rodent-1-1.png)
+
+[![](/images/neuralink/Rodent-brain-1-2.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/Rodent-brain-1-2.jpg)
+
+在接下来的 1 亿年里,哺乳动物的生活越来越复杂。有一天,这两位老板发现驾驶舱里多了个新住户。
+
+[![](/images/neuralink/primate-1-2.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/primate-1-2.png) [![](/images/neuralink/Primate-brain-1.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/Primate-brain-1.jpg)
+
+这个看似随机冒出来的婴儿,其实是新皮层 (neocortex) 的早期版本。虽然他一开始话不多,但随着进化产生了灵长类,然后是类人猿,再到早期原始人类,这位新老板从婴儿长成了小孩,最后变成了对一切都有自己一套主张的青少年。
+
+[![](/images/neuralink/homonid-1-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/homonid-1-1.png) [![](/images/neuralink/Hominid-brain-1-3.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Hominid-brain-1-3.png) [![](/images/neuralink/Hominid-brain-2-3.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Hominid-brain-2-3.png)
+
+事实证明,这位新老板的主意还真挺有用,于是他成了原始人类在制作工具、狩猎策略、跟其他原始人类合作等事情上的首选老板。
+
+在接下来的几百万年里,这位新老板年纪渐长,越来越有智慧,主意也越来越棒。他搞明白了怎么不再光着身子。他搞明白了怎么控制火。他学会了怎么做长矛。
+
+[![](/images/neuralink/Spear.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Spear.png)
+
+但他最酷的招数是*思考*。他把每个人的脑袋都变成了一个自成一体的小世界,让人类成为第一种能够进行复杂思考、通过推理做决定、并制定长远计划的动物。
+
+然后,大约在 10 万年前,他搞出了一个突破。
+
+[![](/images/neuralink/Rock-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Rock-1.png) [![](/images/neuralink/Rock-2-3.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Rock-2-3.png) [![](/images/neuralink/Rock-3-3.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Rock-3-3.png)[![](/images/neuralink/Rock-4.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Rock-4.png)[![](/images/neuralink/Rock-5.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Rock-5.png)[![](/images/neuralink/Rock-6.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Rock-6.png) [![](/images/neuralink/Rock-7.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Rock-7.png) [![](/images/neuralink/Rock-8.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Rock-8.png) [![](/images/neuralink/Rock-9.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Rock-9.png) [![](/images/neuralink/Rock-10.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Rock-10.png) [![](/images/neuralink/Rock-11.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Rock-11.png) [![](/images/neuralink/Rock-12.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Rock-12.png) [![](/images/neuralink/Rock-13.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Rock-13.png) [![](/images/neuralink/Rock-14.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Rock-14.png) [![](/images/neuralink/Rock-15.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Rock-15.png) [![](/images/neuralink/Rock-16.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Rock-16.png) [![](/images/neuralink/Rock-17.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Rock-17.png) [![](/images/neuralink/Rock-18.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Rock-18.png) [![](/images/neuralink/Rock-19.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Rock-19.png) [![](/images/neuralink/Rock-20.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Rock-20.png) [![](/images/neuralink/Rock-21.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Rock-21.png) [![](/images/neuralink/Rock-22.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Rock-22.png) [![](/images/neuralink/Rock-23.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Rock-23.png)
+
+人类的大脑进化到了这样一个程度:它能理解,虽然“石头”这个声音*本身*并不是一块石头,但它可以被当作石头的一个*符号*——它是一个*指代*石头的声音。早期人类发明了语言。
+
+很快,各种各样的东西都有了自己的词,到了公元前 5 万年,人类彼此之间已经在用完整、复杂的语言交流了。
+
+新皮层把人类变成了魔法师。他不但把人脑变成了一片充满复杂思绪的奇妙内部海洋,他最新的突破更是找到了一种方法——把那些思绪翻译成一套象征性的声音,让声音在空气中震荡着钻进别人的脑袋,而对方的大脑又能把这些声音解码,把里面藏着的想法吸收进自己的思维海洋里。人类的新皮层琢磨事情已经琢磨很久了——他终于有人可以聊聊了。
+
+一场新皮层派对就这么开起来了。新皮层们——好吧——诸位新皮层们(neocortices)开始互相分享一切——过去的故事、想到的段子、形成的观点、未来的打算。
+
+但最有用的,是分享他们*学到*的东西。如果一个人通过反复试错发现某种浆果会让你的人生被腹泻接管 48 小时,他就可以用语言把这个来之不易的教训分享给部落里的其他人,就像把这条经验复印一份发给每个人一样。部落成员再用语言把这条教训传给自己的孩子,孩子再传给他们自己的孩子。这样一来,不用许多人反反复复犯同一个错误,一个人的「离那种浆果远点」的智慧就能穿越时空,保护其他所有人不必亲历那种糟糕的经历。
+
+一个人琢磨出新巧招的时候也是一样。某个格外聪明的猎人,同时对星座和角马 [1](#footnote-1-6120) 群每年的迁徙规律都特别敏感,他可以分享一套自己想出来的系统:通过夜空来精确判断距离兽群回归还剩多少天。虽然靠自己能想出这套系统的猎人少之又少,但通过口口相传,部落里未来所有的猎人现在都能受益于这一位祖先的聪明才智——这位猎人毕生的杰出发现,成了未来每一个猎人知识的*起点*。
+
+再假设这项知识的进步让狩猎季变得更高效,部落成员就有更多时间打磨他们的武器——这样几代以后,某个格外机灵的猎人就能发现一种方法,做出更轻、更结实、能扔得更准的长矛。就这样,部落里所有当下和未来的猎人,都能用上更有效的长矛来打猎。
+
+语言让世世代代最聪明的人的最佳灵光一现,可以一层一层累积起来,堆成一座部落知识的小塔——一张祖先们最棒的「啊哈!」时刻的「金曲精选」。每一代新人生下来,这座知识塔就已经装在他们脑子里,作为人生的起点,带他们去做出新的、更棒的发现,在祖先所学之上继续搭建;部落的知识就这样越堆越大、越堆越聪明。语言,就是下面这个和这个的区别:
+
+[![minimal tribal knowledge growth before language](/images/neuralink/Knowledge-growth-graph-1b.png)](https://waitbutwhy.com/wp-content/uploads/2017/04/Knowledge-growth-graph-1b.png)
+
+以及这个:
+
+[![](/images/neuralink/Knowledge-growth-graph-2-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Knowledge-growth-graph-2-1.png)
+
+轨迹的大幅升级有两个原因。当人们可以彼此交谈、交换心得、汇集各自的所学时,每一代都能学到多得多的新东西(这就是为什么第二张图里蓝色柱子高出那么多)。而且每一代能把更高比例的所学成功传给下一代,所以知识在时间中「粘」得更牢。
+
+知识一旦被分享,就变成了一场宏大、集体、跨代的合作。几百代之后,当初关于「某种浆果要躲开」的小贴士,已经演变成一套精巧的系统——长排种植那种吃了不闹肚子的浆果丛,每年定期采收。当初关于角马迁徙的那一闪灵光,变成了驯化山羊的完整体系。当初的长矛发明,经过数万年间几百次微调,变成了弓箭。
+
+语言让一群人拥有了一种**集体智能**,远远超过任何单个人的智能,同时又让每个人都能享用这份集体智能,仿佛这一切都是他自己想出来的。我们觉得弓箭是原始技术,但把爱因斯坦扔进原始森林、不给他任何现成的知识,让他鼓捣出最好的狩猎装备,他**根本**不够聪明、不够熟练、也不够博学到能发明出弓箭。只有**集体**的人类努力才能做到这件事。
+
+能够彼此交谈,还让人类得以形成复杂的社会结构,再加上农耕和驯养动物这些先进技术,部落们随着时间开始定居下来,并汇合成有组织的超级部落。当这件事发生时,每个部落积累的知识之塔都能与更大的超级部落共享,组成一座超级塔。大规模协作提高了所有人的生活质量,到公元前 10000 年,第一批城市出现了。
+
+根据维基百科,有一个东西叫梅特卡夫定律 (Metcalfe's law),它说:「一个电信网络的价值,与其连接用户数量的平方成正比。」他们还配了这张老式电话的小图:[1](#footnote2-1-6120)
+
+[![](/images/neuralink/Metcalfe-Network-Effect.svg_.png)](https://waitbutwhy.com/wp-content/uploads/2017/04/Metcalfe-Network-Effect.svg_.png)
+
+但同样的道理也适用于人。两个人可以有 1 次对话。三个人则有 4 种独特的对话组合(3 种不同的两人对话,外加三人一起的第 4 种对话)。五个人有 26 种。二十个人有 1,048,555 种。
+
+所以城市里的居民不仅拥有一座*巨大的*知识之塔作为地基,梅特卡夫定律 (Metcalfe's law) 还意味着对话的可能性数量骤增到了前所未有的多样程度。更多的对话意味着更多的想法互相碰撞,这带来了更多的发现被拼接到一起,创新的步伐随之飞速加快。
+
+人类很快掌握了农业,这让许多人腾出手来去思考各种各样的其他想法,没过多久他们就撞上了一个新的、巨大的突破:文字。
+
+历史学家认为人类最早开始把东西写下来大约是在 5 至 6000 年前。在那之前,集体知识之塔只储存在一张由人的记忆构成的网络里,只能通过口耳相传的直播式交流来访问。这套系统在小部落里还行得通,但当一个庞大得多的知识体系要在一大群人之间共享时,光靠记忆是很难撑住的,大部分内容最终都会丢失。
+
+如果说语言让人类能把一个念头从一个大脑传送到另一个大脑,那么文字就让他们能把念头粘在一个实体*物件*上,比如一块石头,让它永远存在。当人们开始在薄薄的羊皮纸或纸张上书写时,那些口头传达要花好几周的巨大知识领域,就可以被压缩进一本你能拿在手里的书或卷轴里。人类的集体知识之塔如今以实体形式存在,整整齐齐地排列在城市图书馆和大学的书架上。
+
+这些书架成了人类关于一切事物的宏大说明书。它们引导人类走向新的发明和发现,而这些又反过来变成书架上的新书,这本宏大的说明书就这样不断自我叠加。它教会我们贸易和货币的门道、造船与建筑、医学与天文学。每一代人开始生活时,都站在比上一代更高的知识与技术楼层上,进步继续加速。
+
+但辛辛苦苦手抄出来的书被当成珍宝一样对待,[2](#footnote-2-6120) 大概也只有极少数精英才能接触到(15 世纪中叶,整个欧洲一共只有 [30,000 本书](http://www.history.com/news/7-things-you-may-not-know-about-the-gutenberg-bible))。然后又来了一个突破:印刷机。
+
+15 世纪,[大胡子](https://en.wikipedia.org/wiki/Johannes_Gutenberg#/media/File:Gutenberg.jpg)约翰内斯·古腾堡 (Johannes Gutenberg) 想出了一种办法,可以远比以往更快、更便宜地大量复制同一本书的相同副本。(或者更准确地说,古腾堡出生时,人类已经搞定了发明印刷机所需的前 95%,古腾堡是站在这个基础上,发明了最后的 5%。)(哦对了,印刷机也不是古腾堡发明的,[中国人](http://www.history.com/news/7-things-you-may-not-know-about-the-gutenberg-bible)早在好几个世纪前就发明了。一个相当靠谱的规律是:凡是你以为不是中国发明的东西,大概率其实都是中国发明的。)它的工作原理是这样的:
+
+**其实古腾堡也没那么牛蓝框**
+
+为了写这个蓝框,我找了[这个视频](https://www.youtube.com/watch?v=0ojyCDRc8uc)来了解古腾堡的印刷机是怎么运作的,结果看完发现自己毫无感动。我一直以为古腾堡搞出了什么天才机器,结果发现他不过是造了一堆字母和标点的印章,手动把它们排成一本书的一页,然后在上面涂墨,再把一张纸压到字母上——这就是一页书。趁着字母已经排好,他会印上一堆副本。然后他要花老半天手动把这些印章重新排列(这就是"活字"部分)成下一页,再印一堆。他的第一个项目是印 180 本《圣经》,[3](#footnote-3-6120)他和员工干了两年。
+
+*这就是* 古腾堡的绝活?一堆印章?感觉我自己都能轻松想出来。真搞不明白为什么人类从会写字到搞出一堆手动印章,居然花了 5000 年。我想我倒不是对古腾堡不满意——我对古腾堡态度中立,他还行——我是对其他所有人都不满意。
+
+不管怎么说,尽管古腾堡的印刷机让人这么失望,它对人类传播信息的能力来说,仍是一次*巨大*的飞跃。在接下来的几个世纪里,印刷技术迅速进步,一台机器每小时能印的页数,从古腾堡时代的大约 25 页,[4](#footnote-4-6120)到 19 世纪初已经涨了 100 倍,达到 2400 页。[2](#footnote2-2-6120)
+
+大规模生产的书籍让信息像野火一样蔓延,书籍变得越来越便宜,教育不再是精英特权——数百万人现在都能读到书,识字率飙升。一个人的思想现在可以触达数百万人。大众传播的时代开始了。
+
+书籍如雪崩般涌现,让知识跨越了国界——世界上各个区域的知识之塔终于合并成了一座覆盖整个物种的知识之塔,直插云霄。
+
+我们能进行大规模交流的能力越强,我们这个物种就越像一个单一的有机体在运转——人类的集体知识之塔是它的大脑,每一个人类个体的大脑则像它身体里的一根神经或一根肌肉纤维。随着大规模通信时代的到来,集体人类有机体——「人类巨像 (Human Colossus)」——诞生了。
+
+[![](/images/neuralink/Human-Colossus.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Human-Colossus.png)
+
+由于整个集体人类知识都装在它的大脑里,人类巨像开始发明一些任何个体人类都不可能靠自己梦想出来的东西——那些在仅仅几代人之前的人看来还像是荒诞科幻小说的东西。
+
+它把我们牛拉的车变成了飞驰的火车,把马车变成了闪亮的金属汽车。它把我们的灯笼变成了灯泡,把书信变成了电话,把工厂工人变成了工业机器。它把我们送上了天空,又送出了太空。它给了我们广播和电视,重新定义了「大众传播」的含义,开启了一个新世界——某人脑中的一个想法可以瞬间被传送到十亿人的大脑里。
+
+如果说人类个体的核心动机是把基因传下去,从而让物种延续,那么宏观经济的力量则使人类巨像的核心动机变成了创造价值,这意味着它总是想发明更新、更好的技术。它每这么做一次,就变成一个更强的发明者,也就是说它能更快地发明新东西。
+
+而到了 20 世纪中叶前后,人类巨像开始着手它迄今为止最雄心勃勃的发明。
+
+早在很久以前,巨像就想明白了:创造价值最好的方式,是发明创造价值的*机器*。机器在许多种工作上都比人类做得好,由此产生了源源不断的新资源,又可以再投入到价值创造中去。或许更重要的是,机器劳动解放了巨大比例的人类时间和精力——也就是巨像自身的巨大一部分——去专注于创新。它已经通过大脑的力量,把我们手臂的工作外包给了工厂机器,把我们腿的工作外包给了驾驶机器——那么现在,如果它能把大脑*本身*的工作也外包给一台机器,会怎么样呢?
+
+第一批数字计算机诞生于 1940 年代。
+
+计算机能做的一种大脑劳动,是信息存储的工作——它们是*会记忆的*机器。但我们其实早就知道怎么用书本来外包记忆了,就像早在汽车提供出更好的解决方案之前,我们就已经把腿的劳动外包给[马](http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/06/Horse-hand.png)了一样。计算机不过是记忆外包的一次升级罢了。
+
+而信息*处理*则是另一回事——这是一种我们从未搞清楚如何外包出去的脑力劳动。人类巨人 (Human Colossus) 一直以来都得自己完成所有的运算。计算机改变了这一点。
+
+工厂机器让我们能外包物理过程——放进去一种材料,机器进行物理加工,然后吐出结果。计算机可以对信息处理做同样的事。一个软件程序就好比是处理信息流程的工厂机器。
+
+这些新的信息存储/组织/处理机器被证明非常有用。计算机开始在公司和政府的日常运作中扮演核心角色。到了 1980 年代末,个人拥有自己的私人大脑助手已经很普遍了。
+
+然后又是一次飞跃。
+
+1990 年代初,我们教会了数百万台孤立的机器大脑如何互相沟通。它们形成了一张全球性的计算机网络,一个新的巨人诞生了——计算机巨人 (Computer Colossus)。
+
+[![](/images/neuralink/Computer-Colossus-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Computer-Colossus-1.png)
+
+计算机巨人以及它所构成的这张宏大网络,对人类巨人来说就像大力水手的菠菜。
+
+如果说每个人的大脑是人类巨人的神经和肌肉纤维,那么互联网给了这个巨人第一套像样的神经系统。它的每一个节点如今都与其他所有节点相互连接,信息可以以光速在系统中传递。这让人类巨人成为一个更快、更流畅的思考者。
+
+互联网让数十亿人得以即时、免费、便捷地检索整座人类知识之塔(此时这座塔已经伸到了月球以外)。这让人类巨人成为一个更聪明、学习更快的学生。
+
+而如果说个体计算机曾是个人、公司或政府的大脑延伸,那么计算机巨人就是整个人类巨人自身的大脑延伸。
+
+[![](/images/neuralink/HC-3.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/HC-3.png)
+
+有了它的第一套真正的神经系统、升级过的大脑,以及一件强大的新工具,人类巨人把发明这件事推上了全新的高度——同时,它注意到这位新的计算机朋友有多么有用,便把很大一部分精力投入到推进计算机技术上。
+
+它想出了让计算机更快、更便宜的办法。它让互联网变得更快、可以无线传输。它把计算芯片做得越来越小,直到每个人的口袋里都装着一台强大的计算机。
+
+每一次创新,都像是给人类巨人送来一整卡车新鲜菠菜。
+
+但是今天,人类巨人盯上了一个比更多菠菜还要大得多的想法。计算机已经改变了游戏规则,让人类得以外包许多与大脑相关的任务,并作为一个单一有机体更好地运转。但还有一种脑力劳动是计算机至今仍然做不太来的。*思考*。
+
+计算机可以计算、组织并运行复杂的软件——甚至能自我学习的软件。但它们无法像人类那样*思考*。人类巨兽 (Human Colossus) 明白,它所建造的一切都源自它进行创造性、独立推理的能力——它也明白,*终极的*大脑延伸工具将是那种能够真正地、切实地、名副其实地*思考*的东西。它不知道当计算机巨兽 (Computer Colossus) 能够独立思考时会是什么样子——当它有一天睁开眼睛,变成一个*真正的*巨兽时——但基于它创造价值、把技术推向极限的核心目标,人类巨兽决心一探究竟。
+---
+我们待会儿会回到这里。首先,我们得做点功课。
+
+正如我们[之前](https://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html)讨论过的,知识的运作方式就像一棵树。如果你在脑子里还没有搭起一根坚实的树干作为理解的地基之前,就试图去学一个话题的枝干或叶子,那是行不通的。这些枝叶无处附着,会直接从你脑子里掉出来。
+
+我们已经确立了一点:埃隆·马斯克 (Elon Musk) 想给大脑造一顶巫师帽,而理解他为什么要这么做,是理解 Neuralink 的关键——也是理解我们的未来可能会是什么样的关键。
+
+但如果我们不先真正搞清楚那个真正令人瞠目结舌的概念——巫师帽到底是什么、戴上它是什么感觉、我们又怎么从今天走到那一步——上面这些都不会太说得通。
+
+*那场*讨论的基础,是理解脑机接口是什么、它们如何工作、以及这项技术如今发展到了哪一步。
+
+最后,脑机接口 (BMI) 本身也只是一根较大的枝干——不是树干。要真正理解 BMI 及其工作原理,我们得先理解大脑。搞懂大脑如何运作,就是我们的树干。
+
+[![](/images/neuralink/Brain-tree-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Brain-tree-1.png)
+
+所以我们会从大脑开始,这会为我们学习 BMI 做好准备,然后我们会明白造一顶巫师帽需要什么,而这将为一场关于未来的疯狂讨论铺好路——这场讨论会让我们的脑袋恰好处在合适的位置,去理解为什么埃隆认为巫师帽是我们未来如此关键的一块拼图。等我们读到结尾时,整件事应该就都能对上号了。
+
+**第二部分:大脑**
+
+[![](/images/neuralink/Brain-tree-Parts-2.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Brain-tree-Parts-2.png)
+
+这篇文章很好地提醒了我,为什么我喜欢用一个长得漂亮又可爱的大脑来工作,就像这样:
+
+[![](/images/neuralink/cartoon-brain.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/cartoon-brain.png)
+
+因为真正的大脑极其不可爱、看着让人心里发毛。人类真是恶心。
+
+但是过去一个月里,我一直生活在一个亮晶晶、湿黏黏、布满血管的 Google 图片地狱里,现在你也得跟我一起体验一下。所以坐稳了。
+
+我们从头的外部开始讲起。生物学有一点我还是佩服的,那就是它有时候真的很让人满足,[5](#footnote-5-6120) 而大脑里就有一些让人挺满足的东西。第一件就是,你的脑袋其实是个正儿八经的俄罗斯套娃。
+
+你有头发,头发下面是头皮,然后你以为下一层就是头骨了——但实际上那中间大概还有 19 层东西,然后才是头骨:[3](#footnote2-3-6120)
+
+[![](/images/neuralink/A270654_1_En_2_Fig3_HTML.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/A270654_1_En_2_Fig3_HTML.jpg)
+
+然后到了头骨下面,[6](#footnote-6-6120) 在到达大脑之前,又是一大堆东西在里面折腾[4](#footnote2-4-6120):
+
+[![](/images/neuralink/Men1.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/Men1.jpg)
+
+在头骨下方,你的大脑外面还有三层膜:
+
+最外层是**硬脑膜 (dura mater)**(拉丁语意思是「硬妈妈」),坚硬、结实、防水。硬脑膜紧贴头骨。我听说大脑没有痛觉感知区,但硬脑膜其实是有的——它的敏感度大约和你脸上的皮肤差不多——很多人剧烈头痛的原因就是硬脑膜受到了压迫或挫伤。
+
+再往下是**蛛网膜 (arachnoid mater)**(「蜘蛛妈妈」),它先是一层薄膜,然后是一个开阔空间,里面有一些看起来很有弹性的纤维。我一直以为我的大脑就那么在脑袋里的某种液体中漫无目的地漂着,但实际上,大脑外壁和头骨内壁之间唯一真正的空隙就是这块蛛网膜区域。那些纤维把大脑固定在原位,让它不至于晃得太厉害,当你的头撞到东西时它们还起到缓冲作用。这个区域里充满脑脊液,让大脑基本处于漂浮状态,因为脑组织的密度跟水差不多。
+
+最后是**软脑膜 (pia mater)**(「软妈妈」),一层精致纤薄的膜,和大脑的外表面融为一体。你知道每次看到大脑,上面总是覆盖着黏糊糊、恶心兮兮的血管吗?那些血管其实不在大脑表面,而是嵌在软脑膜里。(不怕恶心的朋友,[这里有个视频](https://www.youtube.com/watch?v=ak1FWodg5Nw)是一位教授把软脑膜从人脑上剥下来。)
+
+来看一个完整的示意图,用的好像是一只猪的头:
+
+[![](/images/neuralink/338317926b0c5edcd883a0ff35fa3f2b.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/338317926b0c5edcd883a0ff35fa3f2b.jpg)
+
+从左边开始你能看到皮肤(粉色的部分),然后是两层头皮,然后是头骨,然后是硬脑膜、蛛网膜,最右边就是只被软脑膜包裹着的大脑本尊。
+
+一旦我们把所有东西都剥掉,剩下的就是这个傻乎乎的小家伙:[5](#footnote2-5-6120)
+
+[![](/images/neuralink/brain1.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/brain1.jpg)
+
+这个看起来傻乎乎的东西,是宇宙中已知最复杂的物体——三磅重的、神经工程师蒂姆·汉森 (Tim Hanson) 称之为「已知信息密度最高、最有结构、最能自我建构的物质之一」的玩意儿。[6](#footnote2-6-6120) 而它运转起来只需要 [20 瓦](http://www.popsci.com/technology/article/2009-11/neuron-computer-chips-could-overcome-power-limitations-digital) 的功率(一台[算力相当的计算机](http://www.reuters.com/article/us-china-supercomputer-idUSKCN0J11VV20141117)需要 24,000,000 瓦)。
+
+MIT 教授波琳娜·阿尼基耶娃 (Polina Anikeeva) [说](https://www.youtube.com/watch?v=6Qi5uoNYXqg)它是「你可以用勺子舀起来的软布丁」。脑外科医生本·拉波波特 (Ben Rapoport) 给我的描述更科学一点,叫「介于布丁和果冻之间」。他解释说,如果你把大脑放在桌上,重力会让它失去形状、稍微摊开,有点像水母。我们平常不觉得大脑这么软趴趴,是因为它通常悬浮在液体里。
+
+但我们本质上就是这么个东西。你照镜子看到自己的身体和脸,以为那是你——其实那只是你乘坐的机器。你实际上是一颗长得怪里怪气的果冻球。希望你能接受这个事实。
+
+考虑到这有多离奇,你也真没法怪亚里士多德、古埃及人以及其他许许多多人把大脑当成没啥意义的「脑壳填充物」(亚里士多德认为心脏才是智能的中心)。[7](#footnote2-7-6120)
+
+后来,人类总算搞明白了。但也只是「差不多」搞明白。
+
+克里希纳·谢诺伊 (Krishna Shenoy) 教授[把](https://www.youtube.com/watch?v=ZuATvhlcUU4)我们对大脑的理解比作人类在 [1500 年代初期](https://www.loc.gov/loc/lcib/0309/images/maps_4.jpg)对世界地图的掌握。
+
+另一位教授,[杰夫·利希特曼 (Jeff Lichtman)](http://lichtmanlab.fas.harvard.edu/people/jeff-lichtman),说得更狠。他每门课开头都会问学生一个问题:「如果关于大脑你需要知道的一切是一英里长的路,我们已经走了多远?」他说学生们的答案通常是四分之三英里、半英里、四分之一英里之类——但他认为真正的答案是「大约三英寸」。[8](#footnote2-8-6120)
+
+[![](/images/neuralink/How-do-you-work-4.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/How-do-you-work-4.png)
+
+第三位教授,神经科学家[莫兰·瑟夫 (Moran Cerf)](https://www.morancerf.com/),跟我分享了一句神经科学界的老话,点出了想搞懂大脑为什么是个悖论式的死循环:「如果人脑简单到我们能理解它,那我们就会简单到理解不了它。」
+
+也许借助我们这个物种正在建造的这座宏伟的知识之塔,总有一天能到达那里。但眼下,我们先来看看我们目前对脑袋里这颗水母都知道些什么吧——从大局讲起。
+
+**大脑,全景视角**
+
+我们用一个半球剖面图来看看大脑的主要部分。这就是你脑袋里那颗大脑的样子:
+
+[![](/images/neuralink/sh202-hs.png)](https://waitbutwhy.com/wp-content/uploads/2017/04/sh202-hs.png)
+
+现在把大脑从脑袋里拿出来,再把左半球去掉,这样我们就能好好看看里面长什么样了。[9](#footnote2-9-6120)
+
+[![](/images/neuralink/Brain-cross-section.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Brain-cross-section.png)
+
+神经学家保罗·麦克莱恩 ([Paul MacLean](http://www.kheper.net/topics/intelligence/MacLean.htm)) 画了一张简单的示意图,说明了我们前面聊过的那个基本思路——爬行动物的脑最先在进化中出现,然后哺乳动物在它上面加了一层,最后又加了一层,才凑齐了我们大脑的三件套。
+
+[![](/images/neuralink/triune-brain-theory.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/triune-brain-theory.jpg)
+
+这张图基本上对应到真实大脑上是这样的:
+
+[![](/images/neuralink/Brain-cross-section-LABELED.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Brain-cross-section-LABELED.png)
+
+我们逐个部分来看:
+
+**爬行脑:脑干(和小脑)**
+
+这是我们大脑里最古老的部分:[10](#footnote2-10-6120)
+
+[![midbrain, pons, cerebellum, and medulla oblongata](/images/neuralink/brainstem-v2.png)](https://waitbutwhy.com/wp-content/uploads/2017/04/brainstem-v2.png)
+
+也就是我们上面那张剖面图里青蛙老大坐镇的那一块。事实上,一只青蛙的整个大脑就跟我们大脑的这个下半部分差不多。这是一只真青蛙的大脑:[11](#footnote2-11-6120)
+
+[![](/images/neuralink/frogside107.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/frogside107.jpg)
+
+当你搞清楚这些部分的功能后,它们古老这件事就说得通了——这些部分干的所有事,青蛙和蜥蜴都能干。以下是主要几个区域(点任意一张旋转图可以看高清版):
+
+**延髓 (medulla oblongata)** [![](/images/neuralink/Medulla_oblongata_small.gif)](https://waitbutwhy.com/wp-content/uploads/2018/04/Medulla_oblongata-1.gif)
+
+延髓的唯一心愿就是别让你死。它干着一堆没人感谢的活儿,比如控制那些你没法自主决定的东西——心率、呼吸、血压——还有当它觉得你中毒了的时候让你吐出来。
+
+**脑桥 (pons)** [![](/images/neuralink/Pons_small.gif)](https://waitbutwhy.com/wp-content/uploads/2018/04/Pons-1.gif)
+
+脑桥的特点就是这管一点、那管一点。它负责吞咽、控制膀胱、面部表情、咀嚼、口水、眼泪和姿势——反正它心情好想管啥就管啥。
+
+**中脑 (midbrain)** [![](/images/neuralink/Midbrain_small.gif)](https://waitbutwhy.com/wp-content/uploads/2018/04/Midbrain.gif)
+
+中脑正经历着比脑桥更严重的身份危机。当一个脑区几乎所有的功能都已经是另一个脑区的活儿了,你就知道它日子不好过。就中脑而言,它负责视觉、听觉、运动控制、警觉性、体温调节,以及一堆其他脑区已经在做的事情。而且大脑的其他部分似乎也不太待见中脑——它们搞出了一个荒谬失衡的「前脑、中脑、后脑」划分,故意把中脑一个人晾在那儿,其他人都凑一堆玩去了。[12](#footnote2-12-6120)
+
+[![](/images/neuralink/CNX_Psych_03_04_FMHBrain.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/CNX_Psych_03_04_FMHBrain.jpg)
+
+我倒是愿意承认脑桥和中脑做的一件正经事:它们俩共同控制你的自主眼球运动,这活儿还挺靠谱。所以如果你现在转动眼球,那就是你的脑桥和中脑在专门干这事儿。[7](#footnote-7-6120)
+
+**小脑 (The cerebellum)** [![](/images/neuralink/Cerebellum_animation_small.gif)](https://waitbutwhy.com/wp-content/uploads/2018/04/Cerebellum.gif)
+
+那个看起来像你大脑阴囊的怪玩意儿就是你的小脑(拉丁语意为「小的脑」),它确保你是个平衡、协调、动作正常的人。[这位酷炫的教授又来了](https://www.youtube.com/watch?v=mrt0Gq0zS4g),给你展示真正的小脑长什么样。[8](#footnote-8-6120)
+
+**古哺乳动物脑:边缘系统**
+
+脑干上面是边缘系统 (limbic system)——正是这部分让人类如此疯狂。[13](#footnote2-13-6120)
+
+[![limbic system diagram](/images/neuralink/limbic.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/limbic.jpg)
+
+边缘系统是一个生存系统。一个不错的判断法则是:每当你在做一件你家狗也可能会做的事——吃、喝、做爱、打架、躲藏或者从吓人的东西边上跑开——多半是你的边缘系统在开车。不管你自己感不感觉得到,只要你在干这些事,你就处在原始生存模式里。
+
+边缘系统也是你情绪的居所,而说到底,情绪也全都是关于生存的——它们是更高级的生存机制,对于生活在复杂社会结构中的动物来说必不可少。
+
+在其他文章里,当我提到你的[即时满足猴子](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)、你的[社会生存猛犸象](https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html),以及[你所有其他的动物](https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html)——我说的通常就是你的边缘系统。任何时候你脑子里在打内战,很可能就是边缘系统在怂恿你做那件你之后会后悔的事。
+
+我很确定,掌控你的边缘系统 (limbic system) 既是成熟的定义,也是人类核心的挣扎所在。并不是说我们没有边缘系统会更好——边缘系统是让我们区别于其他物种、真正成为人类的另一半,生活中大部分乐趣都和情绪或满足动物性需求有关——只不过你的边缘系统并不明白你生活在一个文明社会里,如果你太放任它主导你的生活,它会很快把你的人生搞得一团糟。
+
+不管怎样,让我们仔细看看它。边缘系统里有很多小零件,但我们只挑最大牌的说:
+
+**杏仁核 (Amygdala)** [![](/images/neuralink/Amygdala10.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Amygdala.gif)
+
+杏仁核算是脑结构里的一个情绪废物。它负责处理焦虑、悲伤,以及我们对恐惧的反应。杏仁核有两个,奇怪的是,左边那个被证实更平衡一些,除了常见的焦虑情绪外,有时还会产生快乐的感受,而右边那个则永远心情不好。
+
+**海马体 (Hippocampus)** [![](/images/neuralink/large.gif)](https://waitbutwhy.com/wp-content/uploads/2018/04/Hippocampus.gif)
+
+你的海马体(希腊语意为「海马」,因为它[长得像一只海马](https://en.wikipedia.org/wiki/Hippocampus#/media/File:Hippocampus_and_seahorse_cropped.JPG))就像是记忆的草稿板。当老鼠开始记忆迷宫中的路线时,记忆会被编码到它的海马体中——是字面意义上的编码。老鼠两个海马体的不同部位会在走迷宫的不同阶段激活,因为迷宫的每一段都存储在海马体自己对应的区域里。但如果学完一个迷宫后,让老鼠去做别的任务,一年后再把它带回原来那个迷宫,它会很难想起来,因为海马体这块草稿板已经把大部分记忆擦掉了,好腾出空间给新的记忆。
+
+电影《记忆碎片 (Memento)》里那种情况是真实存在的——叫顺行性遗忘症 (anterograde amnesia)——是由海马体损伤引起的。阿尔茨海默病也是先从海马体开始,再蔓延到大脑其他很多部位,这就是为什么在这种病一大堆毁灭性影响中,记忆衰退是最先出现的。
+
+**丘脑 (Thalamus)** [![](/images/neuralink/article_codev-2015-10-30-608d7118d8-Thalamus_small.gif)](https://waitbutwhy.com/wp-content/uploads/2018/04/Thalamus.gif)
+
+位于大脑中央的丘脑还担任着感觉信息中间人的角色,它接收来自你各感觉器官的信息,再送到大脑皮层去处理。当你睡觉时,丘脑也跟着一起睡了,也就是说这个感觉中间人下班了。这就是为什么在深度睡眠时,一些声音、光线或触碰经常叫不醒你。如果你想叫醒一个正在深度睡眠的人,你得凶到足以把他的丘脑给弄醒才行。
+
+唯一的例外是嗅觉,它是唯一绕过丘脑的感官。这就是为什么用嗅盐来唤醒昏迷的人。既然说到这儿,来个冷知识:嗅觉是**[嗅球](https://en.wikipedia.org/wiki/Olfactory_bulb#/media/File:Head_olfactory_nerve_-_olfactory_bulb_en.png)** 的功能,也是最古老的感官。跟其他感官不同,嗅觉深藏在边缘系统里,与海马体和杏仁核紧密协作——这就是为什么嗅觉与记忆和情绪的联系如此紧密。
+
+**新哺乳动物脑:皮层**
+
+最后,我们到达了 cortex。cerebral cortex。neocortex。cerebrum。pallium。
+
+整个大脑最重要的部分连自己叫啥都搞不清楚。事情是这样的:
+
+**它到底叫啥的蓝色小框**
+
+**大脑 (cerebrum)** 是整个大脑顶部/外部的一大块,不过严格来说它也包括一些内部结构。
+
+**Cortex** 在拉丁语里是「树皮」的意思,用来指很多器官的外层,不只是大脑。小脑的外层叫小脑皮层 (cerebellar cortex)。而大脑的外层就叫**大脑皮层 (cerebral cortex)**。只有哺乳动物才有大脑皮层。爬行动物大脑里对应的部分叫**外套 (pallium)**。
+
+**新皮层 (neocortex)** 经常和「大脑皮层」互换使用,但严格来说它是大脑皮层里较外层的部分,在更高级的哺乳动物身上特别发达。其他部分叫做旧皮层 (allocortex)。
+
+在这篇文章接下来的部分,我们主要说的是新皮层,**但就叫它 cortex(皮层)吧**,因为对大家来说这样最省心。
+
+皮层基本上负责一切——处理你看到、听到、感觉到的东西,还有语言、运动、思考、计划和人格。
+
+它分成四个叶:[14](#footnote2-14-6120)
+
+[![](/images/neuralink/lobes2.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/lobes2.jpg)
+
+要一一描述它们各自负责什么挺无聊的,因为每个都干好多事,而且互相重叠很多,不过极度简化一下:
+
+[**额叶 (frontal lobe)**](https://waitbutwhy.com/wp-content/uploads/2018/04/Frontal_lobe.gif)(点击文字看动图)负责你的人格,还有很多我们认为是「思考」的东西——推理、计划、执行功能。特别是,你很多的思考发生在额叶的前部,叫做**前额叶皮层 (prefrontal cortex)**——你脑子里那个成年人。前额叶皮层就是你人生中那些内心大战里的另一位主角。就是那个想让你去干活的理性决策者。那个想让你别再那么在意别人怎么看、做自己就好的真实之声。那个希望你别再为鸡毛蒜皮的小事焦虑的更高存在。
+
+光是这些还不够让你操心的,额叶还负责掌管你身体的运动。额叶最上方的那一条就是你的**初级运动皮层 (primary motor cortex)**。[15](#footnote2-15-6120)
+
+[![](/images/neuralink/Primary-Motor-Cortex-Labeled-713x550.png)](https://www.getbodysmart.com/wp-content/uploads/2017/09/Primary-Motor-Cortex-Labeled-713x550.png)
+
+然后是[**顶叶 (parietal lobe)**](https://waitbutwhy.com/wp-content/uploads/2018/04/Parietal_lobe_animation.gif),它管的事情不少,其中就包括你的触觉,尤其是在**初级体感皮层 (primary somatosensory cortex)**——就在初级运动皮层旁边的那一条。[16](#footnote2-16-6120)
+
+[![](/images/neuralink/Primary-Other-Somatosenory-Cortex-Areas-695x550.png)](https://www.getbodysmart.com/wp-content/uploads/2017/09/Primary-Other-Somatosenory-Cortex-Areas-695x550.png)
+
+运动皮层和体感皮层挺好玩的,因为它们的分区图已经画得很清楚了。神经科学家精确知道这两条上的每一小块分别对应着身体的哪个部位。这就引出了本文最瘆人的一张图:*小人图 (homunculus)*。
+
+[![](/images/neuralink/152-KB-Homonculus-Sensory-and-Motor-Cortex.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/152-KB-Homonculus-Sensory-and-Motor-Cortex.png)
+
+这张小人图是先驱神经外科医生怀尔德·彭菲尔德 (Wilder Penfield) 画的,用可视化的方式展示了运动皮层和体感皮层是怎么分区的。图上的身体部位画得越大,就说明皮层里有越多的地方专门负责它的运动或触觉。这里有几件有意思的事:
+
+第一,你脑子里专门负责脸部和手部运动与感觉的区域,竟然比负责身体其他所有部位加起来的还要多——这真是让人惊讶。不过这也说得通——你需要做出极其细微的面部表情,手也得灵巧得离谱,而身体其他部位——肩膀、膝盖、后背——能动能感觉,但都粗糙得多。这就是为什么人可以用手指弹钢琴,但没法用脚趾弹。
+
+第二,有趣的是这两个皮层基本上对应的是同样的身体部位,而且比例也差不多。我以前从来没想过,你身体上那些需要精细运动控制的部位,恰恰也是对触觉最敏感的部位。
+
+最后,我不小心撞见了下面这玩意儿,从此挥之不去——所以现在也得让你一起受着。一个3D立体的小人先生。[17](#footnote2-17-6120)
+
+[![](/images/neuralink/Side-black.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/Side-black.jpg)
+
+继续——
+
+**[颞叶 (temporal lobe)](https://waitbutwhy.com/wp-content/uploads/2018/04/Temporal_lobe_animation2.gif)** 是你大量记忆存放的地方,而且它就在耳朵旁边,所以也是你的**听觉皮层 (auditory cortex)** 的所在地。
+
+最后,在你脑袋后面的是[**枕叶**](https://waitbutwhy.com/wp-content/uploads/2018/04/Occipital_lobe.gif)**,** 它是**视觉皮层**的所在地,几乎完全专门负责视觉。
+
+好长一段时间里,我一直以为这些主要的脑叶是大脑的一块块——就像整个 3D 结构的一个个片段。但实际上,皮层只是大脑最外面的**两毫米**——差不多一枚硬币的厚度——而下面那一大坨空间基本上都是线路。
+
+**为什么大脑这么皱巴巴 蓝色小盒子**
+
+正如我们之前讨论过的,我们大脑的演化是通过向外扩建实现的,在原有模型之上不断加装更新、更花哨的功能。但向外扩建也有极限,因为人类得从别人的阴道里挤出来,这就给我们的头大小设了个上限。[9](#footnote-9-6120)
+
+于是演化开始搞创新。因为皮层特别薄,它是通过增加表面积来扩容的。也就是说,只要制造出大量折叠(包括[两侧向下折进](https://upload.wikimedia.org/wikipedia/commons/5/54/Frontal_lobe_animation.gif)两个半球之间的缝隙里),你就能在体积不怎么增加的情况下,把大脑表面积增加三倍多。大脑最初在子宫里发育时,皮层是光滑的——那些褶皱主要是在怀孕最后两个月才形成的:[18](#footnote2-18-6120)
+
+[![](/images/neuralink/FIGURE-2-Prenatal-development-of-the-human-brain-showing-a-series-of-embryonic-and-fetal.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/FIGURE-2-Prenatal-development-of-the-human-brain-showing-a-series-of-embryonic-and-fetal.png)
+
+关于褶皱是怎么形成的,这里有一个不错的图解 [这里](https://s-media-cache-ak0.pinimg.com/736x/03/d8/60/03d8603a8a23f473cda93722426cd9e5.jpg)。
+
+如果你能把皮层从大脑上剥下来,最后会得到一张 2 毫米厚的薄片,面积大约 2,000-2,400 平方厘米——差不多一个 48 厘米 x 48 厘米(19 英寸 x 19 英寸)正方形那么大。[10](#footnote-10-6120) 一张餐巾纸大小。[![](/images/neuralink/Guy-holding-napkin.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Guy-holding-napkin.png)
+
+这张餐巾纸就是你大脑里大部分事情发生的地方——它让你能思考、移动、感觉、看、听、记忆,以及说话和理解语言。史上最强餐巾纸。
+
+还记得我之前说你是一颗果冻球吗?其实,你想到"你自己"的时候,那个"你"——主要就是你的皮层。也就是说,你其实是一张餐巾纸。
+
+当我们把另一个大脑放到剥下来的皮层上时,褶皱在增加餐巾纸面积上的神奇作用就一目了然了:
+
+[![](/images/neuralink/Brain-on-napkin.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Brain-on-napkin.png)
+
+所以呢,虽然还不完美,但现代科学对大脑的宏观图景已经有了相当不错的理解。我们对微观图景的理解也还行。来看看:
+
+**大脑,放大版**
+
+尽管我们很早以前就搞清楚了大脑是智能的所在,但直到相当晚近,科学才弄明白大脑是由什么组成的。科学家们知道身体是由细胞构成的,但直到 19 世纪末,意大利医生卡米洛·高尔基 (Camillo Golgi) 才想出用一种[染色法](http://journal.frontiersin.org/article/10.3389/fnana.2016.00038/full)来看看脑细胞到底长什么样。结果让人吃惊:
+
+[![](/images/neuralink/220px-GolgiStainedPyramidalCell.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/220px-GolgiStainedPyramidalCell.jpg)
+
+这可不是细胞该有的样子。当时他自己还没完全意识到,[11](#footnote-11-6120)高尔基已经发现了神经元 (neuron)。
+
+科学家们意识到,神经元是构成几乎所有动物大脑和神经系统的那张庞大通信网络里的核心单元。
+
+但直到 20 世纪 50 年代,科学家们才搞清楚神经元之间*是如何*互相通信的。
+
+轴突 (axon),神经元中传递信息的那条长长的枝丫,直径通常只有微观尺度——小到直到近代科学家都没法在上面做实验。但是在 1930 年代,英国动物学家 J. Z. Young 偶然发现,乌贼可以彻底改变我们的理解——因为乌贼体内有一条异常粗大的轴突,可以拿来做实验。几十年后,科学家艾伦·霍奇金 (Alan Hodgkin) 和安德鲁·赫胥黎 (Andrew Huxley) 利用乌贼的巨型轴突,一锤定音地弄清楚了神经元是如何发送信息的:动作电位 (action potential)。它是这么工作的。
+
+神经元有很多不同种类——[19](#footnote2-19-6120)
+
+[![](/images/neuralink/neuron_types.gif)](https://waitbutwhy.com/wp-content/uploads/2018/04/neuron_types.gif)
+
+——但为了简单起见,我们只讨论那种教科书里最俗套的神经元——锥体细胞 (pyramidal cell),比如你运动皮层里可能会找到的那种。要画一张神经元的图,我们可以先从一个小人儿开始:
+
+[![](/images/neuralink/Neuron-guy-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Neuron-guy-1.png)
+
+然后我们给他多加几条腿、加点头发、把胳膊撤掉、再把他拉长——就成了一个神经元。
+
+[![](/images/neuralink/Neuron-guy-2.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Neuron-guy-2.png)
+
+再多加几个神经元。
+
+[![](/images/neuralink/Neuron-guy-3.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Neuron-guy-3.png)
+
+与其一头扎进动作电位如何工作的完整、详细解释——那里头一堆你在 9 年级生物课上已经受过一遍罪的、既没必要又没意思的技术细节——我就把可汗学院这篇很棒的[讲解文章](https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/the-synapse)链在这儿,想看完整版的自己去。我们只走一遍跟我们目的相关的最基础的概念。
+
+所以我们这位小人的身体主干——神经元的**轴突 (axon)**——有一个负的「静息电位」,意思是它在休息状态下,电荷略微偏负。无时无刻都有一堆人的脚踩在[12](#footnote-12-6120)我们这位小人的头发上——也就是神经元的**树突 (dendrites)**——不管他愿不愿意。他们的脚会往他头发上滴一些叫做**神经递质 (neurotransmitters)** [13](#footnote-13-6120)的化学物质——这些物质穿过他的脑袋(细胞体,或称**胞体 (soma)**),根据化学物质的不同,让他体内的电荷略微升高或降低。这对我们的神经元小人来说有点不爽,但也没什么大不了——啥事也不会发生。
+
+[![](/images/neuralink/Neuron-guy-4.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Neuron-guy-4.png)
+
+但如果碰他头发的化学物质足够多,把他的电荷升高到某个临界点——神经元的「阈值电位」——那就会触发一次**动作电位 (action potential)**,我们的小人就被电了。
+
+[![](/images/neuralink/Neuron-guy-5.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Neuron-guy-5.png)
+
+这是个二元情况——要么*啥事没有*,要么他被彻底电一下。他不能被电一半,也不能被电得更狠——要么完全没被电,要么每一次都被电到完全一样的程度。
+
+当这一切发生时,一股电脉冲(表现为他体内正常电荷从负短暂反转为正、再迅速回到正常负值)会顺着他的身体(轴突)一路窜到他的脚——也就是神经元的**轴突末梢 (axon terminals)**——这些末梢又踩在一堆其他人的头发上(接触点叫做**突触 (synapses)**)。当动作电位到达他的脚时,会让脚往它们踩着的头发上释放化学物质,这些物质可能会、也可能不会让那些人跟他一样被电到。
+
+[![](/images/neuralink/Neuron-guy-6.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Neuron-guy-6.png)
+
+信息在神经系统里通常就是这么传的——神经元之间的微小间隙里发送化学信息,触发电信息*穿过*神经元本身——但有时候,当身体需要格外快速地传递信号时,神经元与神经元之间的连接也可以是电性的。
+
+动作电位以每秒 1 到 100 米的速度传播。范围这么大的部分原因是,神经系统里还有另一种细胞——施旺细胞 (Schwann cell)——它就像一位超级慈爱的奶奶,不停地给某些类型的轴突裹上一层层脂肪毯子,叫做**髓鞘 (myelin sheath)**。就像这样(要等一会儿才开始):[20](#footnote2-20-6120)
+
+[![](/images/neuralink/Myelinani.gif)](https://waitbutwhy.com/wp-content/uploads/2018/04/Myelinani.gif)
+
+除了提供保护和绝缘之外,髓鞘还是通信速度的一个关键因素——当轴突被髓鞘包裹时,动作电位穿过它们的速度*要快得多*:[14](#footnote-14-6120)[21](#footnote2-21-6120)
+
+[![](/images/neuralink/ezgif.com-optimize-2.gif)](https://waitbutwhy.com/wp-content/uploads/2018/04/ezgif.com-optimize-2.gif)
+
+关于髓鞘带来的速度差异,有个很好的例子:你知道当你脚趾踢到东西的那一刻,身体会给你一秒钟的反应时间,让你思考自己刚干了啥、马上要感受到什么,然后真正的疼痛才姗姗来迟?这里发生的事情是,你能立刻感受到脚趾撞击的触感和那种尖锐的痛感,因为尖锐痛的信息是通过有髓鞘的轴突传给大脑的。而钝痛则要过一两秒才发作,因为钝痛是通过*没有髓鞘*的"C 类纤维"传递的——速度只有大约每秒 1 米。
+
+**神经网络**
+
+神经元在某种程度上跟计算机的晶体管有点像——它们也用 1(动作电位放电)和 0(不放电)的二进制语言传输信息。但和晶体管不同的是,大脑里的神经元一直在变化。
+
+你有没有过这种体验:某天学会一项新技能,当天练得挺熟练,结果第二天再上手又拉胯了?这是因为前一天让你变熟练的其实是神经元信号传递中*化学物质*的量或浓度的调整。反复练习让化学物质发生了调整,帮你进步了,但第二天化学物质又回到了正常水平,进步也就没了。
+
+但要是你*一直*练下去,最终就会以持久的方式掌握某项技能。这时发生的事情是,你告诉了大脑:"这不是一次性用完就丢的东西",于是大脑的神经网络做出回应,对自己进行了*结构上的改变*,而且是能持久保留的那种。神经元改变了形状和位置,加强或削弱了各种连接,搭建出一套硬连线的通路,专门知道该怎么执行那项技能。
+
+神经元能在化学层面、结构层面甚至功能层面改造自己,这让你大脑的神经网络能针对外部世界优化自身——这种现象叫作*神经可塑性 (neuroplasticity)*。婴儿的大脑是神经可塑性最强的。一个婴儿刚出生时,他的大脑并不知道自己将来是要适应一个需要极其擅长剑术的中世纪武士的人生,还是要成为一名 17 世纪的音乐家、需要为弹奏羽管键琴培养精细的肌肉记忆,又或者要变成一个现代知识分子、得存储和整理海量信息、驾驭复杂的社会关系网——但婴儿的大脑已经准备好塑造自己,去应对人生给它安排的一切。
+
+婴儿是神经可塑性的超级明星,但神经可塑性会伴随我们一生,这也是为什么人类能够成长、改变、学习新事物。也正是因为如此,我们能养成新习惯、戒掉旧习惯——你的习惯反映了你大脑中现有的神经回路。如果你想改变习惯,就得使出大量意志力去覆盖大脑的神经通路,但只要你坚持得够久,大脑最终会领会到暗示并改造那些通路,新行为就不再需要意志力了。你的大脑会以物理方式把这些改变构建成一个新习惯。
+
+加起来,大脑里大约有 1000 亿个神经元,构成了这张大到不可思议的网络——数量堪比银河系的恒星数,是全世界人口的 10 倍以上。其中大约 150 亿到 200 亿个神经元位于皮层,剩下的都在你大脑里那些「动物脑」的部分(令人意外的是,那个平平无奇的小脑,神经元数量比皮层多了三倍以上)。
+
+我们再缩回来看一下大脑的另一个横截面——这次不是从前到后切开只显示一个半球,而是从左到右切:[22](#footnote2-22-6120)
+
+[![](/images/neuralink/brain-white-matter-grey-matter-cross-section.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/brain-white-matter-grey-matter-cross-section.jpg)
+
+大脑物质可以分为所谓的**灰质**和**白质**。灰质其实看起来颜色更深,由大脑神经元的胞体(soma)以及它们那一大丛树突和轴突构成——再加上一堆其他东西。白质则主要由「线路」构成——也就是那些把信息从一个胞体传到另一个胞体、或传到身体各处的轴突。白质之所以是白的,是因为这些轴突通常都包裹着髓鞘,一种脂肪状的白色组织。
+
+大脑里有两大块灰质区域——一块是我们上面讨论过的、位于内部的边缘系统和脑干,另一块是包在外面那层五分硬币厚的皮层。夹在中间那一大团白质,主要由皮层神经元的轴突组成。皮层就像一个伟大的指挥中心,它下达的很多命令,都是通过下方那一大团轴突(也就是白质)发射出去的。
+
+我目前见过对这个概念最酷的图解[15](#footnote-15-6120),是 Greg A. Dunn 博士和 Brian Edwards 博士做的[一组精美的艺术呈现](http://www.gregadunn.com/self-reflected/self-reflected-gallery/)。看看外层灰质皮层与其下方白质在结构上的鲜明差异(点击查看高清):
+
+[![](/images/neuralink/Self-Reflected-in-violets.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/Self-Reflected-in-violets-1.jpg) [![](/images/neuralink/Motor-and-Parietal-cortex-2.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/Motor-and-Parietal-cortex-2-1.jpg)
+
+这些皮层轴突可能把信息送往皮层的另一个区域,或者送到大脑下部,或者穿过脊髓——神经系统的高速公路——然后进入身体的其他部位。[16](#footnote-16-6120)
+
+我们来看看整个神经系统:[23](#footnote2-23-6120)
+
+[![](/images/neuralink/f7fa1bdddc896c2c635a1929c6578b745a6030c2.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/f7fa1bdddc896c2c635a1929c6578b745a6030c2.png)
+
+神经系统分为两部分:**中枢神经系统 (central nervous system)** ——也就是你的大脑和脊髓——以及 **周围神经系统 (peripheral nervous system)** ——由从脊髓向外辐射到身体其他部位的神经元组成。
+
+大多数神经元属于 **中间神经元 (interneurons)** ——也就是与其他神经元通信的神经元。当你思考时,就是一大堆中间神经元在互相交谈。中间神经元大部分都待在大脑里。
+
+另外两种神经元是 **感觉神经元 (sensory neurons)** 和 **运动神经元 (motor neurons)** ——它们向下延伸进入你的脊髓,构成周围神经系统。这些神经元可以长达 1 *米*。[17](#footnote-17-6120) 下面是每种神经元的典型结构:[24](#footnote2-24-6120)
+
+[![](/images/neuralink/afe8fa893b046e0dbd70425c079e2af3.511x537x1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/afe8fa893b046e0dbd70425c079e2af3.511x537x1.png)
+
+还记得我们那两条带子吗?[25](#footnote2-25-6120)
+
+[![](/images/neuralink/motor-cortex-of-the-brain-1505972E27C6C96B962.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/motor-cortex-of-the-brain-1505972E27C6C96B962.png)
+
+这两条带子就是你周围神经系统的起点。感觉神经元的轴突从体感皮层向下,穿过大脑的白质,进入脊髓(脊髓就是一大捆轴突)。从脊髓开始,它们再延伸到你身体的各个部位。你皮肤的每一块地方都布满了源自体感皮层的神经。顺便说一下,**神经 (nerve)** 就是几束轴突捆在一起形成的一小根线。这是神经的近距离图像:[26](#footnote2-26-6120)
+
+![](/images/neuralink/perner004os-1.jpg)
+
+紫色圈起来的整个东西就是神经,里面那四个大圆圈是许多轴突组成的束(这里有一张有帮助的[卡通示意图](https://waitbutwhy.com/wp-content/uploads/2018/04/main-qimg-3f670c6ad3bb29728c912a1abbec2d26.png))。
+
+所以,如果一只苍蝇落在你的胳膊上,会发生这些事:
+
+苍蝇碰到你的皮肤,刺激了一堆感觉神经。神经里的轴突末梢一阵抽搐,开始搞动作电位,把信号往大脑上传,去打小报告。信号顺着脊髓一路上行,进入体感皮层的胞体。[18](#footnote-18-6120) 体感皮层然后拍了拍运动皮层的肩膀,告诉它你胳膊上有只苍蝇,得处理一下 (真懒)。你运动皮层里连接手臂肌肉的那些胞体就开始动作电位,把信号送回脊髓再传到手臂肌肉。这些神经元末端的轴突末梢刺激你的手臂肌肉,肌肉收缩,甩动胳膊把苍蝇赶走 (这会儿苍蝇早就已经在你胳膊上[吐了一泡](http://www.womansday.com/food-recipes/food-drinks/news/a50683/the-disgusting-reason-you-should-never-eat-something-a-fly-landed-on/)),然后苍蝇 (它的神经系统现在也在经历它自己的一整套流程) 飞走了。
+
+然后你的杏仁核 (amygdala) 扫了一眼,意识到刚才有虫子在你身上,于是它告诉运动皮层来个尴尬的一跳,如果那不是苍蝇而是蜘蛛,它还会告诉你的声带不由自主地尖叫一声,毁掉你的形象。
+
+所以到这里为止,我们好像确实对大脑有点了解,对吧?但那个教授为什么会问那个问题——*如果关于大脑我们需要知道的一切是一英里,我们在这一英里里走了多远?*——而答案居然是*三英寸*?
+
+问题是这样的。
+
+你知道吧,我们完全明白单台电脑是怎么发送电子邮件的,我们也完全明白互联网的宏观概念——比如有多少人在用,最大的网站是哪些,主要趋势是什么——但中间那一堆东西——互联网的内部运作机制——就相当让人一头雾水?
+
+你也知道吧,经济学家能跟你详细讲解单个消费者是怎么行动的,也能跟你讲宏观经济的主要概念和背后的大势——但没人能真正跟你讲清楚经济到底是怎么运转的每一个来龙去脉,或者预测下个月、明年经济会发生什么?
+
+大脑就有点像这些东西。我们懂微观的部分——我们清楚神经元是怎么放电的。我们也懂宏观的部分——我们知道大脑里有多少神经元、主要的脑叶和结构负责什么、整个系统消耗多少能量。但中间那部分——大脑各个部分*究竟*是怎么干活的那些*中间*层面的东西?
+
+是的,我们不懂。
+
+真正让人看清我们有多迷糊的,是听神经科学家聊那些我们了解得*最透彻*的脑区。
+
+比如视觉皮层。我们对视觉皮层了解得相当不错,因为它容易*绘制图谱*。
+
+研究科学家 Paul Merolla 是这么跟我描述的:
+
+*视觉皮层有着非常漂亮的解剖学功能和结构。当你观察它时,你实际上看到的是一张世界地图。所以当你视野中的某个东西位于空间中某个特定区域时,你会在皮层里看到一小块代表那个空间区域的位置亮起来。而当那个东西移动的时候,有一种拓扑映射,邻近的细胞会去表征它。这就好比现实世界的笛卡尔坐标会被映射成视觉皮层里的极坐标。你可以真的一路追踪——从你的视网膜,穿过丘脑,到你的视觉皮层——你会看到空间中的这一点到视觉皮层中的这一点之间实实在在的映射。*
+
+到目前为止一切顺利。但他接着说:
+
+*所以如果你想跟视觉皮层的某些部分打交道,这种映射真的很有用。但视觉有很多区域,当你深入视觉皮层内部,情况就变得有点模糊了,这种拓扑表征开始崩溃。……大脑里有各种不同层级的东西在运作,视觉感知就是个绝佳的例子。我们看世界,外面就是这个物理的 3D 世界——比如你看一个杯子,你就看到一个杯子——但你的眼睛实际看到的其实只是一堆像素。而当你去看视觉皮层,你会发现里面大约有 20-40 张不同的地图。V1 是第一个区域,它追踪一些小的边缘、颜色之类的东西。还有其他区域负责看更复杂的物体,你的大脑表面有各种各样不同的视觉表征,你都能看到。然后不知怎么的,所有这些信息被绑在一起,汇成一股信息流,以某种方式被编码,让你相信自己只是看到了一个简单的物体。*
+
+而运动皮层——大脑里另一个我们了解得最清楚的区域之一——在细粒度层面上可能比视觉皮层还要难懂。因为尽管我们知道运动皮层的哪些*大致*区域对应身体的哪些部位,但这些运动皮层区域里的单个神经元*并不是*按拓扑方式排列的,它们协同工作在身体上产生动作的具体方式,一点都不清晰。再听 Paul 说:
+
+*每个人大脑中控制手臂动作那部分的神经元「闲聊」都有点不一样——神经元又不会说英语讲一句「动」——它是一种电活动的模式,每个人的还都有点不同。……而你希望能够无缝地理解这种活动的意思是「这样移动手臂」或「把手臂朝目标移动」或「把手臂向左移动、向上移动、抓、以某种力度抓、以某种速度伸出去」等等。我们移动的时候根本不会去想这些事——它就那么无缝地发生了。所以每个大脑都有一套独特的代码,用它来跟手臂和手上的肌肉对话。*
+
+让我们的大脑对我们如此有用的*神经可塑性 (neuroplasticity)*,同时也让它们变得极其难以理解——因为我们每个人大脑的工作方式,取决于那个大脑是怎样根据它所处的特定环境和生活经历塑造自己的。
+
+而且,这些还是我们*最了解*的大脑区域。「一旦涉及更复杂的运算,比如语言、记忆、数学,」一位专家告诉我,「我们真的不知道大脑是怎么工作的。」他哀叹道,举个例子,「母亲」这个概念在每个人大脑里都是以不同的方式、在不同的部位编码的。而在额叶——就是那个*你*真正居住的大脑区域——「根本没有任何拓扑结构可言。」
+
+但不知怎的,*这些都不是*让构建有效的脑机接口如此困难、如此令人生畏的原因。让脑机接口 (BMI) 如此艰难的,是那些*巨大无比*的工程挑战。真正让 BMI 成为世界上最难的工程项目之一的,是要*物理地*和大脑打交道。
+
+好了,大脑背景这根树干已经搭好,我们准备爬上第一根树枝了。
+
+**第三部分:脑机接口**
+
+[![](/images/neuralink/Brain-tree-Parts-3.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Brain-tree-Parts-3.png)
+
+我们先穿越回公元前 50000 年一趟,绑架一个人回到 2017 年。
+
+[![](/images/neuralink/Bok.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Bok.png)
+
+这是 Bok。Bok,我们真的很感谢你和你的族人发明了语言。
+
+[![](/images/neuralink/Bok-2.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Bok-2.png)
+
+作为感谢,我们想给你看看,因为你的发明,我们后来造出了哪些神奇的东西。
+
+[![](/images/neuralink/Bok-3-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Bok-3-1.png)
+
+好,首先我们带 Bok 坐飞机、进潜水艇、上哈利法塔顶。然后给他看望远镜、电视机和 iPhone。再让他在互联网上瞎逛一会儿。
+
+好,挺好玩的。感觉怎么样,Bok?
+
+[![](/images/neuralink/Bok-4.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Bok-4.png)
+
+嗯,我们就猜到你会挺震惊的。最后,让我们给他看看我们是怎么互相交流的。
+
+[![](/images/neuralink/Bok-5-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Bok-5-1.png) [![](/images/neuralink/Bok-6-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Bok-6-1.png) [![](/images/neuralink/Bok-7-2.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Bok-7-2.png) [![](/images/neuralink/Bok-8-2.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Bok-8-2.png)[![](/images/neuralink/Bok-9-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Bok-9-1.png) [![](/images/neuralink/Bok-10-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Bok-10-1.png)
+
+假如 Bok 得知,人类因为学会了彼此交谈而获得了那么多神奇的力量,可当真正涉及到彼此交谈这件事本身时,我们并不比他那个年代的人更神奇——他一定会大吃一惊。当两个人在一起说话时,他们用的还是 5 万年前的那套技术。
+
+Bok 可能还会惊讶地发现,在一个由花哨机器运转的世界里,造出这些机器的人依然顶着和 Bok 及他的朋友们一样的生物身体走来走去。这怎么可能?
+
+[![](/images/neuralink/Bok-11.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Bok-11.png)
+
+这就是为什么脑机接口 (brain-machine interfaces)——它属于更广义的神经工程 (neural engineering) 领域的一个子集,而神经工程本身又是生物技术的一个子集——如此令人心动地成为一个新兴产业。我们靠技术征服了这个世界一次又一次,可一旦事情涉及大脑——我们最核心的工具——科技界大多都被吓得不敢下水。
+
+这就是为什么我们至今仍在用 Bok 发明的技术进行交流,这就是为什么我打这句话的速度只有我脑子里想它的二十分之一,这也是为什么与大脑相关的疾病依然让那么多人的生活遭受重创甚至彻底失去。
+
+但在大脑那个伟大的「啊哈!」时刻之后 5 万年,这一切也许终于要改变了。大脑的下一个伟大边疆,或许就是它自己。
+---
+潜在的脑机接口(有时也叫脑—计算机接口 (brain-computer interface))有很多种,会服务于各种不同的功能。但所有做脑机接口 (BMI) 的人都在跟以下两个问题中的一个或两个较劲:
+
+**1) 我怎么把正确的信息从大脑里取出来?**
+
+**2) 我怎么把正确的信息送进大脑里去?**
+
+第一个问题是关于捕捉大脑的*输出*——也就是**记录**神经元在说什么。
+
+第二个问题是关于把信息*输入*大脑天然的信息流,或者用别的方式改变那股天然的信息流——也就是**刺激**神经元。
+
+这两件事其实一直都在你的大脑里自然而然地发生着。此刻,你的眼睛正在做一组特定的水平运动,让你能读这句话。这就是大脑的神经元向一台机器(你的眼睛)输出信息,而这台机器接收指令并作出响应。而当你的眼睛以恰到好处的方式移动时,屏幕上的光子进入你的视网膜,以某种方式刺激你大脑皮层枕叶 (occipital lobe) 里的神经元,让文字的图像得以进入你的「心灵之眼」。这个图像接着又刺激你大脑另一部分的神经元,让你能够处理图像中包含的信息、吸收这句话的含义。
+
+输入和输出信息,就是大脑神经元*在做的事*。整个脑机接口产业无非就是想插一脚进来。
+
+乍一看,这任务好像也没*那么*难?大脑不就是一颗果冻球嘛,对吧?而皮层——也就是我们最想在里面记录和刺激的那部分——不过是一张餐巾纸,还很贴心地铺在大脑最外层,想够到易如反掌。皮层里有大约 200 亿个放电的神经元——200 亿个黏糊糊的小晶体管,只要我们学会跟它们打交道,就能在生活、健康以及整个世界上获得一个全新层级的掌控力。这我们搞不定吗?神经元是小,但我们连原子都能劈开。一个神经元的直径大约是一个原子的 10 万倍——要是原子是颗弹珠,那神经元就有一公里宽——所以这点小尺寸我们应该能对付吧。对吧?
+
+那问题到底出在哪儿?
+
+嗯,一方面,这种想法有点道理,正因为上面这些事实,这**是**一个可能取得巨大进展的行业。我们**能**搞定这件事。
+
+但只有当你真正理解大脑里到底在发生什么,你才会明白为什么这大概是人类有史以来最艰难的一项事业。
+
+所以在我们聊 BMI 本身之前,我们得先近距离看看那些想造 BMI 的人到底在应付什么东西。我发现最好的方式,是把大脑精确放大 1,000 倍,然后看看里面在发生什么。
+
+还记得刚才那个「皮层就是一张餐巾纸」的演示吗?
+
+[![](/images/neuralink/Brain-on-napkin.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Brain-on-napkin.png)
+
+好,把它放大 1,000 倍——原本每边约 48 厘米 / 19 英寸的皮层餐巾纸,现在每边有六个曼哈顿街区那么长(或者两个大道街区)。你要绕它走一圈得花大约 25 分钟。而整个大脑现在正好能塞进一个两街区乘两街区的方块里——差不多就是麦迪逊广场花园 (Madison Square Garden) 的大小(长宽是这样,但高度大概是 MSG 的两倍)。
+
+[![](/images/neuralink/outline-on-manhattan.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/outline-on-manhattan.jpg)
+
+那咱们就把它真的铺到城市里试试。我相信住在那里的那几十万人是能理解的。
+
+[![](/images/neuralink/brain-on-manhattan.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/brain-on-manhattan.jpg)
+
+我之所以选 1,000 倍这个放大系数,有几个原因。一是我们都能瞬间在脑子里换算尺寸。真实大脑里的每一毫米,现在就是一米。而在神经元那个小得多的世界里,每一微米现在就是很好理解的一毫米。第二个原因很凑巧,这样正好把皮层放大到人体尺度——它 2 毫米的厚度现在变成了两米——差不多是一个大高个 (6 英尺 6 寸) 男人的身高。
+
+所以我们可以走到第 29 街,走到那块巨型皮层餐巾的边缘,轻松地看看那两米厚里面究竟发生了什么。为了演示,让我们从巨型皮层中挖出一立方米来检查一下,这将向我们展示真实皮层中一个典型的立方毫米里正在发生什么。
+
+[![](/images/neuralink/Brain-cube-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Brain-cube-1.png)
+
+我们在那一立方米里看到的会是一团*乱麻*。让我们把它清空,然后重新组装起来。
+
+首先,让我们把胞体 (soma)[19](#footnote-19-6120)放进去——也就是住在这个立方体里的所有神经元的小小身体。
+
+胞体大小不一,但和我聊过的神经科学家说,皮层里神经元的胞体通常直径在 10 到 15 微米左右(µm = 微米:千分之一毫米)。这意味着,如果你把 7 到 10 个胞体排成一条线,这条线大约就是一根人类头发的直径(大约 100 微米)。在我们的放大比例下,一个胞体的直径就变成了 1 到 1.5 厘米。一颗弹珠那么大。
+
+整个皮层的体积大约在 50 万立方毫米左右,而这块空间里大约装着 200 亿个胞体。这意味着平均每立方毫米的皮层里含有约 40,000 个神经元。所以我们那个立方米的盒子里有 40,000 颗弹珠。如果我们把盒子分成大约 40,000 个立方空间,每个边长 3 厘米(大约一立方英寸),那意味着每颗胞体弹珠都位于自己那个小 3 厘米立方体的中心,其他胞体在各个方向上都离它大约 3 厘米。
+
+跟上了吗?你能想象出我们那个一米见方的立方体里漂浮着 40,000 颗弹珠的画面吗?
+
+这是真实皮层中胞体的一张显微镜图像,用了一种能屏蔽掉周围其他东西的技术:[27](#footnote2-27-6120)
+
+[![](/images/neuralink/B9781416050094500182_f10-06-9781416050094.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/B9781416050094500182_f10-06-9781416050094.jpg)
+
+好,到目前为止还不算太疯狂。但胞体只是每个神经元的一小部分。从每颗弹珠大小的胞体向外辐射出的,是弯弯曲曲、分岔繁密的树突 (dendrite),在我们放大后的大脑里,它们能朝各个方向伸出三四米长;而从另一端伸出的轴突 (axon),可以超过 100 米长(当它横向延伸到皮层的另一部分时),或者长达*一公里*(当它向下延伸进脊髓和身体时)。每根都只有大约一毫米粗,这些线缆把皮层变成了一团密密麻麻的电子意大利面。
+
+而在那团意大利面糊里发生的事情可多了。每个神经元与多达 1,000 个——有时高达 10,000 个——其他神经元有突触连接。皮层里大约有 200 亿个神经元,这意味着皮层里有超过 20 *万亿*个单独的神经连接(而整个大脑里的连接数可高达一千万亿)。仅在我们这一立方米里,就会有超过 2000 万个突触。
+
+让事情更复杂的是,从我们立方体里那 40,000 颗弹珠中的*每一颗*伸出来的意大利面条不止一根,而且还有成千上万根来自皮层*其他部位*的意大利面条穿过我们这个立方体。这意味着如果我们想在这个特定的立方区域内记录信号或刺激神经元,那就难了——在这堆乱糟糟的意大利面里,要搞清楚哪根面条属于*我们的*胞体弹珠会非常困难(而且千万别让 [浦肯野 (Purkinje) 细胞](http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2018/04/Purkinje_cell_by_Cajal.png) 混进来,拜托了)。
+
+当然,还有神经可塑性这档子事。每个神经元的电压都在不停变化,一秒钟能变化几百次。我们立方体里那几千万个突触连接也在有规律地改变大小、消失、再出现。
+
+要是这就完了就好了。
+
+事实证明,大脑里还有另一类细胞叫**神经胶质细胞 (glial cells)**——它们有很多不同种类,承担很多不同功能,比如清理释放到突触里的化学物质、给轴突包上髓鞘,以及充当大脑的免疫系统。以下是几种常见的胶质细胞:[28](#footnote2-28-6120)
+
+**[![](/images/neuralink/all_glia.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/all_glia.jpg)**
+
+那皮层里有多少胶质细胞呢?大约*和神经元数量差不多*。[20](#footnote-20-6120) 所以再往我们的立方体里塞 40,000 个这种奇奇怪怪的玩意儿。
+
+最后,还有血管。皮层里每一立方毫米中,总共有*一米*长的微小血管。按我们的比例,这意味着在我们那一立方米里,有*一公里*长的血管。差不多这么大空间里的血管看起来是这样的:[29](#footnote2-29-6120)
+
+[![](/images/neuralink/nihms-666209-f0001.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/nihms-666209-f0001.jpg)
+
+**连接组蓝盒子**
+
+现在神经科学界有一个了不起的项目正在进行,叫做 [人类连接组计划 (Human Connectome Project)](http://www.humanconnectomeproject.org/)(读作 "connec-tome"),科学家们正试图绘制一张完整详尽的人脑地图。以往的大脑绘图工作没有一项能与之规模相提并论。[21](#footnote-21-6120)
+
+这个项目需要 [把人脑切片](http://www.nytimes.com/2010/12/28/science/28brain.html?pagewanted=all&_r=0),切成薄得离谱的切片——大约 30 *纳米*厚。也就是三万三千分之一毫米(这里是一台机器在 [切片](http://www.microscopedia.com/Content/Press/31977.jpg) 一个小鼠大脑)。
+
+总之,这个项目除了产出一些 [美到爆的图像](http://www.humanconnectomeproject.org/gallery/),展示白质内部那些功能相似的轴突常常形成的"带状"结构之外——比如——
+
+[![](/images/neuralink/White-Matter-Fibers-HCP-Dataset-side-view-720x594.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/White-Matter-Fibers-HCP-Dataset-side-view-720x594.jpg)
+
+——连接组计划 (connectome project) 帮人们直观看到了大脑里到底塞了多少这种东西。下面这张图把一小块老鼠大脑里发生的各种事情拆开来展示(而且这还没算血管):[30](#footnote2-30-6120)
+
+[![](/images/neuralink/gr3.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/gr3.jpg)
+
+(图中 E 是完整的大脑切片,F–N 分别是构成 E 的各个组成部分。)
+
+所以我们这个电表箱就是一坨塞得满满当当、黏糊糊、通着电、密度高到爆的复杂体——现在请你回想一下,现实中箱子里的这一切,其实全都塞在一个立方**毫米**里。
+
+而脑机接口工程师们就得搞清楚埋在这一毫米里的那些微观胞体在说什么,有时候还要**精准地**刺激对的胞体,让它们做工程师想让它们做的事。**祝你好运。**
+
+**咱们**在放大 1000 倍的大脑上做这件事都会难到爆炸。而且咱们这个 1000 倍的大脑还刚好是一张平整的餐巾纸。现实里可不是这样——通常餐巾纸是铺在麦迪逊广场花园大脑的顶上,而且布满了很深的褶皱(按我们的比例,深度在 5 到 30 米之间)。事实上,皮层餐巾纸只有不到**三分之一**露在大脑表面——大部分都埋在褶皱里。
+
+而且,工程师也不是在实验室里对着一堆裸露的大脑做手术。大脑外面裹着那一层套一层的俄罗斯套娃,包括头骨——按 1000 倍算大概有 7 米厚。而且大多数人可不太乐意让你把他们的头骨长时间敞开——最好压根别开——所以你得尽可能非侵入地跟那些小弹珠打交道。
+
+而且这还只是在处理皮层的情况——很多酷炫的脑机接口构想其实针对的是下方的结构,如果你站在我们这个麦迪逊广场花园大脑的顶上,那些结构埋在地下 50 米或 100 米深的地方。
+
+放大 1000 倍这个游戏还狠狠敲打了我们一下:大脑到底有多大。想想我们这个立方体里塞了多少东西——然后记住,这只是**皮层的五十万分之一**。如果我们把整个巨型皮层切成类似的立方米方块,一个个排开,能延伸 500 公里 / 310 英里——一路排到波士顿还没完。而且如果你走这一趟——快步走的话得走 100 多小时——你随便在哪儿停下来,看一眼旁边路过的那个立方体,里面都装着所有这些复杂的东西。**这一切**现在都在你的脑袋里。
+
+**Part 3A:你有多庆幸这不是你要解决的问题**
+
+真的太庆幸了。
+
+**回到 Part 3:脑机接口**
+
+那科学家和工程师们到底怎么开始搞定这摊事的?
+
+好吧,他们只能用手头现有的工具尽力而为——也就是用来记录或刺激神经元的工具(我们暂时先聚焦在记录这一侧)。让我们来看看有哪些选项:
+
+**BMI 工具**
+
+在目前正在开展的工作中,评价一种记录工具优劣时,似乎有三条大的标准最为突出:
+
+**1) 规模 (Scale)** —— 能同时记录多少个神经元
+
+**2) 分辨率 (Resolution)** —— 工具接收到的信息有多细致——分辨率分两种,**空间分辨率** (spatial)(记录的结果有多接近告诉你单个神经元是如何放电的)和**时间分辨率** (temporal)(你能多准确地判断记录到的活动是*什么时候*发生的)
+
+**3) 侵入性 (Invasiveness)** —— 是否需要动手术,以及如果需要,规模有多大
+
+长期目标当然是三块蛋糕都要,而且都吃掉。但目前而言,问题永远都是:「这三条里,你愿意在哪一条(或哪两条)上完全牺牲?」从一种工具换到另一种并不是整体的升级或降级——而是取舍。
+
+我们来看看目前正在使用的工具类型:
+
+**功能性磁共振成像 (fMRI)**
+
+**规模:**高(它能显示整个大脑范围的信息)
+
+**分辨率:**空间分辨率中低,时间分辨率非常低
+
+**侵入性:**非侵入式
+
+fMRI 通常不用于 BMI,但它是一种经典的*记录*工具——它能告诉你大脑内部正在发生什么。
+
+fMRI 使用的是 MRI——磁共振成像 (magnetic resonance imaging)——技术。MRI 发明于 1970 年代,是基于 X 射线的 CAT 扫描的进化版。它不用 X 射线,而是用磁场(以及无线电波和其他信号)来生成身体和大脑的图像。就像这样:[31](#footnote2-31-6120)
+
+[![](/images/neuralink/f.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/f.jpg)
+
+再加上这一整套横截面图,让你可以透视整个头部。
+
+技术挺牛的。
+
+fMRI(「functional」MRI,即功能性 MRI)则用类似的技术来追踪*血流*的变化。为什么?因为当大脑某些区域变得更活跃时,它们会消耗更多能量,所以需要更多氧气——于是流向该区域的血流就会增加,以输送氧气。血流间接地指示了活动发生的位置。以下是一张 fMRI 扫描图可能呈现的样子:[32](#footnote2-32-6120)
+
+[![](/images/neuralink/7728527_f520.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/7728527_f520.jpg)
+
+当然,大脑各处始终都有血——这张图显示的是血流*增加*的位置(红/橙/黄)和血流*减少*的位置(蓝)。由于 fMRI 可以扫描整个大脑,结果是三维的:
+
+[![](/images/neuralink/fmriHeadCrossSection.gif)](https://waitbutwhy.com/wp-content/uploads/2018/04/fmriHeadCrossSection.gif)
+
+功能性磁共振成像有很多医学用途,比如告知医生某个中风患者大脑的特定区域是否还在正常运作,而且它也让神经科学家们弄明白了大量关于哪些脑区负责哪些功能的知识。扫描的另一个好处是能提供任何时刻整个大脑的活动信息,而且既安全又完全无创。
+
+它最大的缺点是分辨率。fMRI 扫描有一种字面意义上的分辨率,就像电脑屏幕的像素一样,只不过这些像素是三维的、立方体的体积像素——即「体素 (voxel)」。
+
+随着技术进步,fMRI 的体素越来越小,空间分辨率也随之提升。如今的 fMRI 体素可以小到一立方毫米。大脑的体积大约是 1,200,000 立方毫米,所以一次高分辨率的 fMRI 扫描会把大脑切成大约一百万个小立方体。问题是,在神经元尺度上,这仍然是相当巨大的(和上面我们放大后的一立方米差不多大)——每个体素里包含几万个神经元。所以 fMRI 给你看的,充其量也就是每一群大约 40,000 个神经元所吸引的平均血流量。
+
+更大的问题是时间分辨率。fMRI 追踪的是血流,这既不精确,而且还有大约一秒的延迟——在神经元的世界里,这就是永恒。
+
+**脑电图 (EEG)**
+
+**规模:**高
+
+**分辨率:**空间分辨率极低,时间分辨率中高
+
+**侵入性:**无创
+
+脑电图 (EEG, electroencephalography) 的历史可以追溯到近一个世纪前,它是在你头上放一排电极。就是这种东西:[33](#footnote2-33-6120)
+
+[![](/images/neuralink/EEG-cap-262x300.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/EEG-cap-262x300.jpg)
+
+在 2050 年的人眼里,EEG 肯定会显得原始得可笑,但目前它是仅有的几种可以用于脑机接口且完全无创的工具之一。EEG 记录大脑不同区域的电活动,并把结果显示成这样:[34](#footnote2-34-6120)
+
+[![](/images/neuralink/Human_EEG_with_prominent_alpha-rhythm.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Human_EEG_with_prominent_alpha-rhythm.png)
+
+EEG 图谱可以揭示像癫痫这样的医学问题的信息,追踪睡眠模式,或者用来判断麻醉剂量的状态之类的东西。
+
+而且不像 fMRI,EEG 的时间分辨率相当不错,能在大脑产生电信号的那一刻就采集到——不过颅骨会大大模糊时间上的准确性(骨头是不良导体)。
+
+主要缺点是空间分辨率。EEG 完全没有空间分辨率可言。每个电极只能记录一个宽泛的平均值——是几百万甚至几十亿个神经元电荷的矢量和(而且由于颅骨的存在,这个和还是模糊的)。
+
+想象一下,大脑是一个棒球场,神经元是场内观众,而我们想要的信息不是电活动,而是声带活动。这样的话,脑电图就像一组放在球场外墙上的麦克风。你能听到观众什么时候在欢呼,或许还能猜出他们在为什么欢呼。你能听出一些标志性的迹象,判断现在是不是在换局,或者比赛比分是不是很接近。你大概也能察觉到有什么反常的事情发生。但也就这样了。
+
+**皮层脑电图 (ECoG)**
+
+**规模:**高
+
+**分辨率:**空间低,时间高
+
+**侵入性:**有点侵入
+
+皮层脑电图 (ECoG, electrocorticography) 和脑电图思路相似,同样使用表面电极——只不过是把电极放在颅骨*下面*,直接贴在大脑表面。[35](#footnote2-35-6120)
+
+[![](/images/neuralink/Intracranial_electrode_grid_for_electrocorticography-600x600.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Intracranial_electrode_grid_for_electrocorticography.png)
+
+有点恶心。但很有效——至少比脑电图有效得多。没有了颅骨模糊信号的干扰,ECoG 拥有更高的空间分辨率(约 1 厘米)和时间分辨率(5 毫秒)。ECoG 电极可以放在硬脑膜的上面或下面:[36](#footnote2-36-6120)
+
+[![](/images/neuralink/layersofthebrain-600x252.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/layersofthebrain.png)
+
+回到我们的球场比喻,ECoG 麦克风在球场*里面*,离观众更近一点。所以声音比 EEG 麦克风在球场外收到的要清晰得多,ECoG 麦克风也能更好地分辨出观众各个区域的声音。但这种提升是有代价的——需要做侵入性手术。不过在各种侵入性手术里,这个还算不上多严重。一位神经外科医生跟我描述说:「你可以相对非侵入性地把东西滑到硬脑膜下面。虽然还是得在头上开个洞,但相对来说不算太侵入。」
+
+**局部场电位 (Local Field Potential)**
+
+**规模:**低
+
+**分辨率:**空间中低,时间高
+
+**侵入性:**非常侵入
+
+好,从这里开始,我们从表面电极片切换到微电极——外科医生扎进大脑里的极细小针头。
+
+脑外科医生 Ben Rapoport 跟我描述过他父亲(一位神经科医生)以前是怎么制作微电极的:
+
+*我父亲以前是手工制作电极的。他会拿一根非常细的金属丝——比如金丝、铂丝或铱丝,直径大约 10 到 30 微米,把这根丝插进一根直径大约 1 毫米的玻璃毛细管里。然后他们会把这块玻璃放到火上,一边旋转一边加热,直到玻璃变软。他们会把毛细管拉长,拉到极细,然后从火里拿出来折断。这时毛细管就紧贴住了金属丝,把它捏得死死的。玻璃是绝缘体,金属丝是导体。所以你最后得到的就是一根玻璃绝缘的硬电极,尖端可能只有几十微米。*
+
+如今,虽然有些电极还是手工做的,但更新的技术会用硅晶圆,以及从集成电路行业借来的制造工艺。
+
+局部场电位 (local field potentials, LFP) 的工作原理很简单——你拿一根这种带电极尖端的超细针,把它扎进大脑皮层一两毫米深。在那里,它会采集电极周围一定半径内所有神经元的平均电活动。
+
+LFP 给你的是 fMRI 那种还不错的空间分辨率,再加上 ECoG 那种即时的时间分辨率。就分辨率来说,算是集上面所有方法之大成。
+
+不幸的是,它在另外两个维度上都很糟糕。
+
+不像 fMRI、EEG 和 ECoG,微电极 LFP 没有规模——它*只能*告诉你它周围那个小球体里在发生什么。而且它侵入性大得多,毕竟是真的扎进了脑子里。
+
+在棒球场比喻里,LFP 就是一个吊在某一片看台上方的单个麦克风,能清晰地录到那一片区域的声音,偶尔可能还能捕捉到某个人的声音一两秒——但除此之外只能感受到大致的氛围。
+
+一个更近期的发展是**多电极阵列 (multielectrode array)**,思路和 LFP 一样,只不过是在皮层的同一片区域里同时布上大约 100 个 LFP。多电极阵列长这样:[37](#footnote2-37-6120)
+
+[![](/images/neuralink/Focus-stack-penny_sm-600x400.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/Focus-stack-penny_sm.jpg)
+
+一个 4 毫米 x 4 毫米的小方块,上面有 100 根微小的硅电极。再来一张图,你可以看到这些电极有多尖——尖端只有几微米宽:[38](#footnote2-38-6120)
+
+[![](/images/neuralink/jmm294120fig01.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/jmm294120fig01.jpg)
+
+**单神经元记录 (Single-Unit Recording)**
+
+**规模:**极小
+
+**分辨率:**超高
+
+**侵入性:**非常强
+
+为了记录范围更广的 LFP,电极尖端做得稍微圆一点,以增加电极的表面积,同时把电阻调低,目的是让来自更大范围内的极微弱信号也能被采集到。最后的结果是,电极会拾到局部场里一整片合唱般的活动。
+
+单神经元记录 (single-unit recording) 也用针状电极,但针尖被打磨得超级锋利,电阻也调得极高。这就把大部分噪声都过滤掉了,让电极几乎什么都收不到——直到它离某个神经元*足够*近(大约 50µm),那个神经元的信号才强到能穿过电极的高电阻壁垒。有了单个神经元清晰的信号,又没有背景噪声,这个电极就可以偷窥单个神经元的私生活了。尺度最小,分辨率最高。
+
+顺便说一句,你可以[在这里](https://www.youtube.com/watch?v=8bxpz-YEuao)听神经元放电的声音(你实际听到的是神经元的电化学放电,被转换成了音频)。
+
+有些电极想把关系升级到下一阶段,会用一种叫做**膜片钳 (patch clamp)** 的技术——它会把电极尖端去掉,只留下一根叫做玻璃微管的极细小管,[22](#footnote-22-6120) 然后真的直接对神经元动手——把神经元膜的一小「片」吸进管子里,从而实现更精细的测量:[39](#footnote2-39-6120)
+
+[![](/images/neuralink/2009_06a.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/2009_06a.jpg)
+
+膜片钳还有个好处:不像我们前面讨论过的其他方法,因为它是物理接触神经元的,所以它不仅能记录,还能*刺激*神经元,[23](#footnote-23-6120) 可以注入电流或者把电压保持在设定值来做特定测试(其他方法也能刺激神经元,但只能整组一起刺激)。
+
+最后,电极还可以彻底玷污神经元,真的刺穿细胞膜,这叫做**锐电极记录 (sharp electrode recording)**。如果针尖足够锋利,这不会毁掉细胞——细胞膜实际上会围着电极自动密封,让刺激神经元或记录神经元膜内外电压差变得非常容易。但这是短期技术——一个被扎穿的神经元活不了多久。
+
+在我们的体育场比喻里,单神经元记录相当于夹在某个观众衣领上的定向麦克风。膜片钳或锐电极记录则是塞在某人喉咙里的麦克风,记录他声带的精确运动。这是了解那个人观赛体验的绝佳方式,但你完全没有上下文,也没法判断这个人的声音和反应是否代表了整场比赛的情况。
+
+这就是我们现在拥有的东西——至少是常用的东西。这些工具既是难以置信的先进,又会在未来人类眼中像石器时代的技术——他们不会相信你居然只能*要么*高分辨率*要么*宽视野二选一,而且真的必须打开某人的*头骨*才能获得高质量的大脑读出或写入。
+
+但即便工具有限,它们也让我们对大脑有了海量的认识,并催生了一些相当惊艳的早期 BMI。以下是已经存在的东西——
+
+**我们已经拥有的 BMI**
+
+1969 年,一位名叫 Eberhard Fetz 的研究者把猴子大脑里的一个神经元连到了猴子面前的一个刻度盘上。这个神经元一放电,刻度盘就会转动。当猴子以某种方式思考、让神经元放电、刻度盘随之转动时,它就能得到一颗香蕉味的小丸子。随着时间推移,猴子在这个游戏里越玩越*好*,因为它想要更多美味的小丸子。这只猴子学会了让神经元放电,并在不经意间成了史上第一个真正的脑机接口的实验对象。
+
+接下来几十年里进展缓慢,但到了 90 年代中期,事情开始动起来了,而且从那以后一直在悄悄加速。
+
+考虑到我们对大脑的理解以及所造出的电极硬件都还相当原始,我们的努力通常集中在为那些我们理解得最好的脑区(比如运动皮层和视觉皮层)搭建一些简单直接的接口。
+
+再考虑到人体实验目前基本上只对那些试图用 BMI 缓解某种障碍的人开放——而且当前市场需求也确实在这里——我们的努力迄今几乎全都集中在为残障人士恢复丧失的功能上。
+
+未来那些能给全人类带来魔法般超能力、改变整个世界的重大 BMI 产业,现在还处在胎儿阶段——我们应该把眼下正在推进的工作,当作一组线索,用来揣摩 2040 年、2060 年、2100 年那些令人瞠目的世界会是什么模样。
+
+比如,看看这个:
+
+[![](/images/neuralink/NV_0215_Hood_alan-turing-first-computer.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/NV_0215_Hood_alan-turing-first-computer.jpg)
+
+这是艾伦·图灵 (Alan Turing) 在 1950 年造的一台计算机,叫做 Pilot ACE。放在当时,绝对是尖端货。
+
+现在再看看这个:
+
+[![](/images/neuralink/iphone-7BLACK.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/iphone-7BLACK.png)
+
+在你往下读下面这些例子的时候,我希望你想想这个类比——
+
+**Pilot ACE** 之于 **iPhone 7**
+
+就好比
+
+**下面每一个 BMI 例子** 之于 **\_\_\_\_\_**
+
+——试着想象一下那个空白里应该填什么。我们稍后会在文中回到这个空白。
+
+不管怎样,从我读到的一切以及跟这个领域的人聊过的内容来看,目前被大力研究的脑机接口,大致可以分成三个主要类别:
+
+**早期 BMI 类型 #1:把运动皮层当遥控器用**
+
+万一你把 9000 字之前提到的东西忘了——运动皮层就是这位老兄:
+
+[![](/images/neuralink/ucNSNTDc4yMxayeRNXNlpw_m.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/ucNSNTDc4yMxayeRNXNlpw_m.jpg)
+
+大脑的所有区域都让我们困惑,但运动皮层 (motor cortex) 让我们困惑的程度几乎比其他任何区域都要小。更重要的是,它**被绘制得很清楚** —— 意思是它的特定部位控制身体的特定部位(还记得那个令人不安的[小矮人 (homunculus) 图](http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2018/04/152-KB-Homonculus-Sensory-and-Motor-Cortex.png)吗?)。
+
+同样重要的是,它是大脑中负责我们**输出**的主要区域之一。当一个人**做**某件事时,几乎总是运动皮层在幕后拉线操控(至少动作的物理部分是这样)。所以人类大脑其实不需要**学习**把运动皮层当作遥控器来用,因为大脑本来就已经把运动皮层当遥控器在用了。
+
+抬起你的手。现在放下。看到没?你的手就像一个小玩具无人机,你的大脑刚刚拿起运动皮层这个遥控器,让无人机飞上去,然后又飞下来。
+
+基于运动皮层的脑机接口 (BMI) 的目标就是接入运动皮层,当遥控器发出指令时,**听到**这个指令,然后把它发送给某种机器,让机器像你的手一样做出反应。一束神经是你运动皮层和你的手之间的中间人。脑机接口就是你运动皮层和电脑之间的中间人。就这么简单。
+
+有一种最基础的接口,可以让一个人 —— 通常是脖子以下瘫痪的人或者截肢者 —— 只用意念就能移动屏幕上的光标。
+
+这一切从在这个人的运动皮层里植入一个 100 针的多电极阵列开始。瘫痪者的运动皮层通常工作得好好的 —— 只是脊髓 —— 也就是原本作为皮层和身体之间中间人的那位 —— 罢工了。所以电极阵列植入之后,研究人员会让这个人**试着**朝不同方向动他们的手臂。虽然他们做不到,但运动皮层还是会照常放电,就好像他们真的能动一样。
+
+当有人移动手臂时,他们的运动皮层会突然爆发出一阵活动——但每个神经元通常只对一种运动感兴趣。所以一个神经元可能只在这个人把手臂向右移动时才放电——但它对其他方向不感兴趣,在那些情况下就不那么活跃。因此,单单这一个神经元就能告诉计算机这个人什么时候想向右移动手臂,什么时候不想。仅此而已。但如果用一个电极*阵列*,100 个单元电极就能各自监听一个不同的神经元。[24](#footnote-24-6120) 所以做测试时,他们会让这个人尝试把手臂向右移动,可能 100 个电极中有 38 个会检测到它们对应的神经元在放电。当这个人尝试把手臂向左移时,可能另外 41 个电极会放电。在经历了一系列不同的动作、方向和速度之后,计算机会把电极数据整合起来,总结出一套一般性的理解:哪些放电模式对应 X-Y 轴上的哪种运动意图。
+
+然后当他们把这些数据接到电脑屏幕上,这个人就可以用自己的大脑,通过“尝试”移动光标,来真正控制光标。而且这真的有用。以下是通过运动皮层脑机接口先驱公司 [BrainGate](https://www.braingate.org/) 的工作,一个人只用大脑玩电子游戏的画面。
+
+而如果 100 个神经元能告诉你它们想把光标移到哪儿,那为什么它们就不能告诉你它们什么时候想端起一杯咖啡喝一口呢?这位四肢瘫痪的女士就做到了:
+
+另一位四肢瘫痪的女士在模拟器中[驾驶了一架 F-35 战斗机](https://www.washingtonpost.com/news/speaking-of-science/wp/2015/03/03/a-paralyzed-woman-flew-a-f-35-fighter-jet-in-a-simulator-using-only-her-mind/?utm_term=.d76217b806c6),最近还有一只猴子用它的大脑[坐着轮椅四处跑](https://medschool.duke.edu/about-us/news-and-communications/med-school-blog/monkeys-drive-wheelchairs-using-only-their-thoughts)。
+
+那为什么只停留在手臂上?巴西脑机接口先驱 [米格尔·尼科莱利斯 (Miguel Nicolelis)](https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it) 和他的团队搭建了一整套[外骨骼](https://www.youtube.com/watch?time_continue=76&v=mg8TAJdQKyY),让一位瘫痪的男子完成了世界杯的[开幕开球](https://www.youtube.com/watch?v=inCvbDLfXBo)。[25](#footnote-25-6120)
+
+**本体感觉蓝框**
+
+推动这类「神经义肢」(neuroprosthetics) 发展的核心在于对神经元的记录,但要让这些设备真正有效,这就不能是单行道,而必须是一个包含记录*和*刺激两条通路的*闭环*。我们平时没意识到这一点,但你能拿起一个物体,很大程度上依赖于手部皮肤和肌肉传回大脑的所有感觉信息(这叫做「本体感觉」(proprioception))。我看过一个视频,一个手指麻木的女人试图划火柴,尽管她没有任何其他残疾,但几乎完全做不到。而[这个视频](https://www.dailymotion.com/video/x12647t_the-man-who-lost-his-body-bbc-documentary_tech)的开头展示了一个运动皮层功能完好、但本体感觉受损的男人所面临的身体挣扎。所以像仿生手臂这种东西,要真正感觉像一条手臂、要真正有用,它就必须能把感觉信息回传进去。
+
+刺激神经元比记录神经元还要难。正如研究者 Flip Sabes 向我解释的:
+
+*如果我记录了一段活动模式,并不意味着我能轻易地通过回放来重现那段活动模式。你可以把它类比成太阳系里的行星。你可以观察行星运动、记录它们的轨迹。但如果你把它们全打乱了,之后想重现其中某一颗行星原本的运动,你没法就把那一颗行星放回它的轨道上——因为它会受所有其他行星的影响。同理,神经元也不是孤立工作的——所以这里存在一种根本上的不可逆性。除此之外,由于轴突和树突到处都是,你很难只刺激你想刺激的那些神经元——因为你一动手,就会碰到一大堆乱糟糟的神经元。*
+
+Flip 的实验室试图通过让大脑来帮忙,以应对这些挑战。事实证明,如果一个神经元放电时,你就奖励猴子一口鲜美的橙汁,最终这只猴子会学会按需让那个神经元放电。这样,这个神经元就可以充当另一种遥控器。这意味着,正常的运动皮层指令只是控制机制中的一种可能性。同样,在脑机接口技术好到可以完美刺激之前,你可以把大脑的神经可塑性当作一条捷径来利用。如果让某人的仿生指尖触碰东西、并回传出感觉跟他原本指尖一模一样的信号太难,那手臂就可以往大脑里发送某种*别的*信号。起初,病人会觉得这信号很怪——但最终大脑能学会把这个信号当作一种新的触觉。这个概念叫做「感觉替代」(sensory substitution),它让大脑成为脑机接口研究中的一个合作者。
+
+在这些进展之中,埋着其他未来突破性技术的种子——比如脑对脑通讯。
+
+Nicolelis 做了一个[实验](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3584574/),把一只在巴西的老鼠的运动皮层,通过互联网,连到另一只在美国的老鼠的运动皮层上。巴西那只老鼠面前放了两个透明盒子,每个盒子都装了一根杠杆,其中一个盒子里有零食。为了拿到零食,老鼠会按下装有零食那个盒子的杠杆。与此同时,在美国的那只老鼠也在一个类似的笼子里,面对两个类似的盒子——只不过和巴西那只不一样,它的盒子不是透明的,它完全不知道两根杠杆里哪根能带来零食、哪根不能。美国那只老鼠拿到的唯一信息,就是它的大脑从巴西老鼠的运动皮层收到的信号。巴西那只老鼠掌握着关键情报——但实验的规则是,只有当美国那只老鼠按对了杠杆,两只老鼠才能拿到零食。它要是按错了,谁都没得吃。神奇的是,随着时间推移,两只老鼠居然*越做越好*,开始像一个单一的神经系统一样协同工作——尽管它们俩谁都不知道对方的存在。美国那只老鼠在没有信息的情况下按对杠杆的成功率本该是 50%。而在收到巴西老鼠大脑传来的信号后,成功率飙升到了 64%。(这里有段两只老鼠工作的[视频](https://www.youtube.com/watch?v=m2_1dzwnNwE)。)
+
+这套东西,粗糙地,在人身上也成功过。两个人在不同的楼里,[合作](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0111332)玩一款电子游戏。一个人能*看到*游戏画面,另一个人手里握着手柄。他们用的是简单的脑电图 (EEG) 头戴设备——能看到画面的那个玩家,手不动,只是在脑子里*想*着自己在移动手去按手柄上的“射击”键。因为两人的脑机设备互相通着信,握着手柄的那个人手指就会不自主地抽动一下,然后按下射击键。
+
+**早期 BMI 类型 #2:人工耳朵和人工眼睛**
+
+给聋人送去声音、给盲人送去视觉,之所以属于 BMI 里比较好搞的一类,有几个原因。
+
+第一,和运动皮层一样,感觉皮层也是我们相对了解得比较透的大脑区域,部分原因是它们同样也被绘制得比较清楚。
+
+第二,在很多早期应用里,我们其实*不需要*直接和大脑打交道——我们只需要处理耳朵和眼睛*连接*到大脑的那个地方就行了,因为损伤往往就发生在那儿。
+
+而且,运动皮层那边的工作主要是*记录*神经元、把信息从大脑里*取出来*;人工感官则是反过来——通过*刺激*神经元,把信息*送进去*。
+
+在耳朵这边,最近几十年里出现了突破性的**人工耳蜗 (cochlear implant)**。
+
+**「听觉是怎么工作的」蓝框科普**
+
+当你以为自己在“听”“声音”的时候,实际发生的事情是这样的:
+
+我们所谓的“声音”,其实是你脑袋周围空气分子的振动模式。当吉他弦、某人的声带、风或者任何其他东西发出声音时,是因为它在振动,这个振动推动附近的空气分子跟着以类似的方式振动,然后这个模式以球面向外扩散——有点像有东西碰到水面时,水面会以圆形涟漪向外扩散。[26](#footnote-26-6120)
+
+你的耳朵就是一台把这些空气振动转换成电脉冲的机器。每当空气(或水,或任何其他分子能够振动的介质)进入你的耳朵,耳朵会把它精确的振动方式翻译成一串电码,发送到与之接触的神经末梢。这会引发这些神经发放一系列动作电位,把这串电码送入你的听觉皮层进行处理。你的大脑接收这些信息,而我们把接收这类特定信息的体验称为“听见”。
+
+大多数聋人或听障者并没有神经问题或听觉皮层问题——他们通常是耳朵有问题。他们的大脑和其他人一样,随时准备把电脉冲转化为听觉——只不过他们的听觉皮层压根就*没收到*任何电脉冲,因为那台负责把空气振动转换成电脉冲的机器罢工了。
+
+耳朵有很多部件,但真正完成这个关键转换的是耳蜗 (cochlea)。当振动进入耳蜗内的液体时,会带动耳蜗内壁上成千上万根细小的毛发一起振动,而这些毛发所附着的细胞会把振动的机械能转化为电信号,进而激发听觉神经。整个过程长这样:[40](#footnote2-40-6120)
+
+[![](/images/neuralink/otitis-interna.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/otitis-interna.jpg)
+
+耳蜗还会按频率对进来的声音进行分类。下面这张很酷的图解释了为什么低频音在耳蜗末端被处理、高频音在耳蜗前端被处理(顺便也解释了为什么耳朵能听到的频率有上下限):[41](#footnote2-41-6120)
+
+[![](/images/neuralink/tmp512613186340388865-600x336.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/tmp512613186340388865.png)
+
+人工耳蜗 (cochlear implant) 是一台小型计算机,一端伸出一个麦克风(架在耳朵上),另一端伸出一根导线,连接到一组沿着耳蜗排列的电极阵列。[![](/images/neuralink/62036062.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/62036062.jpg)
+
+声音进入麦克风(耳朵上方的小钩子),然后进入棕色那个东西,它会处理声音,把不太有用的频率过滤掉。然后棕色那个东西通过电感应,穿过皮肤把信息传送给电脑的另一个组件,该组件把信息转换成电脉冲,送进耳蜗。这些电极就像耳蜗一样按频率过滤脉冲,并且像耳蜗上的毛细胞一样刺激听觉神经。它从外面看起来是这样的:
+
+[![](/images/neuralink/processor-on-ear.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/processor-on-ear.jpg)
+
+换句话说,这就是一只人工耳朵,执行着耳朵原本"声音-脉冲-听觉神经"的转换功能。
+
+[听听看](https://youtu.be/00WOao4kpwM?t=3m15s)对于装有耳蜗植入体的人来说,声音是什么样的。
+
+不太行。为什么?因为要把声音以耳朵所能听到的丰富度送进大脑,你需要 3500 个电极。大多数人工耳蜗只有大约 16 个电极。[27](#footnote-27-6120) 粗糙。
+
+但我们正处于 Pilot ACE 时代——所以当然粗糙。
+
+尽管如此,今天的人工耳蜗让聋人能够听到*言语*并进行对话,这是一项开创性的进展。[28](#footnote-28-6120)
+
+许多聋哑婴儿的父母现在会在孩子一岁左右就植入人工耳蜗。比如这个婴儿,他第一次听到声音的反应,*太可爱了*。
+
+在盲人世界里,一场类似的革命也正在进行——那就是**视网膜植入体**。
+
+失明常常是由视网膜疾病引起的。在这种情况下,视网膜植入体对视觉的作用可以类比于人工耳蜗对听觉的作用(不过没那么直接)。它执行眼睛的常规功能,并以电脉冲的形式把信息交给神经,就像眼睛做的那样。
+
+视网膜植入体是一种比人工耳蜗更复杂的接口,第一个视网膜植入体在 2011 年获得 FDA 批准——由 [Second Sight](http://www.secondsight.com/) 公司制造的 Argus II 植入体。视网膜植入体长这样:[42](#footnote2-42-6120)
+
+[![](/images/neuralink/6x6-argus-retinal-implant_2d.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/6x6-argus-retinal-implant_2d.jpg)
+
+它是这么工作的:
+
+视网膜植入体有 60 个传感器。视网膜大约有一百万个神经元。粗糙。但能看到模糊的边缘、形状和明暗图案,肯定比什么都看不到要强。令人鼓舞的是,你并不需要一百万个传感器才能获得相当程度的视力——模拟结果表明,600 到 1000 个电极就足以进行阅读和面部识别。
+
+**早期 BMI 类型 #3:脑深部电刺激**
+
+脑深部电刺激 (Deep Brain Stimulation) 可以追溯到 1980 年代末,它是另一种粗糙的工具,但同样已经改变了许多人的生活。
+
+这也是一种不涉及与外部世界通信的脑机接口类别——它是用脑机接口通过在内部改变某些东西来治疗或增强你自己。
+
+这里的做法是把一到两根电极导线,通常带有[四个独立的电极触点](http://ieeexplore.ieee.org/ieee_pilot/articles/96jproc07/96jproc07-liker/assets/img/article_1/fig_2/small.jpg),插入大脑,通常最终落在边缘系统 (limbic system) 的某处。然后在上胸部植入一个小型起搏器电脑,并连接到电极上。就像这位看起来不太开心的男士:[43](#footnote2-43-6120)
+
+[![](/images/neuralink/StJudeMedicalDBSStory.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/StJudeMedicalDBSStory.jpg)
+
+需要的时候电极就能来一下小电击,这能做各种重要的事情。比如:
+
+- 减轻帕金森病 (Parkinson's Disease) 患者的震颤
+- 减轻癫痫发作的严重程度
+- 让强迫症 (OCD) 患者放松下来
+
+它还在实验阶段(尚未获得 FDA 批准)能够缓解某些慢性疼痛,比如偏头痛或幻肢痛,治疗焦虑症、抑郁症或创伤后应激障碍 (PTSD),甚至可以与身体其他部位的肌肉刺激相结合,来恢复和重新训练因中风或神经系统疾病而受损的神经回路。
+---
+这就是早期脑机接口行业的现状,也是埃隆·马斯克 (Elon Musk) 踏入这个行业的时刻。对他,以及对 Neuralink 而言,今天的脑机接口行业就是 A 点。到目前为止,我们整篇文章都在讲过去,一路铺垫到当下。现在是时候迈入未来了——搞清楚 B 点是什么,以及我们怎么才能到达那里。
+
+**第 4 部分:Neuralink 的挑战**
+
+[![](/images/neuralink/Brain-tree-Parts-4.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Brain-tree-Parts-4.png)
+
+我已经写过埃隆·马斯克的两家公司——[特斯拉 (Tesla)](https://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html) 和 [SpaceX](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html)——所以我觉得我懂他的套路。看起来是这样的:
+
+[![](/images/neuralink/Elon-company-formula-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Elon-company-formula-1.png)
+
+而他对一家新公司的最初思考,永远是从右边开始,然后一路往左推。
+
+他决定世界上某个具体的变化将会提高人类拥有最佳未来的可能性。他知道,当整个世界——那个人类巨人 (Human Colossus)——都在朝这个方向努力时,大规模的世界变革发生得最快。而他也知道,只有(且仅当)存在一个经济上的强制驱动力时——也就是说,把资源投入到朝那个目标创新是一个好的商业决策——人类巨人才会朝那个目标去努力。
+
+通常在一个新兴行业开始爆发之前,它就像一堆木柴——具备了生火的一切要素,一切就绪——但就是缺一根火柴。总有某种技术上的短板,阻止这个行业腾飞。
+
+所以当 Elon 创办一家公司时,它最初的核心战略通常是打造那根能点燃行业、让人类巨人 (Human Colossus) 投身其中的火柴。而 Elon 相信,这反过来会带来能改变世界的发展,提高人类拥有最佳未来的可能性。但你必须从一个拉远的视角去看他的公司,才能看清这一切。如果不这样做,你就会把他们作为业务在做的事,当作他们*真正*在做的事——而事实上,他们作为业务在做的事,通常只是一种维持公司运转的机制,好让公司在此期间搞创新,争取造出那根关键的火柴。
+
+我当初在写 Tesla 和 SpaceX 那两篇文章时,曾问 Elon 为什么当年选择工程而不是科学,他解释说,谈到进步,"工程才是限制因素"。换句话说,科学、商业、工业的进步全都受工程进步的摆布。回顾历史,这话很有道理——人类进步中每一次最伟大的革命背后,都有一项工程上的突破。一根火柴。
+
+[![](/images/neuralink/Matches-small-2.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Matches-small-2.png)
+
+所以要理解一家 Elon Musk 的公司,你得思考他试图打造的那根火柴——外加另外三个变量:
+
+[![](/images/neuralink/Elon-company-formula-variables.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Elon-company-formula-variables.png)
+
+对于其他公司,我知道这些框里该填什么:
+
+[![](/images/neuralink/Tesla-formula-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Tesla-formula-1.png)[  
+](https://waitbutwhy.com/wp-content/uploads/2018/04/Tesla-formula.png)[![](/images/neuralink/SpaceX-Formula-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/SpaceX-Formula-1.png)
+
+而当我开始试图弄清 Neuralink 到底是干什么的时候,我知道这就是我需要填进去的那些变量。当时,我只对其中一个变量有一个非常模糊的概念——公司的目标是"加速全脑接口 (whole-brain interface) 的到来"。或者用我后来的说法——一顶巫师帽。
+
+[![](/images/neuralink/Neuralink-formula-1-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Neuralink-formula-1-1.png)
+
+据我理解,全脑接口 (whole-brain interface) 就是脑机接口在理想世界里应该有的样子——一个超级先进的概念,基本上你大脑里的所有神经元都能与外部世界无缝通信。这个概念大致基于科幻中的「神经织网 (neural lace)」的想法,伊恩·班克斯 (Iain Banks) 在他的《文明》(*Culture*) 系列里描述过——一种无质量、无体积、可以被瞬移进大脑的全脑接口。
+
+我有一大堆问题。
+
+幸运的是,我正在前往旧金山的路上,计划和 Neuralink 创始团队的一半成员坐下来聊聊,并成为屋里最蠢的那个人。
+
+[![](/images/neuralink/dumbest-person-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/dumbest-person-1.png)
+
+**我不是在自嘲我真的百分之百是屋里最蠢的那个人你就看看这个破蓝框吧**
+
+Neuralink 团队:
+
+**[Paul Merolla](http://paulmerolla.com/)**,过去七年在 IBM 的 SyNAPSE 项目担任首席芯片设计师,主导开发了 [TrueNorth 芯片](https://en.wikipedia.org/wiki/TrueNorth)——按晶体管数量计算是有史以来设计过的最大的 CMOS 器件之一,没啥大不了的。Paul 告诉我他的领域叫「神经形态 (neuromorphic)」,目标是基于大脑架构的原理来设计晶体管电路。
+
+[**Vanessa Tolosa**](https://neurotech.llnl.gov/people/vanessa-tolosa),Neuralink 的微加工专家,也是世界上生物兼容材料领域最顶尖的研究者之一。Vanessa 的工作是基于集成电路行业的原理来设计生物兼容材料。
+
+**Max Hodak**,曾在杜克大学 Miguel Nicolelis 的实验室参与开发一些开创性的脑机接口技术,同时大学期间每周两次横跨全美通勤去经营他创办的 [Transcriptic](https://www.transcriptic.com/)——一家「面向生命科学的机器人云端实验室」。
+
+[**DJ Seo**](https://people.eecs.berkeley.edu/~djseo/),20 多岁在加州大学伯克利分校时设计了一个前沿的脑机接口新概念,叫[神经尘埃 (neural dust)](http://news.berkeley.edu/2016/08/03/sprinkling-of-neural-dust-opens-door-to-electroceuticals/)——微型超声传感器,可以提供一种记录脑活动的新方式。
+
+**[Tim Hanson](https://www-bsac.eecs.berkeley.edu/directory/zoom?PersonID=1376947129&URLnode=70)**,一位同事形容他为「地球上最全能的工程师之一」,他自学材料科学和微加工方法到了足以开发 Neuralink 将使用的一些核心技术的程度。
+
+**[Flip Sabes](http://profiles.ucsf.edu/philip.sabes)**,一位顶尖研究者,他在加州大学旧金山分校的实验室通过结合「皮层生理学、计算与理论建模、以及人类心理物理学与生理学」在脑机接口领域开辟了新天地。
+
+**[蒂姆·加德纳 (Tim Gardner)](https://www.bu.edu/biology/people/profiles/tim-gardner/)**,波士顿大学的顶尖研究员,他的实验室专门给*鸟类*植入 BMI,用以研究「复杂的鸣叫是如何由基本的神经单元组装而成的」,并了解「不同时间尺度上神经活动模式之间的关系」。蒂姆和 Flip 都放弃了终身教职来加入 Neuralink——挺能说明他们对这家公司前景有多看好。
+
+再来就是 Elon 了,他既是 CEO/创始人,也是团队的一员。他亲自当 CEO 这件事,让 Neuralink 有别于他最近启动的其他项目,把它推到了他心中的最顶级——之前只有 SpaceX 和 Tesla 享受过这种待遇。要说神经科学方面的技术知识,Elon 在团队里是最少的——但当年创办 SpaceX 时他也没什么技术底子,后来靠读书和向团队专家提问,很快就成了公认的火箭科学专家。这次估计也会重演。(而且理由很充分——他指出:「没有扎实的技术理解,我觉得很难做出正确的决定。」)
+
+我问 Elon 是怎么把这支团队攒起来的。他说,为了组建这个小组,他实打实见过 1000 多人,其中一个难点在于:当你要做的技术涉及神经科学、脑外科、微电子、临床试验等等,需要的完全不同领域的专业知识实在太多。因为这是一个高度跨学科的领域,他就找跨学科的专家。你从上面这些简历里也能看出来——每个人都带着自己独特的跨界组合,凑在一起之后,这个团队拥有一种罕见的能力:像单一的超级专家那样思考。Elon 还想找那些完全认同这个宏大使命的人——那些更看重工业成果、而不是发白皮书的人。这可不是一支好凑齐的队伍。
+
+但他们就这么坐在桌旁看着我,而在坐下 40 秒后我就意识到:来之前我真应该多做点功课。
+
+[![](/images/neuralink/dumbest-person-2.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/dumbest-person-2.png)
+
+他们领会了我的暗示,把话题降了大概四个档次,随着讨论深入,我开始慢慢跟上节奏了。接下来的几周里,我又见了 Neuralink 剩下的每一位团队成员,每次都扮演屋里最蠢的那个人。这些会面中,我着重想搞清楚眼下面临的挑战是什么,以及通往「巫师帽」的路可能长什么样。我特别想弄明白下面这两个方框:
+
+[![](/images/neuralink/Neuralink-formula-v2_02.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Neuralink-formula-v2_02.png)
+
+第一个盒子很简单。Neuralink 的*商业*层面是一家脑机接口开发公司。他们想造出前沿的 BMI——他们其中一个人把它叫做「微米级设备」。这既能支撑公司的成长,又能为把他们的创新落地提供一个绝佳的载体(就像 SpaceX 用他们的发射任务既维持公司运转,又拿最新的工程成果做实验一样)。
+
+至于他们计划先做哪种接口,Elon 是这么说的:
+
+*我们的目标是大约四年内推出一款能帮助某些严重脑损伤(中风、癌症病灶、先天性脑损伤)患者的产品。*
+
+第二个盒子就模糊多了。今天在我们看来显而易见的是,用蒸汽机技术驾驭火的力量,正是点燃工业革命的那件事。但如果你在 1760 年跟人聊这个,他们的头脑要糊涂得多——具体要跨过哪些障碍、什么样的创新能让他们越过那些障碍、这些事到底要花多久,他们都说不清楚。而我们现在就处在这个位置——试图搞清楚点燃神经革命的那根火柴长什么样,以及要怎么造出它。
+
+讨论创新的起点是讨论障碍——你到底想创新*越过什么*?对 Neuralink 来说,要越过的东西一大堆。但话说回来,在这里,工程学也很可能会成为限制性因素,所以下面这些看起来很大的挑战,大概*不会*成为主要的绊脚石:
+
+**公众的怀疑**
+
+皮尤最近做了一份 [调查](http://www.pewinternet.org/2016/07/26/u-s-public-wary-of-biomedical-technologies-to-enhance-human-abilities/),问美国人哪些未来生物技术最让他们心里发毛。结果 BMI 比基因编辑还让美国人担心:[44](#footnote2-44-6120)
+
+[![](/images/neuralink/PS_2016.07.26_Human-Enhancement-Survey_0-01.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/PS_2016.07.26_Human-Enhancement-Survey_0-01.png)
+
+Neuralink 的元老之一 Flip Sabes 完全理解不了。
+
+*对科学家来说,想到要改变生命的根本性质——制造病毒、优生学之类的——会让很多生物学家感到十分忧虑的幽灵浮现出来;而我认识的神经科学家们,一想到往大脑里放芯片,并不觉得有多陌生,因为我们的大脑里已经有芯片了。我们有用来缓解帕金森氏症症状的脑深部电刺激,我们有恢复视力的芯片的早期试验,我们有人工耳蜗——所以对我们来说,把设备放进大脑里读出信息、再把信息读进去,似乎并不是什么天大的跨越。*
+
+而在了解了大脑里芯片的方方面面之后,我同意他的看法——等美国人最终了解这些事之后,我觉得他们会改变想法的。
+
+历史印证了这个预测。人们最初对准分子激光近视手术 (Lasik) 极度胆怯——20 年前,每年只有 20,000 人做这个手术。后来大家都习惯了,现在每年有 2,000,000 人做激光眼科手术。心脏起搏器也是同样的故事。除颤器也是。器官移植也是——最初人们还觉得这是种科学怪人式的诡异概念。脑植入物大概也会是同样的剧本。
+
+**我们对大脑的不理解**
+
+就是那个「如果理解大脑是一英里的路程,我们现在才走了三英寸」的说法。Flip 也就这个话题发表了看法:
+
+*如果说必须先理解大脑,才能以实质性的方式与大脑交互,那我们就麻烦了。但其实,不必真正理解大脑里计算的动态原理,就能解码大脑里的所有那些东西。能读出信号是一个工程问题。而能理解它的起源、能精细到让一个神经科学家从骨子里满意的神经元组织方式——那是另一个问题。我们不需要解决所有那些科学问题就能取得进展。*
+
+如果我们能靠工程手段让神经元和计算机对话,我们的活儿就干完了,剩下的大部分交给机器学习就行。而讽刺的是,这*反过来*会教我们理解大脑。正如 Flip 指出:
+
+*「不需要理解大脑就能取得工程进展」这句话的另一面是,工程进展几乎肯定会推动我们的科学认知——有点像 AlphaGo 最终反过来教会了世界顶级棋手更好的下棋策略。然后这些科学进展又能带来更多工程进展。工程和科学在这里会相互推着往上走。*
+
+**愤怒的巨人**
+
+特斯拉 (Tesla) 和 SpaceX 都踩了某些非常大的脚趾头(比如汽车业、石油天然气业、军工复合体)。大脚趾不喜欢被踩,所以它们通常会尽其所能阻挠踩踏者的进展。幸运的是,Neuralink 并没有这个问题。Neuralink 并没有颠覆任何庞大的行业(至少在可预见的未来没有——最终的神经革命会颠覆几乎*所有*行业)。
+
+Neuralink 的障碍是技术障碍——而且有很多。但有两个挑战格外突出,是最大的两个——这两个挑战一旦攻克,其影响力可能大到足以让其他所有障碍连锁倒下,并彻底改变我们未来的走向。
+
+**重大障碍 1:带宽**
+
+人脑里同时植入的电极从来没有超过几百个。对视觉来说,这只相当于一张超低分辨率的图像。对运动来说,这限制得只能实现简单的指令,控制精度也很有限。至于你的想法,几百个电极根本不足以传达比最简单的逐字拼写更复杂的信息。
+
+如果这玩意儿要真的成气候,我们需要更高的带宽。*高得多*的带宽。
+
+Neuralink 团队在谈到一个能真正改变世界的接口时,抛出了「同时记录一百万个神经元」这个数字。我也听到过 10 万这个数字,据说达到这个量级就足以催生一大批极其有用、应用范围广泛的脑机接口 (BMI)。
+
+早期的计算机也遇到过类似的问题。原始的晶体管占地方,不容易规模化。然后在 1959 年,集成电路——计算机芯片——出现了。现在有办法把一台计算机里的晶体管数量堆上去了,摩尔定律 (Moore's Law)——也就是一块计算机芯片上能容纳的晶体管数量每 18 个月翻一番的概念——就此诞生。
+
+直到 90 年代,BMI 用的电极都还是手工制作的。后来我们开始琢磨怎么用传统的半导体工艺去制造那种小小的 100 电极[多电极阵列](https://d267cvn3rvuq91.cloudfront.net/i/images/electrodex299.jpg?sw=280)。神经外科医生本·拉波波特 (Ben Rapoport) 认为「从手工制作转向犹他阵列 (Utah Array) 电极,是 BMI 进入摩尔定律可能开始生效领域的第一个暗示。」
+
+这决定了这个行业的全部潜力。我们今天的极限是几百个电极,能同时测量大约 500 个神经元——离一百万到底是超远还是超近,取决于我们处在哪种增长模式里。如果我们每 18 个月给上限加 500 个神经元,那要到 5017 年才能到一百万。如果我们像计算机晶体管那样每 18 个月*翻一番*,那 2034 年就能达到一百万。
+
+目前来看,我们似乎介于两者之间。伊恩·史蒂文森 (Ian Stevenson) 和康拉德·柯尔丁 (Konrad Kording) 发表了一篇[论文](http://www.nature.com/neuro/journal/v14/n2/abs/nn.2731.html),考察了过去 50 年里各个时间点上能同时记录的最大神经元数量(在*任何*动物身上),并把结果画在了这张图上:[45](#footnote2-45-6120)
+
+[![](/images/neuralink/mooreslaw.chartx2400.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/mooreslaw.chartx2400.jpg)
+
+这项研究有时被称为史蒂文森定律 (Stevenson's Law),它表明我们能同时记录的神经元数量似乎稳定地每 7.4 年翻一番。如果这个速率延续下去,那我们要到本世纪末才能达到一百万,要到 2225 年才能记录大脑里的每一个神经元,拿到那顶完全体的巫师帽。
+
+相当于集成电路之于脑机接口的那种东西还没出现,因为 7.4 年这个数字太大了,发动不了一场革命。这里真正的突破,不是能记录一百万个神经元的设备——而是那种能让上面这张图的未来看起来更像摩尔定律、而不是史蒂文森定律的范式转变。一旦那个发生了,一百万个神经元自然会跟上。
+
+**重大障碍 2:植入**
+
+只要你还需要去做开颅手术才能参与,脑机接口就不可能席卷世界。
+
+这在 Neuralink 是个大话题。我跟团队讨论的时候,「非侵入式」或「非侵入地」这个词大概从某人嘴里蹦出来了 42 次。
+
+除了是进入门槛和安全性上的一大障碍,侵入式脑手术还很贵、供给还很有限。Elon 谈到最终的脑机接口植入过程可以自动化:「完成这件事的机器需要类似于 Lasik 那种自动化流程——否则你就会受制于神经外科医生数量有限,而且成本非常高。你最终得有一台类似 Lasik 的机器,才能规模化地做这件事。」
+
+光是把脑机接口做成高带宽就已经是件大事了,开发出一种非侵入式的植入方式也一样。但如果*两个*都做到,那就要掀起一场革命了。
+
+**其他障碍**
+
+今天的脑机接口患者头上还拖着一根线。在未来,这肯定是行不通的。Neuralink 计划研发无线设备。但这带来了一堆新挑战。你现在需要你的设备能无线收发大量数据。也就是说植入物还得自己搞定信号放大、模数转换、数据压缩这些事。哦对,它还得靠感应式供电。
+
+另一个大问题——生物相容性。娇嫩的电子元件在一颗果冻球里通常混得不太好。而人体也不太喜欢自己身体里塞着异物。但未来的脑接口是要永远待在那里、毫无问题地工作的。这意味着设备很可能需要密封、并且足够结实,以便在周围神经元几十年的渗液和挪动中存活下来。而大脑——它把今天的设备当作入侵者,最终会用疤痕组织把它们包起来——需要以某种方式被骗过去,让它以为设备就是个正常的脑组织部件在干自己的活。[29](#footnote-29-6120)
+
+然后是空间问题。你到底要把这个能对接一百万个神经元的设备放在哪里?颅骨里已经在为 1000 亿个神经元腾地方了。用今天的多电极阵列做一百万个电极,得有一颗棒球那么大。所以进一步微型化是另一项要加进清单的重大创新。
+
+还有一个问题:如今的电极大多是为简单的电信号记录或简单的电刺激而优化设计的。如果我们真想要一个有效的脑机接口,就得需要点别的——不是那种单一功能、硬邦邦的电极,而是具备神经回路那种机械复杂度、既能记录又能刺激、还能在化学、机械和电学层面同时与神经元交互的东西。
+
+就算所有这些都完美地凑齐了——一个高带宽、长寿命、生物兼容、双向通信、非侵入式植入的设备。现在我们可以同时和一百万个神经元来回对话了!只不过还有个小小的问题——我们其实不知道怎么跟神经元说话。要解码 100 个神经元那种噪声般的放电就已经够复杂了,而我们真正在做的,不过是搞清楚一组特定的放电对应什么,然后把它们和简单的指令配对。这套办法在几百万个信号面前根本玩不转。这就像 Google 翻译本质上是用两本词典来把一个词典里的词换成另一个词典里的词——这跟*真正理解语言*完全是两回事。要让电脑真正*懂*一种语言,机器学习还需要一次相当大的飞跃;要让机器懂大脑的语言,也需要同样量级的飞跃——因为人类肯定学不会去破译几百万个神经元同时叽叽喳喳的密码。
+
+现在觉得殖民火星是不是显得很轻松了。
+
+不过我敢打赌,电话、汽车和登月在几十年前的人看来,肯定也像是无法逾越的技术难题。就像我敢打赌,这个——
+
+[![](/images/neuralink/iphone-7BLACK.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/iphone-7BLACK.png)
+
+——在这个东西的年代,人们看来完全是不可思议的:
+
+[![](/images/neuralink/NV_0215_Hood_alan-turing-first-computer.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/NV_0215_Hood_alan-turing-first-computer.jpg)
+
+然而,它就躺在你口袋里。如果说过去有什么值得我们学到的,那就是:未来*总会*出现一些无处不在、却让过去的人无法想象的科技。我们不知道*哪些*在我们眼里绝对不可能的技术,会在我们有生之年变得司空见惯——但一定会有一些。人们总是低估「人类巨人 (Human Colossus)」。
+
+如果 40 年后你认识的每个人脑袋里都装着电子设备,那一定是因为发生了某种范式转变,从根本上改变了这个行业。而 Neuralink 团队要做的,就是搞清楚这个转变是什么。其他团队也在攻关,一些很酷的点子正在被开发出来:
+
+**当前 BMI 领域的创新**
+
+伊利诺伊大学 (University of Illinois) 的一个团队正在研发一种由蚕丝制成的接口:[46](#footnote2-46-6120)
+
+[![](/images/neuralink/brain_silk_2s-660x440.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/brain_silk_2s-660x440.jpg)
+
+丝绸可以卷成一个薄薄的小卷,以相对非侵入的方式插入大脑。理论上,它会在大脑周围展开,像收缩膜一样贴合脑部轮廓的沟壑。丝绸上会印有柔性硅晶体管阵列。
+
+在他的 [TEDx 演讲](https://www.youtube.com/watch?v=3jRNY_JcBpg) 中,Hong Yeo 展示了一个印在他皮肤上的电极阵列,就像临时纹身一样,[研究人员说](https://www.wired.com/2013/02/skin-printed-electrodes/) 这种技术有潜力用在大脑上:[47](#footnote2-47-6120)
+
+[![](/images/neuralink/3a.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/3a.jpg)
+
+另一组人在研究一种纳米级的、镶有电极的**[神经网](https://www.extremetech.com/extreme/207848-injectable-neuro-mesh-covers-the-brain-can-control-individual-neurons)**,小到可以用注射器注入大脑:[48](#footnote2-48-6120)
+
+[![](/images/neuralink/1298870262105595053.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/1298870262105595053.jpg)
+
+给你个尺度参照——右边那根红色管子是注射器的针尖。[《自然》杂志 (Nature Magazine)](https://www.nature.com/articles/522137a) 有一张漂亮的图解释了这个概念:
+
+[![](/images/neuralink/brainmesh-2.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/brainmesh-2.jpg)
+
+其他非侵入式技术是通过静脉和动脉进入。Elon 提到过这个:「侵入性最小的方式,是像心脏支架那样,通过股动脉进入,最终在血管系统里展开,与神经元对接。神经元消耗大量能量,所以基本上通往每一个神经元都有一条『公路网』。」
+
+美国军方的技术创新部门 DARPA(国防高级研究计划局)[30](#footnote-30-6120),通过他们最近资助的 [BRAIN 项目](https://www.darpa.mil/program/our-research/darpa-and-the-brain-initiative),正在研发微小的「闭环」神经植入物,有望替代药物治疗。[49](#footnote2-49-6120)
+
+[![](/images/neuralink/stanford-microimplant-mid-field.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/stanford-microimplant-mid-field.jpg)
+
+DARPA 的第二个项目目标是把 100 万个电极装进一个只有两枚 5 美分硬币叠起来那么大的设备里。
+
+另一个正在研究的思路是经颅磁刺激 (TMS),头部外的磁线圈可以在大脑内部产生电脉冲。[50](#footnote2-50-6120)
+
+[![](/images/neuralink/Transcranial_magnetic_stimulation.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/Transcranial_magnetic_stimulation.jpg)
+
+这些脉冲可以刺激特定的神经元区域,提供一种完全非侵入式的深部脑刺激。
+
+Neuralink 早期的核心成员之一 DJ Seo,主导了一项更酷的接口设计,叫做「神经尘埃 ([neural dust](https://arxiv.org/abs/1307.2196))」。神经尘埃指的是撒布在大脑皮层里的微型硅传感器,大约 100 微米大小(差不多和一根头发的宽度一样)。就在附近、软脑膜上方,会有一个 3 毫米大小的设备,通过超声波与这些尘埃传感器通信。
+
+这又是一个体现跨学科团队创新优势的例子。DJ 向我解释:「有些技术在这个领域里没人真正想到过,但我们可以把它们的一些原理拿过来用。」他说神经尘埃的灵感既来自微芯片技术,也来自 RFID (就是让酒店房卡不用接触就能和门锁通信的那种东西) 的原理。你可以很容易地看出它的工作方式受到多个领域的影响:[51](#footnote2-51-6120)
+
+[![](/images/neuralink/018u3meqmg2ruijpg.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/018u3meqmg2ruijpg.jpg)
+
+还有一些人在搞更天马行空的点子,比如**光遗传学 ([optogenetics](https://www.scientificamerican.com/article/optogenetics-controlling/))**(注射一种病毒,让它附着到脑细胞上,之后就能用光来刺激这个细胞)甚至用**碳纳米管 ([carbon nanotubes](http://news.rice.edu/2015/03/25/carbon-nanotube-fibers-make-superior-links-to-brain-2/))**——可以把一百万根捆成一束,通过血流送进大脑。
+
+这些人都在搞这个箭头:
+
+[![](/images/neuralink/Neuralink-formula-v2_03.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Neuralink-formula-v2_03.png)
+
+现在这还是一个相对小的圈子,但一旦突破的火花被点燃,情况会迅速改变。发展会开始飞速推进。随着植入手术变得更简单、更便宜,大脑接口的带宽会越来越好。公众兴趣会开始上升。而一旦公众兴趣上来了,人类巨人 (Human Colossus) 就会嗅到机会——然后发展速度就会一飞冲天。就像计算机硬件的突破让软件行业爆炸性增长一样,一些主要产业会冒出来,开发前沿的机器和智能应用,与大脑接口配合使用。到 2052 年的时候,你会跟某个小孩讲你小时候没人能用大脑做她现在能做的这些事,而她会觉得很无聊。
+
+我试图让 Neuralink 团队跟我聊聊 2052 年。我想知道一旦这一切变成现实,生活会是什么样。我想知道 \[Pilot ACE : iPhone 7 :: 早期脑机接口 : \_\_\_\_\] 这个空格里应该填什么。但这并不容易——这个团队之所以被组建起来,恰恰是因为他们专注于具体成果,而不是炒作。而我做的事情,相当于在 18 世纪末去找那些正拼命想搞出突破性蒸汽机的人,然后追问他们觉得飞机什么时候会出现。
+
+不过我会一直死缠烂打,直到他们终于愿意聊聊对遥远未来的看法,好让我松口。我还把和 Elon 谈话的大部分时间都花在了讨论遥远未来的可能性上,并跟我的神经科学家朋友 Moran Cerf 进行了几次很有帮助的讨论——他[从事脑机接口研究](http://ed.ted.com/lessons/what-if-we-could-look-inside-human-brains-moran-cerf),对长期前景思考颇多。最后,一位本来不太愿意谈自己预测的 Neuralink 团队成员告诉我,当然啦,他和同事们*都是*梦想家——否则他们也不会做现在的事——而且他们中很多人是被科幻作品激励着进入这个行业的。他建议我去找 Ramez Naam 聊聊,他是热门作品[《Nexus 三部曲》](http://amzn.to/2pqeLNy)的作者,这个系列讲的全是脑机接口的未来,而且他本人也有硬核技术背景,拥有 19 项软件相关专利。于是我跟 Ramez 聊了一下,把整个图景补齐,并向他抛出了我剩下的关于一切的 435 个问题。
+
+而这一切让我彻底震撼了。我[曾经写过](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html),我认为如果你回到 1750 年——那是一个没有电、没有机动车、没有电信的年代——然后把,比方说,乔治·华盛顿抓过来,带到今天,让他看看我们的世界,他会被眼前的一切震惊到当场毙命。你就把乔治·华盛顿给弄死了,把一切都搞砸了。这让我开始思考一个概念:一个人得往未来穿越多少年,由此产生的进步冲击才足以把他吓死。我把这叫做「震死进步单位 (Die Progress Unit)」,简称 DPU。
+
+自从人类巨兽 (Human Colossus) 诞生以来,我们的世界就有了一个奇怪的属性——随着时间推移,它变得越来越*神奇*。这就是为什么会有 DPU 这种东西。而且因为进步会催生更快的进步,趋势就是随着时间流逝,DPU 会*越来越短*。对乔治·华盛顿来说,一个 DPU 是几百年,这在人类历史尺度上短得离谱。但我们现在生活在一个变化*如此*之快的时代,以至于我们可能会在*有生之年*经历一个甚至多个 DPU。1750 年到 2017 年之间发生的变化,可能会在你还活着的时候再发生一次。这是一个*荒谬*的活着的时代——只是我们很难注意到,因为我们看生活的镜头拉得太近了。
+
+不管怎样,我经常想 DPU 的事,我总是好奇如果坐上时光机去到未来,体验乔治来到我们这里的那种感觉,会是什么样。什么样的未来才能震撼到把我吓死?我们可以聊聊人工智能、基因编辑这些东西——我毫不怀疑这些领域的进展能把我惊死——但这种讨论永远是「谁知道会是啥样呢!」从来没有一幅具体的画面。
+
+我想我可能终于能给出未来某一部分震撼图景的具体描绘了。让我给你画一画。
+
+**第五部分:巫师时代**
+
+[![](/images/neuralink/Brain-tree-Parts-5.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Brain-tree-Parts-5.png)
+
+正在萌芽的脑机接口产业,是一场即将改变几乎一切的革命的种子。但在很多方面,脑接口的未来并不真的是一个正在发生的新*事物*。如果你退一步看,它更像是一个持续已久的趋势中的下一个重大篇章。语言花了极其漫长的时间才变成文字,文字又花了极其漫长的时间才变成印刷,而这就是乔治·华盛顿时代的状态。然后来了电,节奏加快了。电话。收音机。电视。计算机。就这样,每个人的家都变魔法了。然后电话变成无线的。然后变成移动的。计算机从工作和游戏的设备变成了通往数字世界的窗口,我们都成了这个世界的一部分。然后手机和计算机合并成一个万能设备,把魔法从我们家里带出来,放进我们的手里。还有我们的手腕上。我们现在处于虚拟现实和增强现实革命的早期阶段,这场革命会把魔法裹在我们的眼睛和耳朵周围,把我们整个人带进数字世界。
+
+你不需要是个未来学家就能看出这在往哪儿走。
+
+魔法一路从工业设施进入我们的家,进入我们的手,很快就会围绕在我们的头周围。然后它会迈出下一个自然的步伐。魔法正在往我们的大脑里走。
+
+这将通过一种「全脑接口 (whole-brain interface)」来实现,也就是我一直称之为巫师帽的那玩意儿——一种完备到、顺滑到、生物兼容到、且带宽高到让你感觉它就像你的皮层和边缘系统一样是你自身一部分的脑接口。全脑接口能让你的大脑与云端、与计算机、以及与任何脑袋里装了类似接口的人的大脑进行无线通信。你大脑与外部世界之间的这种信息流动将会毫不费力,感觉就跟你今天脑袋里进行的思考差不多。虽然到目前为止我们一直用「脑机接口」这个词,但我觉得 BMI 更像是一种用于特定目的的特定脑接口,这个术语没法完全捕捉到全脑接口那种「万事万物之万事万物」的概念。所以我改叫它巫师帽。
+
+那么,要充分领会脑袋里装个巫师帽的意义以及它会给你带来什么样的改变,你得先把脑袋绕过 (无意双关) 两件事:
+
+**1) 那个**极其烧脑**的想法**
+
+**2) 那个超级荒谬极其烧脑的想法**
+
+这一节我们先搞定第 1 个,等你消化了第 1 个之后,我们在最后一节再来搞第 2 个。
+
+Elon 把全脑接口及其众多能力称为「数字第三层 (digital tertiary layer)」,这个词有两层含义,正好对应上面那两个烧脑的想法。
+
+第一层含义讲的是大脑物理构造。我们之前讨论过大脑的三个部分——脑干 (由青蛙管着)、边缘系统 (由猴子管着) 和皮层 (由那个理性思考者管着)。之前是为了讲全乎,但本文接下来我们要把青蛙从讨论里踢出去,因为他基本上就是幕后自动运转的,功能一切正常。
+
+当 Elon 说「数字第三层」时,他是把我们现有的大脑视为两层——我们的动物性边缘系统 (可以叫它第一层) 和我们高级的皮层 (可以叫它第二层)。那么巫师帽接口就是我们的第三层——一个补充前两层的全新的物理性大脑部件。
+
+如果想到这个概念让你起鸡皮疙瘩,Elon 有话对你说:
+
+*某种意义上我们已经有了一个数字化的第三层,因为你有电脑、手机、各种应用。你可以在 Google 上问个问题,立刻得到答案。你可以访问任何书、任何音乐。用电子表格,你能做出不可思议的计算。哪怕帝国大厦里塞满了人——就算他们都拿着计算器,更别提用铅笔和纸算了——一个带着笔记本电脑的人也能干过整栋帝国大厦里那么多拿着计算器的人。你可以免费和廷巴克图那种鬼地方的人视频聊天。这要是搁在过去,你会被当成女巫烧死的。你想录多少带声音的视频就录多少,想拍多少照片就拍多少,还能给它们标注上是谁、什么时候拍的。你可以通过社交媒体免费向数百万人同时广播。这些都是不可思议的超能力,是二十年前连美国总统都没有的。*
+
+*我觉得人们现在没意识到的一件事是,他们已经是赛博格 (cyborg) 了。你已经跟二十年前、甚至十年前的自己是不同的生物了。你已经是不同的生物了。你能从调查里看出来,他们问「你想离开手机多久?」——尤其是青少年或二十几岁的人——哪怕一天都难受。如果你把手机落下了,那种感觉就像少了条胳膊。我觉得人们——他们已经跟自己的手机、笔记本电脑、应用程序,和一切,融合在一起了。*
+
+这一点很难真正消化,因为我们**感觉**不到自己是赛博格。我们感觉自己就是用设备做事的人类。但想想你的数字化自我——当你在网上跟别人互动、或者用 FaceTime、或者出现在 YouTube 视频里的时候。数字化的你就是完完全全的你——跟本人的你一样是你——对吧?唯一的区别是你不在现场——你在用魔法,把自己以光速通过电线、卫星和电磁波送到远方。区别在于媒介。
+
+在语言出现之前,没有一个好办法能把一个想法从我的脑子里传到你脑子里。然后早期人类发明了「语言」这项技术,把声带和耳朵变成了世界上第一批通信设备,把空气变成了第一种通信媒介。我们每次面对面说话都在用这些设备。流程是这样的:
+
+[![](/images/neuralink/Communication-Flow-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Communication-Flow-1.png)
+
+然后我们在此基础上又跳了一步,发明了第二层设备,配上它自己的媒介,让我们能远距离交谈:
+
+[![](/images/neuralink/Communication-Flow-2.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Communication-Flow-2.png)
+
+或者也可能是:
+
+[![](/images/neuralink/Communication-Flow-3.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Communication-Flow-3.png)
+
+从这个意义上说,你的手机跟你的声带、耳朵、眼睛一样,也是「你」的一部分。这些东西说白了都只是把想法从一个大脑搬运到另一个大脑的工具——那么工具是握在手里、长在喉咙里、还是塞在眼窝里,又有什么关系呢?数字时代让我们变成了一种双重生物——一个用生物部件与物理环境互动的物理生物,和一个用数字设备——也就是数字*部件*——与数字世界互动的数字生物。
+
+但因为我们不这么想,所以我们会觉得脑袋里或喉咙里装了手机的人是赛博格,而手里拿着手机贴在脑袋上的人不是赛博格。Elon 想说的是,让赛博格成为赛博格的是它的能力——而不是这些能力是从头骨的哪一侧产生的。
+
+我们已经是赛博格了,我们已经有了超能力,我们已经把生命中很大一部分时间花在了数字世界里。这样一想,你会发现,想升级连接我们与那个世界的媒介,是件多么显而易见的事。Elon 认为,当魔法真的进入我们大脑时,发生变化的其实是这个:
+
+*你已经是数字上的超人了。真正会变的是接口——让你能通过一个高带宽的接口连到你的数字增强能力。问题是,今天所有接口都被压缩成了一根细吸管,尤其是输出端,基本上就靠戳戳肉棍,或者用词语——不是嘴上说,就是手指头敲。而且事实上,输出还退步了。以前最常见的输出方式是十指打字,现在成了两个大拇指打字。这通讯速度慢得离谱。有了直接的神经接口,我们应该能把这个速度提升好几个数量级。*
+
+换句话说,把我们的科技塞进大脑,不是「成为赛博格是好是坏」的问题。而是我们*本来就是*赛博格,我们也*会继续*是赛博格——所以把自己从原始、低带宽的赛博格升级成现代、高带宽的赛博格,大概是件挺合理的事。
+
+全脑接口就是这个升级。它把我们从一层和二层住在脑袋里、三层住在口袋里、手里或桌上的生物——
+
+[![](/images/neuralink/Human-using-computer-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Human-using-computer-1.png)
+
+——变成三层住在一起的生物。
+
+[![](/images/neuralink/Human-brain-using-computer.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/Human-brain-using-computer.jpg)
+
+你的生活里充满了各种设备,包括你此刻正用来读这篇文章的那一个。而巫师帽把你的*大脑*变成了设备,让你的思绪能直接从脑袋里进入数字世界。
+
+这不仅仅是革新了人与*计算机*之间的沟通。
+
+现在,人类之间的交流是这样的:
+
+[![](/images/neuralink/Talking-1.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/Talking-1.jpg)
+
+[![](/images/neuralink/Talking-2.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Talking-2.png)
+
+[![](/images/neuralink/Talking-3.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Talking-3.png)
+
+[![](/images/neuralink/Talking-4.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/Talking-4.jpg)
+
+[![](/images/neuralink/Talking-5.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Talking-5.png)
+
+[![](/images/neuralink/Talking-6.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/Talking-6.jpg)
+
+[![](/images/neuralink/Talking-7.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Talking-7.png)
+
+[![](/images/neuralink/Talking-8-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Talking-8-1.png)
+
+[![](/images/neuralink/Talking-9.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Talking-9.png)
+
+[![](/images/neuralink/Talking-10-1.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/Talking-10-1.jpg)
+
+[![](/images/neuralink/Talking-11-1.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/Talking-11-1.jpg)
+
+[![](/images/neuralink/Talking-12.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/Talking-12.jpg)
+
+[![](/images/neuralink/Talking-14.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Talking-14.png)
+
+[![](/images/neuralink/Talking-15.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Talking-15.png)
+
+[![](/images/neuralink/Talking-16.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Talking-16.png)
+
+[![](/images/neuralink/Talking-17.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/Talking-17.jpg)
+
+[![](/images/neuralink/Talking-18.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/Talking-18.jpg)
+
+[![](/images/neuralink/Talking-19.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Talking-19.png)
+
+[![](/images/neuralink/Talking-20-2.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Talking-20-2.png)
+
+自打我们能交流以来,一直都是这么个流程。但在巫师帽的世界里,它会变成这样:
+
+[![](/images/neuralink/Talking-1.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/Talking-1.jpg)
+
+[![](/images/neuralink/Talking-2.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Talking-2.png)
+
+[![](/images/neuralink/Talking-22.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/Talking-22.jpg)
+
+Elon 每次谈到 Neuralink 的巫师帽终极目标时,总是强调带宽。接口带宽决定了输入图像能有多高清、输入声音能有多高保真、运动控制指令能有多精细——但它也是通讯中的一个巨大因素。如果说信息是奶昔,那带宽就是吸管的粗细。今天的通讯带宽图大致是这样的:
+
+**[![](/images/neuralink/Communication-Speed-GRAPH-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Communication-Speed-GRAPH-1.png)**
+
+所以电脑可以用一根巨型管道把奶昔猛吸上来,人类的思考用的是一根粗大、体验良好的吸管,而语言用的则是那种让人抓狂的小咖啡搅拌吸管,至于打字(更别说发短信了)简直就像用注射器针头喝奶昔——你可能每分钟才能挤出一滴。
+
+Moran Cerf 收集了神经系统不同部位实际带宽的数据,在这张图里,他把它们和计算机世界里对等的带宽做了对比:
+
+[![](/images/neuralink/Bandwidth-v2.png)](https://waitbutwhy.com/2017/04/neuralink.html/bandwidth-v2)
+
+你可以在 Moran 的图里看到,我们的通讯方式和我们的思考(在这张图上是每秒 30 比特)之间的带宽差距,比我上面那张图所描绘的还要悬殊。
+
+但把我们的大脑变成设备本身,就砍掉了那些细吸管,把下面这些:
+
+[![](/images/neuralink/Communication-Flow-ALL.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Communication-Flow-ALL.png)
+
+变成了这样:
+
+[![](/images/neuralink/Communication-Flow-Condensed.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Communication-Flow-Condensed.png)
+
+它保留了全部意义,却没有那些繁琐环节——把图变成了这样:
+
+[![](/images/neuralink/Communication-Speed-GRAPH-2.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Communication-Speed-GRAPH-2.png)
+
+我们依然在用吸管,只不过*大得多*、也有效得多。
+
+但这不仅仅是通讯速度的问题。正如 Elon 所指出的,还关乎通讯的*细腻程度*和*准确度*:
+
+*你脑子里有一堆概念,然后你的大脑必须努力把它们压缩成语音或打字这种极低数据率的东西。这就是语言的本质——你的大脑对思想、对概念传输执行了一套压缩算法。然后它还得听,还得解压对方传来的东西。而这个过程同样非常有损。所以当你在解压这些东西、试图理解的时候,你同时还在建模对方的心理状态,揣摩他们的出发点,在自己脑子里重新拼凑出他们脑中那些想要传达给你的概念。……如果两个人都有脑机接口,你就真的可以和另一个人进行未压缩的、直接的概念性交流。*
+
+这说得通——细微之处 (nuance) 就像一个*高分辨率的思想*,文件大得根本没法通过一根咖啡吸管快速传过去。在传达细微之处这件事上,咖啡吸管给你两个都很糟的选项:要么花*大量*时间说一大堆话,把你想传达的那个微妙想法或画面真正描绘出来;要么用简洁的语言省时间——但注定传不出那份细微。让情况雪上加霜的是,语言本身就是个低分辨率的媒介。一个词不过是一个想法的*近似*——一堆相似但各不相同的想法全都被塞进的一个桶。假如我看了部恐怖片,想用语言给你描述,我只能困在几个简陋的低分辨率桶里——「吓人」「瘆人」「毛骨悚然」或「紧张刺激」。我对那部电影的真实印象是非常具体的,和我看过的任何其他电影都不完全一样——但语言这套粗糙的工具逼着我的大脑「四舍五入到最近的桶」,选那个最接近我真实印象的词,而这就是你从我这儿收到的信息。你收到的不是那个想法——你收到的是*桶*——现在你得猜,在所有近似到这个桶里的*众多*微妙印象中,哪一个最接近我对那部电影的印象。你会把我的描述——「吓死人了」——解压成一个高分辨率、有细微差别的想法,那个想法是*你*和「吓死人了」关联起来的,不可避免地基于你看其他恐怖片的经验,以及你自己的个性。最终结果就是,翻译过程中损失了很多——这正是你预期的结果,当你试图用低分辨率的工具、以极快的速度、通过一个低带宽的媒介去传输一个高分辨率的文件时。这就是为什么 Elon 把语言这种数据传输叫做「有损的」(lossy)。
+
+我们在这些限制下尽力而为——随着时间推移,我们用一些分辨率略高的格式补充了语言,比如用视频来更好地传达细微画面,用音乐来更好地传达细微情感。但相比于我们脑子里的想法之丰富独特,以及我们内在*思想*流过的那根宽带粗管,一切人与人之间的沟通都是非常有损的。
+
+把沟通这件事想成它本来的样子——大脑试图彼此分享东西——你看到的沟通史就不是这样:
+
+[![](/images/neuralink/Communcation-Hacks-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Communcation-Hacks-1.png)
+
+而更像是这样:
+
+[![](/images/neuralink/Communcation-Hacks-2.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Communcation-Hacks-2.png)
+
+或者也可以这么说:
+
+[![](/images/neuralink/Communcation-Hacks-3.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Communcation-Hacks-3.png)
+
+或许真的是这样:通信的第二个大时代——长达 10 万年的间接通信时代——正处在它最后的时刻。如果把时间轴拉远来看,过去这突然开始 *快速* 改进通信媒介的 150 年,在遥远未来的人类眼里,可能就是一个概念:从第 2 时代到第 3 时代的过渡。我们可能正生活 *在* 那条划分时间轴的线上。
+
+[![](/images/neuralink/Communications-hacks-timeline.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Communications-hacks-timeline.png)
+
+而由于间接通信需要第三方的身体部件或数字部件,第 2 时代的终结回过头看,可能会被视为物理设备的时代。在一个你的大脑就是设备的时代,不需要随身带任何东西。你有你的身体,如果你愿意,再加上衣服——就这些。
+
+当马斯克想到巫师帽时,他通常想的就是这些东西——通信的带宽和分辨率。至于原因,我们会在本文第 6 部分讨论。
+
+首先,让我们深入探讨一下你的大脑变成一台设备这个让人脑袋发懵的概念,聊聊巫师帽世界可能会是什么样。
+---
+在思考这一切时,有一件事要记住:这些都不会让你猝不及防。你不会从脑子里什么都没有,一夜之间变成头里装了一个数字第三层,就像人们不会从 Apple IIGS 一夜之间跳到用 Tinder。巫师时代会逐渐到来,等真正的转变开始发生时,我们早已对这些技术习以为常,它们看起来就会很正常。
+
+支撑这一点的是,通往巫师时代的阶梯其实已经开始了,而你甚至都没注意到。但目前有成千上万的人脑子里带着电极走来走去,比如那些装了人工耳蜗、视网膜植入体和脑深部电刺激器的人——他们都受益于早期的脑机接口。
+
+阶梯上接下来的几步将继续聚焦于恢复身体不同部位失去的功能——最先被数字脑技术改变生活的会是残障人士。随着专门的脑机接口服务于越来越多种类的残障,脑植入体这个概念就会从边缘慢慢渗透进来,变成我们都习以为常的东西——就像当你说你朋友刚做了激光近视手术,或你奶奶刚装了心脏起搏器时,没人会大惊小怪一样。
+
+马斯克谈到了一些早期脑机接口可能帮助的人群:
+
+*这项技术最早的用途,将是修复中风或切除癌症病灶导致的脑损伤——那些人从根本上失去了某种认知功能。它可以通过在运动皮层和肌肉激活部位之间搭建一条神经旁路,来帮助四肢瘫痪或截瘫的人。它可以帮助那些上了年纪、有记忆问题、连自己孩子名字都记不住的人,通过记忆增强让他们在生命的更晚阶段依然能正常运转——从医学上讲,用它来对付各种各样的精神残疾——这种残疾当然是我们所有人活到一定岁数都会遇上的——其价值极其重大。*
+
+作为一个在爷爷去世前五年就已经因痴呆症失去他的人,听到这话我非常激动。
+
+而随着接口带宽的提升,今天困扰数百万人的残疾将开始像苍蝇一样纷纷倒下。彻底失明和失聪的概念——无论是感官器官层面的还是大脑层面的[31](#footnote-31-6120)——已经在走向终结。再给点时间,完美的视力或听力也能被恢复。
+
+假肢——以及最终穿在衣服里、贴合身形的全身外骨骼——将运转得极其出色,既能提供输出的运动功能,也能提供输入的触觉,这样瘫痪或截肢对人们生活的长期影响就只剩很小一点了。
+
+在阿尔茨海默症患者身上,记忆本身往往并没有丢失——丢失的只是通往那些记忆的桥梁。先进的脑机接口可以帮助修复那座桥,或者充当一座新桥。
+
+在这些事情发生的同时,一批面向*非*残疾人群的脑机接口也会开始冒出来。最早的一批用户可能会相当有钱。不过早期用手机的人也是这样。[52](#footnote2-52-6120)
+
+[![](/images/neuralink/gordon-gekko-RS.jpg)](https://waitbutwhy.com/wp-content/uploads/2018/04/gordon-gekko-RS.jpg)
+
+那位是 Gordon Gekko,他手里那部 1983 年的、两磅重的手机,换算成今天的美元差不多要 [9000 美元](http://www.slate.com/blogs/browbeat/2010/09/23/gordon_gekko_s_cell_phone.html)。而现在活着的人里超过一半都有手机——而且都比 Gordon Gekko 那玩意儿好用得多。
+
+随着手机变得越来越便宜、越来越好,它们从新奇、花哨、未来感十足,变得无处不在。当我们在脑机接口这条路上走同一段旅程时,事情会变得*非常*酷。
+
+根据我和 Elon、Ramez 以及十几位神经科学家聊下来学到的东西,我们来看看几十年后的世界可能是什么样。时间线是不确定的,下面这些进展成真的顺序也不确定。而且,当然,下面有些预测肯定会完全跑偏,同时这个领域还会有另一些发展,这里根本没提——因为今天的人们根本还想象不到。
+
+但这些东西的某种版本,大概率*会*在*某个*时间点发生,而其中很多可能就在你有生之年。
+
+我把听到的所有预测归纳了一下,它们大致可以分成两大类:通信能力和内部增强。
+
+**巫师时代:通信**
+
+[![](/images/neuralink/Wizard-Communication-Heading.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Wizard-Communication-Heading.png)
+
+**运动通信**
+
+本节里的“通信”既可以指人与人之间,也可以指人与计算机之间。运动通信 (motor communication) 说的完全是人机之间——就是前面提到的“把运动皮层当遥控器”那套,只不过现在是超级酷炫的版本。
+
+和未来许多脑机接口的应用类别一样,运动通信也会从针对残障人士的“恢复性”应用开始起步,随着这些研发持续推进各种可能性,这项技术也会开始用来为非残障人士打造*增强性*应用。让四肢瘫痪的人用意念遥控仿生肢体的那些技术,也能让任何人用意念遥控……任何东西。好吧,也不是*任何东西*——我不是在说心灵遥感——是任何为脑遥控而设计的东西。但在巫师时代,*大量*东西都会是那样造出来的。
+
+你的车(或者那时候人们用来交通的任何玩意儿)会开到你家门口,你的意念会打开车门。你走到房子跟前,你的意念会解锁并打开前门(那时所有的门都会内置传感器来接收运动皮层的指令)。你想喝咖啡了,咖啡机就会开始煮上。你走向冰箱时门会自动打开,拿完你要的东西走开时门会关上。到了睡觉时间,你决定要把暖气调低、把灯关掉,那些系统会感知到你做出这个决定并自行调节。
+
+这些事儿都不需要任何努力或思考——我们都会变得非常熟练,它感觉起来就像现在你移动眼睛读这句话一样自动、下意识。
+
+人们会用意念弹钢琴。用意念做建筑施工。用意念驾驶车辆。事实上,今天你要是开着车,前面路上突然窜出个什么东西,神经科学家们知道的是:你的大脑早在你的意识还没反应过来、你的胳膊还没打方向盘躲开之前,就已经看到并开始反应了。但当你的大脑就是那个开车的东西时,你根本还没意识到发生了什么,车就已经拐开了。
+
+**意念通信**
+
+这就是我们上面讨论过的——但你必须克制那种下意识的冲动,不要把思维对话等同于普通的语言对话——不是简单地在脑子里听到彼此的声音。正如我们讨论过的,词语是未压缩思想的压缩近似值,所以如果不是必须,你为什么要费那个劲、忍受那种损耗呢?你看电影的时候,脑袋里嗡嗡地全是想法——但你脑子里有一段压缩过的口语对话在进行吗?大概没有——你就是在*思考*。思维对话就会像*那样*。
+
+Elon 说:
+
+*如果我要向你传达一个概念,你本质上会进行一场双方同意的心灵感应。你不需要把话说出来,除非你想给对话加点花样什么的(笑),但那种对话会是一种概念层面的互动,达到一种现在很难想象的层次。*
+
+问题就在这——很难真正理解跟别人一起*思考*会是什么感觉。我们从来没机会试过。我们通过思维跟自己交流,通过思维的符号表征跟其他人交流,我们能想象的也就这些了。
+
+更怪的是一*群*人一起思考的概念。以下就是巫师时代 (Wizard Era) 一场小组头脑风暴可能长这样。
+
+[![](/images/neuralink/thinking-brainstorm-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/thinking-brainstorm-1.png)
+
+[![](/images/neuralink/thinking-brainstorm-2.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/thinking-brainstorm-2.png) [![](/images/neuralink/thinking-brainstorm-3.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/thinking-brainstorm-3.png) [![](/images/neuralink/thinking-brainstorm-4.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/thinking-brainstorm-4.png) [![](/images/neuralink/thinking-brainstorm-5.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/thinking-brainstorm-5.png) [![](/images/neuralink/thinking-brainstorm-6-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/thinking-brainstorm-6-1.png)
+
+[![](/images/neuralink/Thinking-brainstorm-7.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Thinking-brainstorm-7.png)
+
+而且当然,他们不需要待在同一个房间里。这一小组人可能在这场头脑风暴发生的时候身处四个不同的国家——视野里连一件外部设备都没有。
+
+Ramez [写过](http://rameznaam.com/2015/05/15/the-ultimate-interface-your-brain/)群体思维可能对世界产生的影响:
+
+*那种交流方式会对创新的节奏产生巨大的影响,因为科学家和工程师可以更流畅地一起工作。它同样很可能对公共领域产生变革性影响,就像电子邮件、博客和 Twitter 相继改变了公共话语一样。*
+
+今天所谓的“协作”,*本来应该*是两个或更多大脑一起工作,想出他们各自单独都想不出来的东西。很多时候这确实还挺管用——但你一旦考虑到语言中的“传输丢失”现象,就会意识到群体思维本可以有效多少倍。
+
+我问了 Elon 一个所有人第一次听说思维通讯时都会冒出来的问题:
+
+“那,呃,别人会不会知道我在想什么?”
+
+他向我保证不会。“别人没法读你的想法——你得主动发出去。如果你不主动发,就不会发生。就像你不主动张嘴说话,嘴就不会说话一样。”呼,松了口气。
+
+你还可以和电脑一起思考。不只是发个指令,而是真的和电脑一起头脑风暴。你和电脑可以一起制定策略。你们可以一起谱一首曲子。Ramez 谈到把电脑当作想象力协作者:“你可以想象某个东西,而电脑——它更擅长向前预测或分析物理模型——可以补上约束条件,这样你就能得到反馈。”
+
+一个特别是在人们听到思维通讯时会冒出来的担忧,是可能会失去个体性。这会不会让我们变成一个巨大的蜂群思维,每个个体大脑只是其中一只蜜蜂?我采访的专家几乎一致认为,情况恰恰相反。当协作对我们有利时,我们可以合而为一,但迄今为止,技术一直在增强人类的个体性。想想看,今天的人表达个性、把生活定制成自己想要的样子,比 50 年、100 年、500 年前要容易多少。没有理由相信随着技术进步这个趋势会停下。
+
+**多媒体通讯**
+
+跟思维通讯类似,但想象一下,如果你能直接把东西投射进别人脑袋里——就像给他们看你电脑屏幕上的东西一样——描述你做过的一个梦、一段卡在脑子里的音乐、或者你正在回想的一段记忆,会容易多少。或者像 Elon 说的:“我可以想到一束花,脑子里有非常清晰的画面。而你要用大堆的词,才能勉强让别人对那束花长什么样有个近似的印象。”
+
+如果一队工程师、建筑师或设计师能把脑子里的构想投射到屏幕上,别人再用意念去调整,那他们规划一座新桥、一栋新楼、一件新裙子能快多少?——相比之下,把东西画出来不仅慢得多,而且几乎不可避免会有损耗。
+
+如果莫扎特能把脑子里的音乐直接“想”到纸上,他能写出多少交响曲?现在这世界上还有多少个莫扎特,只是因为从没学会把某种乐器演奏得足够好,才没能把才华展现出来?
+
+前几天我看了这部*超棒的*[动画短片](https://www.youtube.com/watch?v=w_MSFkZHNi4),视频下面的作者 Felix Colgrave 说这片子花了他两年。这两年里,有多少时间花在构思艺术上,又有多少时间花在费尽千辛万苦把脑子里的东西搬到软件里?也许再过几十年,我就能直接看从 Felix 脑子里现场直播的动画了。
+
+**情感沟通**
+
+情感是那种词汇根本描绘不准的典型概念。十个人都说「我很难过」,其实说的是十种不同的东西。到了巫师时代,我们大概会很快意识到,每个人的具体情感就像他们的长相或幽默感一样独一无二。
+
+这就可以用来沟通——一个人传达自己的感受,另一个人就能在自己的情感中枢里直接体验到那种感觉。显然,这对未来的高度共情有巨大意义。但情感沟通也可以用于比如娱乐领域——一部电影可以直接向观众投射(直接进入他们的边缘系统)它希望观众在观看时感受到的特定情绪。电影配乐本质上已经在做这件事了——又是一种 hack——只是未来可以直接做到。
+
+**感官沟通**
+
+这一块很猛。
+
+现在,能给你脑子里那个「扬声器」——听觉皮层——当输入用的麦克风,只有你的两只耳朵。能接到你脑内投影仪——视觉皮层——的摄像头,只有你的两只眼睛。你唯一能感知触觉的表面是皮肤。唯一能让你体验味道的是舌头。
+
+但就像我们现在可以往人的耳蜗里植入设备——把一个*不同的*麦克风接到他的听觉皮层——未来我们也能让感官输入信息无线地、从任何地方涌进你的巫师帽,再直接导入你的各个感觉皮层,就像今天你身体的感官器官所做的那样。到了未来,感官器官只是通往你各种感官的输入源之一——而且和我们的感官将能接触到的东西相比,还不算特别刺激。
+
+那输出呢?
+
+目前,你耳朵输入的声音只能在你自己的听觉皮层里播放*出来*。只有*你*能看到你眼睛这台摄像机拍到的东西,只有你能感觉到触碰你皮肤的东西——因为只有你能访问那些输入所连接的特定皮层。有了巫师帽,你的大脑就可以轻而易举地把这些输入信号从你脑袋里发射出去。
+
+所以你会拥有感官输入能力和感官输出能力——或者两者同时进行。这将开启*各种*让人惊叹的可能性。
+
+假设你正在一段美妙的徒步路上,想把眼前的景色展示给你老公。没问题——直接想着他,发起一个大脑连接请求就行。他接受之后,把你的视网膜信号接到他的视觉皮层上。现在他的视野里就是你眼睛看到的一切,就好像他人在现场。他要求接入其他感官以获得完整体验,于是你也把这些接上,现在他能听到远处的瀑布、感受到微风、闻到树木的气味,当有虫子落在你手臂上时他也会跟着一激灵。你俩用一次 30 秒的思维会话,进行了相当于 5 分钟的场景讨论——你最喜欢的部分、这里让你想起的其他地方等等——外加分享他今天遇到的一件事。他说他得回去工作了,于是他切断了除视觉之外的所有感官连接,并把视觉缩成视野一角的一个小画中画窗口,这样他可以时不时瞄一眼这段徒步旅程。
+
+一位外科医生可以用她的运动皮层控制一把机械手术刀,而不是手里握着刀,而且她还能接收这把手术刀传回的感觉输入,所以那把刀感觉起来就像是她的第 11 根手指。于是就好像她的一根手指*就是*手术刀,她做手术时不需要握任何工具,对切口的控制精细度大大提升。一个经验不足的外科医生在做高难度手术时,可以把几位导师拉进现场,让他们通过她的眼睛看她的操作,然后用思维给她发指令或建议。而如果情况真的失控,其中一位导师可以「接管方向盘」,把自己的运动皮层连到她的输出上,来接管她的双手。
+
+当然,再也不需要屏幕了——因为你可以直接在自己的视觉皮层里生成一块虚拟屏幕。或者调动你所有感官跳进一部 VR 电影里。说到 VR——Oculus Rift 的制造商 Facebook 也在往这个方向扎。在一次关于 VR 的采访中(为一篇即将发布的文章),我和马克·扎克伯格 (Mark Zuckerberg) 的对话一度转到了脑机接口 (BMI)。他说:「触觉给你提供输入,还有一点点触觉反馈。从长远来看,我们说不定就是不想手里握着任何控制器,也许我们不再需要按按钮,而是直接*想*一下就行了。」
+
+能够记录感官输入,也就意味着你可以记录你的记忆,或者分享它们——因为记忆本身不过是对过往感官输入的一次不太准确的回放。或者你可以把它们当作现场体验重新播放一遍。换句话说,那一集[《黑镜》](https://www.youtube.com/watch?v=Sw3GIR70HAY)大概真的会成真。
+
+一名 NBA 球员可以在赛前给粉丝群发一个直播邀请,让他们在他打球时通过他的眼睛看、通过他的耳朵听。错过直播的人之后还可以跳进录像里。
+
+你可以把一次美妙的性爱体验保存到云端,以后再享受一遍——或者,如果你不是那么注重隐私的人,你可以把它发给朋友让他体验一下。(不用说,色情产业在数字大脑世界里会活得风生水起。)
+
+如今,你可以上 YouTube 免费看关于几乎任何事情的第一人称亲历视频。这要是让乔治·华盛顿看到,他脑子要炸——但在巫师时代,你将能够真正**亲身体验**几乎任何事情,而且免费。奢华体验只属于有钱人的日子早就一去不复返了。
+
+还有一个点子,来自 Moran Cerf 的想象:也许球员的脑损伤会推动 NFL 修改规则,让球员的生物身体待在场边,而他们用一个人造身体来打比赛——他们控制这个人造身体的运动皮层,通过它的眼睛和耳朵去看去听。我很喜欢这个想法,而且觉得它其实比乍看之下更接近当今的 NFL。一方面,你仍然需要是个出色的运动员才能上场,因为一个伟大运动员之所以伟大,大部分靠的是他们的运动皮层、肌肉记忆和决策能力。但另一个组成部分——身体本身——现在则是人造的了。NFL 可以让所有的人造比赛身体完全相同——这将是一个很酷的方式,看看谁的技术真的最好——或者他们可以坚持要求人造身体在方方面面都要匹配运动员本人的生物身体,尽可能地模拟老日子里球员用生物身体上场时比赛会是什么样。不管怎样,如果这条规则真的实施了,你可以想象未来的人们会觉得**多么疯狂**——过去球员居然把自己那颗真实又脆弱的大脑**放在球场上**。
+
+我还可以继续说下去。在巫师帽的世界里,交流的可能性无穷无尽,尤其是当你把它们组合起来时——想想都他妈的有意思。
+
+**巫师时代:内部控制**
+
+[![](/images/neuralink/Wizard-Tinkering-Heading.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Wizard-Tinkering-Heading.png)
+
+交流——信息流入和流出你大脑——只是你的巫师帽能为你效劳的方式之一。
+
+一个全脑接口可以以任何方式刺激你大脑的任何部位——它必须具备这种能力,才能实现上面所有交流例子中输入的那一半。但那种能力也让你对自己的大脑拥有了一个全新层次的控制。以下是未来的人们可能利用这一点的几种方式:
+
+**让你脑子里那场战争双方都赢**
+
+我们脑袋里那场前额叶皮层与边缘系统之间的战争,常常归根结底是:双方其实都在试图为我们好——只是我们的边缘系统对"什么才是对我们好"的判断错了,因为它以为我们还生活在 5 万年前的部落里。
+
+你的边缘系统 (limbic system) 让你一口气吃下第九颗 Starburst 软糖,不是因为它是个混蛋——而是因为它认为 A) 任何这么甜又这么有嚼劲的水果,热量一定*超级*丰富;B) 你未来四天可能都找不到食物,所以一有机会就狂囤高热量食物是明智之举。
+
+与此同时,你的前额叶皮层 (prefrontal cortex) 只能在旁边惊恐地看着,内心 OS 是「我们到底为什么要这么干」。
+
+但 Moran 认为,一个好的脑机接口可以解决这个问题:[53](#footnote2-53-6120)
+
+*想想吃巧克力蛋糕这件事。吃的时候,我们在给认知装置喂数据。这些数据带来了吃蛋糕的享受。享受本身并不在蛋糕里,而在我们对蛋糕的神经体验里。把我们的感官欲望(吃蛋糕的体验)和其背后的生存目的(营养摄入)解耦,很快就是我们能做到的事了。*
+
+这种「感官解耦」的概念,如果我们能实现,就*太*有意义了。你可以享受到胡吃海塞的*快感*,却不用真的把垃圾塞进身体。相反,Moran 说,进入你身体的将是「根据基因组、微生物组或其他因素为每个人定制的营养输入。物理饮食从欲望的暴政中解放出来。」[54](#footnote2-54-6120)
+
+同样的原理也可以应用到性、毒品、酒精和其他让人陷入麻烦——无论是健康上还是其他方面——的享乐上。
+
+Ramez Naam 谈到脑机接口还可以帮我们在时间管理这场自律之战中获胜:[55](#footnote2-55-6120)
+
+*我们知道,刺激大脑中正确的中枢可以诱导睡眠或清醒、饥饿或饱足、放松或兴奋,快得就像按下开关。或者,如果你在跑代码的话,还可以按日程来。(Siri:让我睡到 7:30,只有高优先级事项才叫醒我。中午让我对午餐产生食欲。不过把对糖的渴望调低一点。)*
+
+**掌控情绪障碍**
+
+Ramez 还强调,大量科学证据表明,情绪和精神障碍与你大脑中化学物质的活动息息相关。目前,我们靠吃药来改变这些化学物质,而 Ramez 解释了为什么直接的神经刺激是好得多的选择:[56](#footnote2-56-6120)
+
+*药物进入大脑后会随机扩散,击中它们所作用的受体——无论这些受体位于大脑的哪个角落。相比之下,神经接口一次只刺激一个区域,可以实时调节,还能把正在发生的事情的信息传出来。*
+
+一旦我们能更好地控制大脑里发生的事情,抑郁症、焦虑症、强迫症和其他障碍可能都会变得很容易根除。
+
+**折腾你的感官**
+
+想听听狗听到的声音?小意思。我们能听到的音高范围受耳蜗尺寸的限制——但那些超出耳朵范围的音高,可以直接送进我们的听觉神经。[32](#footnote-32-6120)
+
+或者你想要一种新的感官。你热爱观鸟,想要能感知到附近何时有鸟。于是你买了一台可以通过热信号探测鸟类位置的红外摄像机,把它连到你的大脑接口上,接口以某种方式刺激神经元,提醒你有鸟的存在并告诉你它的位置。我没法描述它提醒你时你会体验到什么,所以我只能用「感觉」或「看到」这样的词,因为我只能想象我们已有的五种感官。但在未来,会有更多的词来描述新的、有用的感官类型。
+
+你也可以调暗或关闭某种感官的一部分,比如疼痛。疼痛是身体告诉我们需要处理某事的方式,但在未来,我们会选择以远没那么难受的形式获取那些信息。[33](#footnote-33-6120)
+
+**增强你的知识**
+
+老鼠实验的证据表明,只要预先启动某些神经元让它们准备建立长期连接,就可能提升大脑的学习速度——有时是 2 倍甚至 3 倍。
+
+你的大脑还将随时都能访问世界上所有的知识。我跟 Ramez 聊过在云端获取信息可能是怎么运作的。我们把它拆分成四个能力层级,每一层都需要比上一层更先进的大脑接口:
+
+**第 1 级:**我想知道一个事实。我向云端调用这个信息——就像用大脑 Google 一样——答案以文字形式出现在我的心眼中。基本上就是我现在做的事,只不过全都发生在脑子里。
+
+**第 2 级:**我想知道一个事实。我向云端调用这个信息,然后一秒钟后我就*知道*了。不涉及阅读——更像是我从记忆中回忆某件事的方式。
+
+**第 3 级:**我一想知道某个事实,就立刻知道了。我甚至不知道它是从云端来的还是本来就存在我大脑里。我基本上可以把整个云端当作我的大脑。我并不是知道所有信息——我的大脑永远装不下——但每当我想知道什么,它就会无缝且迅速地下载进我的意识,仿佛它一直就在那里。
+
+**第 4 级:**不仅仅是知道事实,我还能以复杂的方式深刻*理解*我想理解的任何东西。我们讨论了《白鲸 (Moby Dick)》的例子。我能否把《白鲸》从云端下载到记忆里,然后突然就像我读过整本书一样?我会有想法和观点,能引用段落,能就书中主题展开讨论?
+
+Ramez 认为只要有足够的时间,这四层都是可能的,但第四层尤其需要非常非常长的时间才能实现——如果它真会实现的话。
+
+所以给你的大脑戴上一顶巫师帽,大约有 50 件让人愉悦的潜在事情。现在说说不愉悦的那部分。
+
+**巫师帽的可怕之处**
+
+一如既往,每当新技术来临,当巫师时代到来时,世界上的混蛋们都会尽其所能把一切搞砸。
+
+而这一次,赌注格外之大。以下是可能糟糕的一些事:
+
+**喷子们可以更加为所欲为**。自从互联网出现以来,这个世界上那些喷子型人格的家伙就一直过着他们的狂欢节。他们简直不敢相信自己的好运。而有了脑机接口,他们的狂欢节会更加狂欢。彼此之间联系更紧密意味着很多好事——比如接触到更多形形色色的人,同理心也会随之上升——但也意味着很多坏事。就像互联网一样。坏人们会有更多机会去散播仇恨或建立仇恨联盟。互联网对 ISIS 来说简直是天赐之物,而一个大脑互联的世界会是一个更加得力的招募工具。
+
+**电脑会崩溃**。而且有 bug。通常这不是什么世界末日,因为你可以尝试重启,如果它真的烂透了,你可以直接买一台新电脑。可你没法换一个新脑袋。这里必须采取的预防措施得比现在**多得多**。
+
+**电脑可以被黑**。只不过这一次,它们可以访问你的思想、感官输入和记忆。糟糕透顶。
+
+**我操电脑可以被黑**。上一条我想的是坏人利用黑客手段从我大脑里**偷走**信息。但脑机接口**也可以放进信息**。也就是说,一个聪明的黑客也许能改变你的想法、你的投票、你的身份认同,或者让你想去做一件你平时压根不会考虑的可怕事情。而你完全不会知道这事发生过。你可能会对投票支持某位候选人这件事感到无比坚定,而内心一小部分会怀疑:是不是有人操纵了我的想法,才让我这么想?最黑暗的可能情景是一个 ISIS 那样的组织通过改变数百万人的想法来让他们加入自己的事业。这绝对是本文最吓人的一段。我们赶紧离开这里吧。
+
+**为什么就算有一堆混蛋,巫师时代仍然会是件好事**
+
+物理学的进步让坏人能造原子弹。生物学的进步让坏人能造生化武器。汽车和飞机的发明导致每年超过一百万人死于事故。互联网让假新闻得以扩散,让我们易受网络攻击,让恐怖分子的招募更容易,还让各种掠食者大行其道。
+
+然而——
+
+人们会选择让我们对科学的理解倒退回去、回到骑马赶路、坐船渡海的年代,或者干脆废掉互联网吗?
+
+大概不会。
+
+新技术确实伴随着真实的危险,而且它最终**总会**伤害很多人。但它似乎也总能帮助到**更多**的人,数量远超它伤害的。技术进步几乎总是被证明是净正面的。
+
+人们也很爱恨新技术这个*概念*——因为他们担心它不健康,会让我们变得没那么像人。但同样这些人,如果给他们选择,通常也不会考虑回到乔治·华盛顿的时代——那时一半的孩子活不到 5 岁,几乎所有人都不可能前往世界其他地方,人道主义暴行的数量远比今天要多,全世界的女性和少数族裔的权利远远少于今天,文盲比例和贫困线以下人口比例都远远高于今天。他们不会想回到 250 年前——就在*人类历史上最大规模的技术大爆发*发生之前的那个时代。听起来他们对技术其实是无比*感激*的。然而他们的观点依然坚持——技术在毁掉我们的生活、以前的人智慧多了、这个世界要完蛋了,等等。我觉得他们没有认真想过这个问题。
+
+所以说到巫师时代那一长串的危险——它们确实很糟糕,而且会继续糟糕下去,其中一些会演变成令人作呕的暴行和灾难。但会有一个规模大得多的好人群体反击回去,一直都是这样,一个巨型的「大脑安全」行业也会随之诞生。而我打赌,如果给他们选择,巫师时代的人一秒钟都不会考虑回到 2017 年。
+
+---
+**时间线**
+
+每当所有专家们互相矛盾的时候,我就知道人类完全搞不清楚某件事到底怎么回事了。[34](#footnote-34-6120)
+
+我们通往巫师时代之路的时间线就是其中之一——很大程度上是因为没有人知道我们能在多大程度上让史蒂文森定律 (Stevenson's Law) 看起来更像摩尔定律 (Moore's Law)。
+
+我的对话得到了各种各样的时间线观点。一位神经科学家预测我这辈子就能有全脑接口。马克·扎克伯格 (Mark Zuckerberg) 说:「如果 25 年内我们在『向电脑传输想法』这件事上还没有一点进展,我会相当失望。」时间线较长的一个预测来自拉梅兹·纳姆 (Ramez Naam),他认为人们出于非残疾原因开始植入 BMI 可能要 50 年后才会发生,而大规模普及甚至还要更久。
+
+「我希望我是错的,」他说,「我希望埃隆能把这条曲线掰弯。」
+
+当我问埃隆他的时间线时,他说:
+
+*我认为距离没有残疾的人也能使用它,大约还有 8 到 10 年……需要注意的是,这在很大程度上取决于监管审批的时间,以及我们的设备在残疾人身上的效果如何。*
+
+在另一次讨论中,我问过他为什么选择进入生物科技的这个分支而不是基因学。他回答:
+
+*基因学太慢了,这就是问题所在。一个人类要长成成年人得花 20 年。我们没有那么多时间。*
+
+很多在做这件事的人各有各的动机,但我很少遇到那种被*紧迫感*驱动的人。
+
+Elon 想把我们带进巫师时代的紧迫感,是 Neuralink 这块拼图的最后一片。我们要填的最后一个方框:
+
+[![](/images/neuralink/Neuralink-formula-v2_04.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Neuralink-formula-v2_04.png)
+
+Elon 的每家公司,都有某个「目标之外的结果」才是他真正创办这家公司的原因——那块把公司目标和人类更好的未来连起来的拼图。就 Neuralink 而言,这块拼图需要爬很多树才能看清。不过既然我们已经爬到了这么高的位置,冲刺终点所需要的东西已经齐了。
+
+**第 6 部分:大融合**
+
+[![](/images/neuralink/Brain-tree-Parts-6.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Brain-tree-Parts-6.png)
+
+想象一位外星探险家访问一颗新恒星,发现三颗行星围绕它转,而且都有生命。第一颗恰好和公元前 1000 万年的地球一模一样。第二颗恰好和公元前 5 万年的地球一模一样。第三颗恰好和公元 2017 年的地球一模一样。
+
+这位外星人不是研究原始生物的专家,但他绕着这三颗行星飞了一圈,用望远镜逐一往下瞅。第一颗上,他看到大量的水、树木、山脉,以及一些动物生命的小迹象。他辨认出非洲平原上的一群大象、海面跳跃的一群海豚,还有几只零散的小生物过着它们的周二。
+
+他飞到第二颗上环视一圈。更多小生物,没什么太大差别。他注意到一个新东西——地面上偶有闪烁的小光点。
+
+有点无聊,他继续飞向第三颗。哇。他看到飞机在陆地上空爬来爬去,大片灰色的土地上竖着高耸的建筑,各式各样的船撒在海面上,长长的铁路横贯大陆,还有一颗卫星从旁边掠过,他不得不猛打方向把飞船躲开。
+
+他回家后汇报所见:「两颗行星有原始生命,一颗行星有智能生命。」
+
+你能理解他为什么会这么结论——但他错了。
+
+事实上,真正与众不同的是第一颗行星。第二颗和第三颗上都有智能生命——而且智力完全同等。同等到你可以把第 2 号行星上一个刚出生的婴儿绑架过来,和第 3 号行星上的新生儿对调,两个人都能在对方的行星上长成正常人,毫无违和地融入。就是同一种人。
+
+可这怎么可能?
+
+[![](/images/neuralink/Exoplanets.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Exoplanets.png)
+
+「人类巨人 (Human Colossus)」。就是它。
+
+你有没有想过,为什么单个人类常常让你没什么感觉,而人类整体的成就却让你目瞪口呆?
+
+因为*人类*从骨子里,依然是二号星球上的那群人。
+
+把一个人类婴儿丢进一群黑猩猩里,让它们像泰山那样把他养大,长大后的这个人类会知道怎么在森林里奔跑、爬树、找食物,还有打飞机。这才是我们每个人真实的样子。
+
+而*人类整体*,则是一个超级智能、拥有海量知识、存在了数千年的巨人 (Colossus),拥有 75 亿个神经元。是他建造了三号星球。
+
+语言的发明让每个人类大脑得以在死亡之前把自己的知识倒进一个堆里,这个堆变成了塔,越垒越高,直到有一天,它变成了一个伟大巨人的大脑,而这个巨人给我们建造了一整个文明。从那时起,人类巨人 (Human Colossus) 就一直在发明东西,而且随着时间推移越来越擅长。仅仅被创造价值的欲望驱动,巨人如今正在以前所未有的速度前进——这就是为什么我们生活在一个史无前例、完全反常的时代。
+
+还记得我说过我们可能正好生活在两个宏大通信时代交界线*上*吗?
+
+事实是,我们似乎正处在*很多*条历史时间线的分界线上。在人类生活了 1000 个世纪、地球生命存在了 38 亿年之后,似乎*这个*世纪就是地球生命从单行星时代跃迁到多行星时代的那个世纪。这个世纪也可能是某种地球物种终于把遗传密码从进化力量手中夺过来、学会给自己重新编程的世纪。今天活着的人,可能会亲眼见证生物技术终于把人类寿命从大自然意志中解放出来、交到每个个体意志手中的那一刻。
+
+人类巨人已经达到了一个全新层级的力量——那种能够颠覆持续了 38 亿年之久的时代的力量——把我们置于*多个*引爆点的边缘,这些引爆点将带来难以想象的变化。如果哪一天我们那位外星朋友发现了第四颗行星,恰好和 2100 年的地球一模一样,那你他妈几乎可以肯定,它在他眼里绝对不会像三号星球的样子。
+
+希望你喜欢过三号星球,因为我们要离开它了。四号星球才是我们要去的地方,不管我们喜不喜欢。
+
+[![](/images/neuralink/Exoplanet-4.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Exoplanet-4.png)
+---
+如果非要我一句话总结埃隆·马斯克 (Elon Musk) 所做的一切背后的主题,那会非常简单:
+
+他想让我们为四号星球做好准备。
+
+他活在大局里,他唯一的镜头就是最大程度地拉远。这就是为什么他是个如此不同寻常的远见者。也是为什么他如此忧心忡忡。
+
+不是说他觉得四号星球一定是个糟糕的地方——而是他认为它*有可能*是个糟糕的地方,而且他意识到,今天活着的这几代人,不管他们是否意识到,是历史上第一批面临真正的、硬核的生存性风险的人。
+
+与此同时,今天活着的人也是第一批可以怀着切实希望迎来真正乌托邦未来的人——一个甚至能挑战死亡与税收的未来。第四号星球 (Planet 4) 可能就是我们的应许之地。
+
+当你把视角拉得足够远,你会意识到这场赌局的赌注高得令人难以想象。
+
+而结局并不是听凭偶然摆布——而是听凭人类巨兽 (Human Colossus) 的摆布。第四号星球之所以正在到来,是因为巨兽正在建造它。而那个未来到底像天堂还是像地狱,取决于巨兽做什么——也许在接下来的 150 年内决定,也许只在接下来的 50 年内。或者 25 年内。
+
+但不幸的是,人类巨兽的优化目标并不是最大化让最多人类安全过渡到最好的第四号星球的几率——它被优化成用一切可能的方式,尽可能快地建造第四号星球。
+
+在理解了这一切之后,Elon 把自己的一生都投入到试图影响人类巨兽,让它的动机更贴合人类的长期利益。他知道重塑人类巨兽是不可能的——除非生存危机突然直接摆在每个人面前,而这种情况通常要等到为时已晚才会发生——所以他把巨兽当宠物来对待。
+
+如果你想让你家狗狗坐下,你就把「一听指令就坐下」和「有零食吃」关联起来。对人类巨兽来说,一颗零食就是一个供需两端同时爆发的、成熟的新兴产业。
+
+Elon 看到人类巨兽这只狗在地板上撒尿——形式是不断地把远古时期深埋的碳重新加入碳循环——他没有去哀求巨兽别再在地板上撒尿(很多人在这上面白费口舌),也没有威胁巨兽让它守规矩(政府在尝试,效果有限),而是造了一辆酷到人人都想要一辆的电动车。汽车行业看到了这在消费者偏好上开始造成的转变,自 Tesla 发布第一辆车以来的九年里,产品线里有电动车的大型车企数量从零增加到了几乎所有车企。巨兽似乎正在吃下这颗零食,行为的改变可能会随之而来。
+
+Elon 看到人类巨兽这只狗冲向车流——形式是人类把所有鸡蛋放在同一颗行星的篮子里,尽管地平线上已经出现了那么多临界点——所以他建立了 SpaceX,来学习如何让火箭着陆,这将把太空旅行的成本削减约 99%,让给太空产业投入资源对巨兽来说变成一块美味得多的肉。他关于火星的计划并不是试图去说服人类「在那里建立文明是个好主意,可以给物种买份人寿保险」——而是要打造一条负担得起的、常规化的往返火星的货运和载人航线,他知道一旦这一点实现,火星开发中会产生足够多的价值创造机会,巨兽会下定决心把这件事干成。
+
+但对 Elon 来说,人类巨人 (Human Colossus) 正在做的最可怕的事,是教会电脑巨人 (Computer Colossus) 思考。对 Elon 和许多人而言,超级智能 AI 的发展是迄今为止对人类最大的存亡威胁。原因不难理解。智能赋予了我们凌驾于地球其他所有生物之上的神一般的力量——而这对那些生物来说可不是什么好日子。如果它们身上任何部位有可能被创造成价值,我们就会有庞大的产业去加工、售卖那些身体部位。我们有时候还会以打猎为乐把它们杀掉。但我们造成最大伤害的时候,或许是当我们只是按自己的理由做自己的事,心里没有任何恨意,也不想伤害谁,而某些生物或生态系统,只是*恰好*挡在我们的路上,或者恰好处在我们所作所为的副作用波及范围内。人们喜欢为此对人类大发雷霆,但说实话,我们不过是在做所有物种都会做的事——首先且最主要地,自私。
+
+对其他生物来说,问题不在于我们的自私——而在于我们的自私能造成多么巨大的破坏,因为我们对它们拥有压倒性的力量。而这种力量,来自我们在智能上的优势。
+
+所以对于「有意去创造某种智能(可能远远)超过我们自己的东西」这件事感到担忧,是相当合乎逻辑的——尤其是,地球上每一个人在做这种事上都是业余的,因为过去从来没人做过。
+
+而且事情进展得很快。Elon 提到 Google 那款下棋 AI 的迅猛进步:
+
+*我是说,你看,AlphaGo 一对一地把人类玩家碾压——5 局赢李世石 4 局,现在它对上排名前 50 的人类棋手,每次都能赢,每一局都赢,一直赢。你知道吗,这才过了一年。*
+
+*而这只是像 AlphaGo 这种无害的事情。但 AI 能取胜的自由度正在不断增加。围棋的自由度远高于国际象棋,但如果你看那些实时战略对战游戏,比如英雄联盟或 Dota 2,它们的自由度又远远高于围棋,所以 AI 目前还赢不了。但它终究会赢的。然后还有现实——现实有着终极的自由度。*[35](#footnote-35-6120)
+
+出于上面讨论的原因,这类事情让他忧心:
+
+*我近几年——过去这一两年——才意识到,AI 显然会大幅度超越人类的智能。……到那时,存在某种风险:某些不好的事情可能发生,某些我们无法控制、人类此后再也无法控制的事情——要么是一小撮人垄断了 AI 的力量,要么是 AI 失控,或者诸如此类的东西。也许不会,但有可能。*
+
+而以人类巨人的一贯风格,「集体意志并没有对 AI 的危险保持警觉」。
+
+2015 年我采访 Elon 的时候,我问他会不会去参与打造超级智能 AI 的行列。他说:「说实话,我觉得我们不应该造它。」后来我评论说,造一个比自己聪明的东西看起来确实是个基本的达尔文式错误(这句话是我从 Nick Bostrom 那儿偷来的),Elon 回应道:「我们大家会集体拿到达尔文奖的。」
+
+两年过去了,他现在是这么说的:
+
+*有相当长一段时间我一直想在 AI 这件事上敲响警钟,但显然没什么效果(笑),所以我就想:「哦好吧,行,那我们只能试着帮忙把它往好的方向发展了。」*
+
+他接受了现实——人类巨人 (Human Colossus) 不到电脑巨人 (Computer Colossus) 有朝一日觉醒那一天,是不会罢休的。这事儿必然会发生。
+
+[![](/images/neuralink/Computer-Colossus-tinker.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Computer-Colossus-tinker.png)
+
+不管别人跟你怎么说,没有人知道电脑巨人学会思考的时候会发生什么。在我那篇[超长的 AI 科普文](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)里,我探讨了两方的推理:一方坚信超级智能 AI 将会是我们所有问题的解决方案,另一方则把人类看作一群摆弄自己都不明白的炸弹的小孩。我个人到现在还纠结于哪一方更有说服力,但为最坏的情况做准备、竭尽所能提高我们的胜算,似乎是相当理性的做法。许多专家都认同这个逻辑,但对于如何安全地创造超级智能 AI 的最佳策略,几乎没有什么共识——只有一大堆想法,而提想法的人都承认自己并不真的知道答案。谁又能知道该如何为一个自己根本无法理解的未来世界做出防范呢?
+
+Elon 也承认他不知道答案——但他正在推进一个计划,他觉得这能给我们最好的一搏机会。
+
+**Elon 的计划**
+
+Abraham Lincoln 想出这句话的时候,颇为自得:
+
+*——民有、民治、民享之政府,当永世长存于世。*
+
+行吧——这句话是不错。
+
+「民有、民治、民享」的整套理念就是民主制度的核心。
+
+不幸的是,「人民」这东西很不讨喜。所以民主到头来也很不讨喜。但和那些替代品比起来,「不讨喜」简直算美梦了。Elon 谈到过这一点:
+
+*我认为保护集体是很重要的。我记得是 Churchill 说过:「民主是最糟糕的政府形式,除了所有其他那些之外。」如果你能找到 Plato 那种不可思议的哲人王来当国王,当然可以,那样也挺好。可问题是,大多数独裁者根本不是那样。他们往往相当可怕。*
+
+换句话说,民主就好比钻下水道来逃离怪物。
+
+人生中有很多时候,冒险以博取最好结果是个不错的策略,但当赌注大到极致时,正确的做法通常是求稳。权力就是这种时刻之一。这就是为什么,尽管民主基本上保证了某种程度的平庸,Elon 却说:「我觉得在美国你很难找到多少人——无论他们怎么看待某位在任总统——会主张搞独裁的。」
+
+而既然 Elon 把 AI 视为终极权力,他自然把 AI 的发展视为终极的「求稳」局面。这也是为什么他把 AI 存在性风险最小化的策略,基本上归结为一句话:AI 的力量必须民有、民治、民享。
+
+为了在 AI 领域落实这个理念,Elon 从多个角度切入这个问题。
+
+在**民治**和**民享**这两块,他和 Sam Altman 一起创办了 [OpenAI](https://openai.com/) —— 一家自我定位为「非营利 AI 研究公司,致力于发现并践行通往安全通用人工智能之路」的机构。
+
+通常来说,当人类在做一件新东西时,一开始都是几个有创新精神的先驱在鼓捣。等他们成功了,一个产业就诞生了,人类巨兽 (Human Colossus) 就集体扑上去,在先驱开的头上添砖加瓦。
+
+但如果这些先驱正在鼓捣的东西,是一根魔杖 —— 谁拥有它,谁就能对其他所有人拥有巨大的、无法打破的权力,包括阻止别人再造出魔杖的权力,那可就有点让人紧张了,对吧?
+
+而这正是 Elon 看待今天早期 AI 研发工作的方式。既然他阻止不了别人尝试造魔杖,那他的解决方案就是:建一个开放的、协作式的、透明的魔杖研发实验室。每当实验室里出现新的突破性创新,不像其他魔杖公司那样把它当成严守的机密,而是把这些创新公布出来,让任何人都可以查看、借鉴,用于自己的造杖大业。
+
+一方面,这做法可能有弊端。坏人也在外面想造魔杖,而你*真的*不希望第一根魔杖最终落到坏人手里。而现在坏人的研发工作也能从这个实验室发布的所有创新中获益。这是个严重的顾虑。
+
+但这个实验室同时也在助推数百万其他人打造魔杖的努力。这为那些神秘的早期先驱者制造了大量竞争,使得任何单一发明者能够远远领先于其他人独自造出魔杖的可能性大大降低。更有可能的情况是,当第一根魔杖最终问世时,还有数千根其他魔杖也接近完工——不同的魔杖,拥有不同的能力,由不同的人出于不同的原因制造。Elon 的想法是,如果地球上非得有魔杖不可,那我们至少要确保它们掌握在全世界大量人的手中——而不是某一个全能巫师手里。或者用他自己的话说:
+
+*本质上,如果所有人都来自氪星,那没问题。但如果只有其中一个人是超人,而且这个超人还有着希特勒的人格,那我们就麻烦大了。*
+
+更广泛地说,单一先驱者的魔杖多半会被打造成服务于该发明者自身的需求和目的。但通过把未来的魔杖产业变成一项集体事业,各种各样的需求和目的都会有对应的魔杖被制造出来,这使得世界上所有魔杖的能力总和更有可能全面地代表大众的需求。
+
+你懂的,就像民主一样。
+
+Nikola Tesla、Henry Ford、莱特兄弟 (Wright Brothers) 和 Alan Turing 通过远远跑在人群前头来引爆革命,这在过去是行得通的。但当你要发明的是某种*不可思议*地强大的东西时,你就不能坐在那儿让先驱者去启动一切了——这样把太多东西交给了运气。
+
+OpenAI 就是一项让 AI 的创造民主化的努力,让整个人类巨人 (Human Colossus) 在其先驱阶段就参与其中。Elon 总结道:
+
+*AI 肯定会大大超越人类的能力。它在多大程度上与人类意志相关联——尤其是与大量人类意志的总和相关联——它所导致的结果就会在多大程度上是大量人类所期望的结果,因为它将是他们意志的函数。*
+
+于是现在你可能就有了一种早期的、达到人类水平或更高水平的 AI 超能力,由人民创造,为人民服务——这就降低了世界上的 AI 最终落入某个坏人之手或被某个高度集中的垄断者控制的可能性。
+
+现在我们只剩下 **民享 (of the people)** 这一部分了。
+
+这一点应该很简单。别忘了,人类巨人创造超级智能 AI,和它当初创造汽车、工厂机器和计算机,是出于同一个理由——作为自身的延伸,把工作外包出去。汽车替我们走路,工厂机器替我们制造东西,计算机负责信息的存储、组织和运算。
+
+造出会思考的电脑,将是我们迄今为止最伟大的发明——它能让我们把最重要、最高影响力的工作外包出去。思考造就了我们拥有的一切,所以想象一下,给自己造一个超级智能的思考*延伸物*会带来何等的力量。而人民的延伸物按定义就属于人民——它*是*人民的一部分。
+
+只不过有一件事——
+
+高水平的 AI 和其他那些发明不太一样。我们其他的技术,在它被造出来干的那件事上确实厉害,但归根到底,它是一台没有心智、只有狭窄智能的机器。我们正在尝试造的 AI 会*聪明*,像一个人——像一个*聪明到离谱*的人。这是一种和我们以前造过的任何东西都根本不同的东西——那我们凭什么指望常规规则还适用?
+
+我们造出来的技术天然属于我们——这一直是自动成立的事,明显到几乎都懒得提。但如果我们造出一个比人还聪明的东西,它会不会没那么容易被控制?
+
+如果一个造物在思考能力上超过了地球上任何一个人类,它会不会不太甘心只当个人类的延伸物,哪怕它本来就是为此而造的?
+
+我们不知道问题实际会怎么冒出来——但基本可以稳妥地说,这些可能性*是有可能成立的*。
+
+而如果这些可能变成了*现实*,我们手上就会有大麻烦了。
+
+因为,正如人类历史这个案例研究所暗示的,当地球上出现一个比其他所有人都聪明得多的东西时,对其他所有人来说,这可能是件很糟糕的事。如果 AI 成了地球上那个比其他所有人都聪明得多的新玩意儿,而且它又*不*明显属于我们——那就意味着它是*它自己*的东西。而我们就被降级到了「其他所有人」的档次。
+
+所以*人类*对 AI 形成垄断控制,这本身是一个问题——也是 OpenAI 希望解决的问题。但和 AI 变得不可控这个前景相比,这个问题可能就小巫见大巫了。
+
+这就是让 Elon 夜不能寐的事。他认为超级智能 AI 在这颗星球上崛起只是时间问题——而当那一刻到来时,他相信关键就在于我们不能沦为「其他所有人」的一部分。
+
+正因如此,在一个由 AI 和其他所有人构成的未来世界里,他认为我们只有一个好选项:
+
+成为 AI。
+---
+还记得我之前说过,关于巫师帽有两件事我们得费点脑子去消化吗?
+
+**1) 那个极其**烧脑**的想法**
+
+**2) 那个超级无敌离谱烧脑的**想法****
+
+现在轮到第二个了。
+
+这两个想法,就是伊隆说到把巫师帽当作大脑中「数字第三层」时所指的两件事。第一件,如我们所讨论,全脑接口这个概念差不多等同于把设备装进脑子里——实际上是让你的**大脑**成为那台设备。就像这样:
+
+[![](/images/neuralink/Human-brain-using-computer-2.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Human-brain-using-computer-2.png)
+
+你的设备赋予你半机械人的超能力,给你打开了一扇通向数字世界的窗。而你大脑里的巫师帽电极阵列则是一个全新的大脑结构,加入到你的边缘系统和皮层之列。
+
+但你的边缘系统、皮层和巫师帽都只是硬件系统。当你体验边缘系统时,你所交互的并不是那个物理系统本身——而是其中的**信息流动**。是这个物理系统的**活动**冒泡到你的意识里,让你感到愤怒、害怕、性冲动或饥饿。
+
+皮层也是一样。裹在你大脑外面的那层餐巾纸负责存储和组织信息,但当你思考、看、听或感受什么东西时,你所体验到的是**信息本身**。视觉皮层本身对你毫无用处——是光子信息流经它时,才给了你「拥有视觉皮层」的体验。当你在记忆里翻找某样东西时,你找的不是**神经元**,而是储存在神经元中的信息。
+
+边缘系统和皮层本身只是灰质。灰质里流动的活动才构成了你熟悉的那些内在角色——猴脑和理性人脑。
+
+那这对你的数字第三层意味着什么?
+
+意味着虽然你脑子里实际存在的是一个物理设备——电极阵列本身——但你会作为一个角色去体验和熟悉的那个第三层组件,其实是**流经**这个阵列的信息。
+
+而就像边缘系统的感受和冲动、皮层的思绪和喋喋不休的内心声音在你感觉里都是你的**一部分**——是你内在本质的一部分——流经你巫师帽的活动也会让你觉得就是你的一部分,是你本质的一部分。
+
+伊隆对巫师时代的愿景是:巫师帽会有很多用途,其中一个核心作用是充当你大脑与云端定制化 AI 系统之间的接口。他相信,那个 AI 系统会像你的猴子和人类角色一样,成为你脑海中一个鲜活存在的角色——它感觉起来就像**你**,和其他角色感觉起来是你的程度分毫不差。他是这么说的:
+
+*我觉得,可以想象,存在一种方式,让第三层感觉起来就是你的一部分。它不是某种你把东西卸载过去的外部东西,它就是你。*
+
+纸面上讲,这说得通。你大部分“思考”是用皮层完成的,但当你饿的时候,你不会说“我的边缘系统饿了”,你会说“我饿了”。同样,Elon 认为,当你试图想出某个问题的解决方案而你的 AI 给出了答案时,你不会说“我的 AI 想到了”,你会说“啊哈!我想到了”。当你的边缘系统想拖延而皮层想干活时——[这种情况](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html)我可能有点熟——感觉并不像你在跟某个外部实体争吵,而是一个整体的*你*在挣扎着自律。同理,当你在工作中想出一个策略而你的 AI 不同意时,那会是一场真正的分歧,并且会引发一场辩论——但那感觉是一场*内部*辩论,不是你和某个恰好在你脑子里的人之间的辩论。这场辩论感觉起来就像*思考*。
+
+纸面上讲,这说得通。
+
+但我第一次听 Elon 讲这个概念时,感觉并不太对劲。无论我多努力试图理解它,我总是把这个想法框在某种熟悉的东西上——比如一个我能在脑子里听到*声音*的 AI 系统,或者甚至是一个我能与之一起思考的系统。但在那些情境里,AI 依然像是我在和它沟通的一个外部系统。它不像*我*。
+
+但后来,某天晚上写这篇文章时,我在重读 Elon 关于这个话题的一些引言,突然*懂了*。这个 AI *就是*我。*完全就是*。我*get 到*了。
+
+然后我又丢了这种感觉。第二天,我试着向一个朋友解释这个顿悟,结果我俩都被绕糊涂了。我又回到了“等等,但它其实不太算*是*我,它是在跟我*沟通*”那种境地。从那之后,我时而懂时而不懂,始终没法长时间抓住这个概念。我能想到最贴切的类比是:偶尔会有一瞬间,你真的*理解*了时间是相对的、时空是一整块织物。有那么一秒,“你运动得越快时间过得越慢”这件事看起来是*直觉的*。然后我又丢了。就在我刚打出上面那几句时,这件事已经*不*直觉了。
+
+*成为* AI 这个想法尤其难懂,因为它把*两个*让人脑袋发麻的概念结合在了一起——脑接口以及它能赋予你的能力,还有通用人工智能。今天的人类根本没有装备来理解这两样东西之中的任何一样,因为尽管我们自认想象力丰富,但我们的想象力其实只有生活经验这一套工具包,而这两个概念都是彻头彻尾的新事物。这就像试图想象一种你从没见过的颜色。
+
+所以当我听到 Elon 满怀信念地聊这些东西时,我处在一个既深深地自己相信、又只是姑且听他一面之词的中间状态。我来回摇摆。但考虑到他大概是那种七岁就觉得时空这玩意儿很直观的人,再考虑到他是那种知道怎么殖民火星的人,我倾向于认真听他讲的每句话。
+
+而他讲的是,这一切都关乎带宽。带宽为什么重要,在造一顶好用的巫师帽这件事上是显而易见的。但 Elon 相信,当涉及到与 AI 对接时,高带宽不仅仅是*更可取的*,而是*从根本上*决定了你到底是能*成为* AI,还是只能单纯*使用* AI。以下是他向我阐述他想法的原话:
+
+*难点在于通信带宽极其缓慢,尤其是输出。你在手机上输出的时候,是在慢吞吞地动两根大拇指。这慢得离谱。……如果带宽太低,那你和 AI 的整合就会非常弱。在带宽极低的限制下,这基本没意义。AI 会自己跑去干自己的事,因为跟你交流太慢了。通信越快,你被整合的程度就越高——通信越慢,程度就越低。而我们越是分离——AI 越是「他者」——它就越有可能反过来对付我们。如果 AI 都是独立的,而且比我们聪明得多,你怎么保证它们的优化函数不会与人类的最佳利益相悖?……如果我们实现了紧密的共生,那 AI 就不是「他者」了——它就是你,它与你的皮层的关系,就类似于你的皮层与你的边缘系统的关系。*
+
+Elon 把通信带宽视为决定我们与 AI 整合程度的关键因素,而他把这个整合程度看作决定我们未来在 AI 世界里过得怎么样的关键因素:
+
+*我们将面临一个选择:要么被甩下、变得毫无用处、或者像宠物那样——你懂的,像一只家猫之类的——要么最终想出某种办法与 AI 共生并融合。*
+
+然后,过了一秒:
+
+*顺便一提,当只家猫已经是不错的结局了。*
+
+在还没有真正搞清楚等我们进入超级智能 AI 时代时会有哪些类型的 AI 存在之前,"人机融合有助于保护人类物种"这个想法在直觉上是说得通的。在 AI 时代,我们的脆弱性将来自于两方面:控制着 AI 的坏人,或者与人类价值观不对齐的失控 AI。想象这样一个世界:数百万人各自掌控着全球 AI 总算力中的一小块——这些人可以用 AI 思考、用 AI 自卫,并且因为自身已经与 AI 融合而从根本上理解 AI——在这样的世界里,人类的脆弱性更低。人的能力会强大得多,这确实吓人,但正如 Elon 所说,如果人人都是超人,那么任何一个超人想要造成大规模伤害都会更困难——因为存在大量的制衡机制。而且我们整体上失去对 AI 控制权的可能性也会更小,因为地球上的 AI 分布极广、目标各异。
+
+但时间紧迫——Elon 特别强调了这一点:
+
+*朝这个方向推进的速度非常关键。我们不能在还没搞出脑机融合接口之前,就把数字超级智能发展得太远。*
+
+想到这一切,我心里有个疑虑:全脑接口这种改变是否足以让"融合"真的发生?我把这个问题抛给了 Elon,指出我们的思考速度和计算机的思考速度之间仍然存在巨大的差距。他说:
+
+*是的,但把带宽提升几个数量级会让情况好得多。而且方向是对的。它能解决所有问题吗?不能。但方向对不对?对。既然你要往某个方向走,那为什么不往这个方向走呢?*
+
+这就是 Elon 创办 Neuralink 的原因。
+
+[![](/images/neuralink/Neuralink-formula-5-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Neuralink-formula-5-1.png)
+
+他创办 Neuralink,是为了加速我们进入巫师时代 (Wizard Era)——在他描述的那个世界里,"每一个想要拥有这种 AI 延伸的人都可以拥有,那时会有数十亿个人类-AI 共生体,他们共同为未来做出决定。"一个 AI 真正做到 of the people, by the people, for the people(民有、民治、民享)的世界。
+
+[![](/images/neuralink/Human-Colossus-with-hat-1.png)](https://waitbutwhy.com/wp-content/uploads/2018/04/Human-Colossus-with-hat-1.png)
+---
+我猜此刻你心里,一部分相信我们已经在过去 38000 字里生活过的这个疯狂世界也许真的会是未来——而另一部分则拒绝相信这一切。我自己也是两种情绪都有一点。
+
+但"疯狂"本身不应该成为难以相信的理由。记住——George Washington 要是看到 2017 年会当场去世。我们的未来对我们来说*一定会*是难以想象地震撼。唯一的区别是,如今事情推进的速度比 George 那个时代还要快得多。
+
+「被未来震撼到」这个概念,一方面说明了我们集体智慧的神奇——但另一方面也说明了我们直觉的天真。我们的大脑是在进步以蜗牛速度前行的年代进化出来的,所以我们的硬件就是按那个节奏校准的。如果我们不主动去覆盖自己的直觉——那部分读到如此离谱的未来时拒绝相信它可能发生的自我——那我们就是在自欺欺人。
+
+现实是,我们正在一条*超级*猛烈的路上飞驰,目的地也是个超级猛烈的地方,没人知道抵达时会是什么样。很多人一想到就觉得害怕,但我觉得挺刺激的。因为我们碰巧出生在这个时代,不像正常人过着正常世界的日子,我们活在一部*惊悚*片里。有些人得知这个信息之后,决定像 Elon 那样,做一切能做的事让这部电影有个好结局——谢天谢地有他们在。因为我宁愿只当一个目瞪口呆的观众,坐在椅子边缘看电影,给好人加油。
+
+不管怎样,我觉得时不时爬上一棵树、眺望一下风景、提醒自己活在这样一个时代是多么难得,是件好事。而这附近的树*可多着*呢。下次在另一棵树上见。
+---
+如果你喜欢 Wait But Why,请注册我们的**[邮件列表](https://newsletter.waitbutwhy.com/join)**,新文章发布时我们会通知你。
+
+想支持 Wait But Why,请访问我们的 **[Patreon 页面](https://patreon.com/waitbutwhy)**。
+
+* * *
+
+1. wildebeest (角马) 居然不是拼成 wildebeast,真是荒唐。[↩](#note-1-6120)
+
+2. 最近有个人[手抄了一遍圣经](http://www.today.com/popculture/man-unveils-1-150-page-bible-written-hand-2D80556484),花了他 13 年。想象一下,如果每本书都要花 13 年才能做出来(而且没有其他获取信息的途径),那书得多贵。[↩](#note-2-6120)
+
+3. 目前[已知](http://blogs.wsj.com/corporate-intelligence/2015/06/17/what-is-a-gutenberg-bible-worth/)还留存着 49 本古腾堡圣经——很多可以在大城市的博物馆里[看到](http://thecompletepilgrim.com/see-gutenberg-bible-america/)。[↩](#note-3-6120)
+
+4. 这个数字算得过来。古腾堡和他的团队两年内做出了 180 本圣经,一本古腾堡圣经有 [1,286 页](http://www.history.com/news/7-things-you-may-not-know-about-the-gutenberg-bible)长,平均下来是每天 317 页。健康地干上 13 小时、每小时 25 页,就能搞定。[↩](#note-4-6120)
+
+5. 举个例子,上周我在 Google Images 里翻得屁股都陷进去了,想找一张跟大脑相关的示意图,结果撞见了[这坨爽到爆的东西](https://pmgbiology.files.wordpress.com/2015/10/00-eukaryotic-chromosomes.jpg)。最后一步简直是绝妙的包袱——我本来已经被那么多层螺旋结构惊到了,然后猛然意识到最大的那个*大*螺旋,才是构成染色体那个小乱麻的东西。染色体太狠了。然后就在刚才,我为了找个高清版的示意图链接过来,又回去 Google Images 上看了十分钟相关图。写科技/科学类文章的时候,好奇心引发的时间黑洞对我来说一直是个大问题,但这次这个兔子洞对我来说简直是地狱(天堂)。我会把找到的一些没那么相关但特别有意思的碎料塞进脚注里。[↩](#note-5-6120)
+
+6. 颅骨其实只有大约 6.5 毫米厚(女性)、7.1 毫米厚(男性)——差不多四分之一英寸。我以为它比这厚多了。[↩](#note-6-6120)
+
+7. 令人愉快/令人不安的小知识:你的眼睛是通过神经和肌肉纤维直接连在大脑上的。所以如果你打开某人的头把脑子取出来,出来的会是他的大脑、他的脊髓(连在下面)——还有两颗晃来晃去的眼球。[↩](#note-7-6120)
+
+8. 我从那段视频里学到的一件事:你后脑勺下部、脖子上方那两个硬硬的凸起,其实是颅骨的凹陷,小脑 (cerebellum) 的两个半球就坐落在那儿——所以你的小脑就在那个位置。[↩](#note-8-6120)
+
+9. 让事情雪上加霜的是,人类进化过程中变成了直立行走的两足动物,这让女性的骨盆变小了(不然女人跑不动)。进化搞了个很酷的花招来平衡这个矛盾——婴儿开始在还是胎儿的状态下就出生了。这就是为什么新生儿在最初一个月左右长得像丘吉尔,之后才变可爱——他们本来还应该待在子宫里。这也是为什么新生儿一开始那么无助无能。[↩](#note-9-6120)
+
+10. 表面积够大,即便只有 2 毫米厚,皮层的体积也有 400-500 立方厘米,占整个大脑体积的三分之一以上,大约相当于一颗垒球的体积。[↩](#note-10-6120)
+
+11. 15 年后,另一位科学家圣地亚哥·拉蒙-卡哈尔 (Santiago Ramón y Cajal) 做出了正式的发现。[↩](#note-11-6120)
+
+12. 其实并没有*完全*接触——中间有大约 20-40 纳米的缝隙。[↩](#note-12-6120)
+
+13. 经常被讨论的多巴胺 (dopamine) 和血清素 (serotonin) 都是神经递质。[↩](#note-13-6120)
+
+14. 多发性硬化症 (Multiple sclerosis) 是由身体免疫系统的一个 bug 引起的,让免疫系统去破坏神经元的髓鞘,你从下面的 GIF 里能看到,这会严重扰乱身体和自己沟通的能力。《洛伦佐的油》(*Lorenzo's Oil*) 里那种病 ALD 也是由髓鞘被破坏引起的。[↩](#note-14-6120)
+
+15. 来自世界上最伟大的拖延症网站 [Kottke.org](http://Kottke.org)。[↩](#note-15-6120)
+
+16. 小知识:一位神经外科医生给我解释了击昏拳是怎么起作用的。灰质和白质密度不同。所以当你的头被狠狠打了一拳、或者你受了非常严重的脑震荡时,如果你的头猛地前后甩动,可能出现的情况是灰质和白质以不同的速度加速,这会让你皮层的灰质相对于白质稍微滑动一下,或者白质相对于脑干的灰质稍微滑动一下。在后一种情况下,有短暂的一瞬间,你的皮层跟脑干之间的通信被切断了。而由于你的意识存在于脑干里,这就让你失去了知觉。任何一种滑动发生时,都可能撕裂一堆轴突。轻微的轴突撕裂如果髓鞘还完整,轴突可以重新长回来并痊愈。但如果冲击够猛,髓鞘也会被撕裂,轴突就再也长不回来了——这就是永久性脑损伤。脑震荡真的、真的非常糟糕。这也是为什么下巴底部挨一记上勾拳、或者后脑勺挨一下能让人失去意识——因为这些打击会让头部剧烈前后甩动——而侧脑袋或额头挨一拳则不会让人失去意识。[↩](#note-16-6120)
+
+17. 如果我们那个火柴人神经元是这类感觉神经元中的一个,按比例画的话,他的躯干-轴突大概会有一公里长。[↩](#note-17-6120)
+
+18. 有时候,比如你踩到钉子或碰到烫炉子时,感觉轴突会在脊髓里直接跟相应的运动神经元通信,产生一个立即缩回脚或手的反射。这叫「反射弧」(reflex arc)。[↩](#note-18-6120)
+
+19. 我真心觉得 soma 的复数就应该是 soma。[↩](#note-19-6120)
+
+20. 科学界过去认为大脑里胶质细胞的数量是神经元的*十*倍那么多,但这个数字随着[更近期的研究](https://blogs.scientificamerican.com/brainwaves/know-your-neurons-what-is-the-ratio-of-glia-to-neurons-in-the-brain/)已经降下来了。[↩](#note-20-6120)
+
+21. 这里有一段[搞笑视频](http://kottke.org/17/03/a-neuroscientist-explains-a-concept-at-five-different-levels),一位科学家针对五个不同水平的人,把「连接组 (connectome)」这个概念解释了五次。[↩](#note-21-6120)
+
+22. 非常小——只有一根人类头发直径的百分之一。这里有一段[令人愉悦的视频](https://www.youtube.com/watch?v=2vI4fCsVdXc)展示制作过程。[↩](#note-22-6120)
+
+23. 不是我在把这事往性上引。是膜片钳自己在往性上引。[↩](#note-23-6120)
+
+24. 研究员安德鲁·施瓦茨 (Andrew Schwartz) 把使用的电极数量[比作](https://www.technologyreview.com/s/528141/the-thought-experiment/)一次政治民调,他说「你调查的神经元越多,结果越好」。[↩](#note-24-6120)
+
+25. 不过脑机接口 (BMI) 行业里有些人觉得这[并不怎么令人惊艳](https://vimeo.com/98187386)。[↩](#note-25-6120)
+
+26. Wait But Why 关于声音的完整讲解在[这里](https://waitbutwhy.com/2016/03/sound.html)。[↩](#note-26-6120)
+
+27. 通过使用一些声音工程上的小技巧,人工耳蜗的开发者让 16 个电极实际上就像每两个之间还多了 7 个额外电极一样工作,总效果相当于 121 个电极。[↩](#note-27-6120)
+
+28. 这是一段[非常有趣的第一手记述](https://www.wired.com/2005/11/bolero/),讲的是植入人工耳蜗后的体验。[↩](#note-28-6120)
+
+29. 一位神经科学家谈到过把设备塞进原本被血管占据的缝隙里,让大脑以为这个设备是一根血管。[↩](#note-29-6120)
+
+30. DARPA 似乎是不少争议的来源。我自己没深挖过,但为了把话说全:我聊过的每一位专家都觉得 DARPA 是这块拼图里重要的一部分,而且他们几乎完全在做旨在帮助伤残退伍军人的项目。[↩](#note-30-6120)
+
+31. 我们前面说的视网膜植入物是给眼睛受损的人用的。但对很多人来说,失明是发生在大脑里的。针对这类失明[已经有一些早期研究](https://www.wired.com/2002/09/vision/),涉及直接和患者的视觉皮层打交道。[↩](#note-31-6120)
+
+32. 小知识:虽然狗和猫都能听到超出人耳高频上限的音高(所以才有狗哨这种东西),但显然这两种动物都听不到人类能听到的那么低的声音——包括钢琴上最低的七个键。我只是读到的——家里有狗、猫和钢琴的人应该测试一下。[↩](#note-32-6120)
+
+33. 你的疼痛通路可以被重新导向云端——发到你的医疗 AI 那里——它要么通过刺激神经元的正确模式,来命令你身体内部进行某种修复;要么给你送来必要的药物并附上使用说明。如果你伤了脚踝之类的、需要避免让它承重,你的大脑可以用很多种方式提醒你——一段音效提示、另一种感觉信号,等等——这些都不会*疼*。[↩](#note-33-6120)
+
+34. 经典例子:[费米悖论 (Fermi Paradox)](https://waitbutwhy.com/2014/05/fermi-paradox.html)[↩](#note-34-6120)
+
+35. 他在那句话末尾加了一句「或者说,看起来像是现实的东西」。但这坨麻烦事咱们下次再打开吧。[↩](#note-35-6120)
+
+* * *
+
+1.  [Wikimedia Commons](https://en.wikipedia.org/wiki/Metcalfe's_law#/media/File:Metcalfe-Network-Effect.svg)。[↩](#note2-1-6120)
+    
+2.  [Wikipedia](https://en.wikipedia.org/wiki/Printing_press#Printing_capacity)。是的,这是我第二次引用维基百科了。我觉得那种「引用维基百科极其不专业、不负责任」的说法有点过时了吧?至少对于历史上每小时印刷字数这种数据来说是这样?我很确定你也觉得没问题。好。[↩](#note2-2-6120)
+    
+3.  [图片来源](http://plasticsurgerykey.com/scalp-and-temple/)[↩](#note2-3-6120)
+    
+4.  [图片来源](http://vanat.cvm.umn.edu/neurHistAtls/pages/men1.html)[↩](#note2-4-6120)
+    
+5.  [图片来源](https://www.flickr.com/photos/flamephoenix1991/8376271918)[↩](#note2-5-6120)
+    
+6.  当某段引用没有注明出处时,意味着它来自我本人和当事人的对话。[↩](#note2-6-6120)
+    
+7.  Stanley Finger: *[Origins of Neuroscience: A History of Explorations into Brain Function](http://amzn.to/2oL46h5)*[↩](#note2-7-6120)
+    
+8.  引用自[这段视频](https://www.youtube.com/watch?v=nvXuq9jRWKE)。[↩](#note2-8-6120)
+    
+9.  [图片来源](http://www.visualsunlimited.com/gallery-list)[↩](#note2-9-6120)
+    
+10.  [图片来源](https://anatomystudentpages.wiki.farmington.k12.mi.us/Nervous)[↩](#note2-10-6120)
+     
+11.  [图片来源](http://serendip.brynmawr.edu/bb/kinser/Fine3e.html)[↩](#note2-11-6120)
+     
+12.  [图片来源](http://archive.cnx.org/contents/016a7e55-4c3d-49d4-bc4e-750e8f5de8cc@1/3-4-the-brain-and-spinal-cord-sw)[↩](#note2-12-6120)
+     
+13.  [图片来源](https://risetoshinetoday.org/limbic-system/)[↩](#note2-13-6120)
+     
+14.  [图片来源](https://multiple-sclerosis-research.blogspot.com/2015/01/education-whats-mri.html)[↩](#note2-14-6120)
+     
+15.  [图片来源](https://www.getbodysmart.com/nervous-system/primary-motor-cortex)[↩](#note2-15-6120)
+     
+16.  [图片来源](https://www.getbodysmart.com/nervous-system/somatosenory-cortex-areas)[↩](#note2-16-6120)
+     
+17.  [图片来源](https://en.wikipedia.org/wiki/Cortical_homunculus#/media/File:Side-black.gif)[↩](#note2-17-6120)
+     
+18.  [图片来源](https://www.researchgate.net/figure/227028480_fig2_FIGURE-2-Prenatal-development-of-the-human-brain-showing-a-series-of-embryonic-and-fetal)[↩](#note2-18-6120)
+     
+19.  [图片来源](http://www.mind.ilstu.edu/curriculum/neurons_intro/neurons_intro.php)[↩](#note2-19-6120)
+     
+20.  [GIF 来源](http://www.lab.anhb.uwa.edu.au/mb140/corepages/nervous/nervous.htm)[↩](#note2-20-6120)
+     
+21.  [GIF 来源](https://en.wikipedia.org/wiki/Myelin)[↩](#note2-21-6120)
+     
+22.  [图片来源](http://www.autodidacts.io/openbci-background-on-the-brain-regions-lobes-and-terms-for-location/)[↩](#note2-22-6120)
+     
+23.  [图片来源](https://www.khanacademy.org/science/biology/human-biology/neuron-nervous-system/a/the-synapse)[↩](#note2-23-6120)
+     
+24.  [图片来源](https://www.ncbi.nlm.nih.gov/books/NBK21535/figure/A6110/)[↩](#note2-24-6120)
+     
+25.  [图片来源](https://www.studyblue.com/notes/note/n/brain-anatomy/deck/15598121)[↩](#note2-25-6120)
+     
+26.  [图片来源](http://www.lab.anhb.uwa.edu.au/mb140/corepages/nervous/nervous.htm)[↩](#note2-26-6120)
+     
+27.  [图片来源](http://radiologykey.com/cerebral-cortex/)[↩](#note2-27-6120)
+     
+28.  [图片来源](https://blogs.scientificamerican.com/brainwaves/know-your-neurons-what-is-the-ratio-of-glia-to-neurons-in-the-brain/)[↩](#note2-28-6120)
+     
+29.  [图片来源](https://www.ncbi.nlm.nih.gov/pubmed/25705966)[↩](#note2-29-6120)
+     
+30.  [图片来源](http://www.cell.com/action/showImagesData?pii=S0092-8674%2815%2900824-7)[↩](#note2-30-6120)
+     
+31.  [图片来源](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging)[↩](#note2-31-6120)
+     
+32.  [图片来源](https://users.fmrib.ox.ac.uk/~stuart/image_gallery/av/index.html)[↩](#note2-32-6120)
+     
+33.  [图片来源](https://imotions.com/blog/what-is-eeg/)[↩](#note2-33-6120)
+     
+34.  [图片来源](https://commons.wikimedia.org/wiki/File:Human_EEG_with_prominent_alpha-rhythm.png)[↩](#note2-34-6120)
+     
+35.  [图片来源](https://en.wikipedia.org/wiki/Electrocorticography#/media/File:Intracranial_electrode_grid_for_electrocorticography.png)[↩](#note2-35-6120)
+     
+36.  [图片来源](http://www.schalklab.org/sites/default/files/misc/layersofthebrain.png)[↩](#note2-36-6120)
+     
+37.  [图片来源](http://prometheus.med.utah.edu/~bwjones/2009/08/bionic-implants/)[↩](#note2-37-6120)
+     
+38.  [图片来源](http://iopscience.iop.org/article/10.1088/0960-1317/19/3/035004)[↩](#note2-38-6120)
+     
+39.  [图片来源](http://www.labtimes.org/labtimes/method/methods/2009_06.lasso)[↩](#note2-39-6120)
+     
+40.  [图片来源](http://englishdictionary.education/en/otitis-interna)[↩](#note2-40-6120)
+     
+41.  [图片来源](https://www.britannica.com/science/cochlea)[↩](#note2-41-6120)
+     
+42.  [图片来源](http://retinatoday.com/2015/03/the-next-generation-of-artificial-vision/)[↩](#note2-42-6120)
+     
+43.  [图片来源](http://www.alzforum.org/news/research-news/deep-brain-stimulation-decade-surgical-relief-not-just-pd)[↩](#note2-43-6120)
+     
+44.  [图片来源](http://www.pewinternet.org/2016/07/26/u-s-public-wary-of-biomedical-technologies-to-enhance-human-abilities/ps_2016-07-26_human-enhancement-survey_0-01/)[↩](#note2-44-6120)
+     
+45.  [图片来源](https://www.technologyreview.com/s/600686/government-seeks-high-fidelity-brain-computer-interface/)[↩](#note2-45-6120)
+     
+46.  [图片来源](https://www.technologyreview.com/s/418503/brain-interfaces-made-of-silk/)[↩](#note2-46-6120)
+     
+47.  [图片来源](https://www.wired.com/2013/02/skin-printed-electrodes/)[↩](#note2-47-6120)
+     
+48.  [图片来源](https://www.extremetech.com/extreme/207848-injectable-neuro-mesh-covers-the-brain-can-control-individual-neurons)[↩](#note2-48-6120)
+     
+49.  [图片来源](https://www.darpa.mil/program/our-research/darpa-and-the-brain-initiative)[↩](#note2-49-6120)
+     
+50.  [图片来源](https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation#/media/File:Transcranial_magnetic_stimulation.jpg)[↩](#note2-50-6120)
+     
+51.  [图片来源](https://swarmlab.eecs.berkeley.edu/projects/4887/neural-dust-ultrasonic-low-power-solution-chronic-brain-machine-interfaces)[↩](#note2-51-6120)
+     
+52.  [图片来源](http://everydaydigitals.com/heres-what-i-think/5/nbmyswegj8524h8ij98hsxzd0ocnti)[↩](#note2-52-6120)
+     
+53.  [引用来源](https://www.forbes.com/sites/robertwolcott/2017/03/30/virtual-reality-sex-and-chocolate-cake-desire-in-a-post-virtual-world/#5161b91173a6)[↩](#note2-53-6120)
+     
+54.  [引用来源](https://www.forbes.com/sites/robertwolcott/2017/03/30/virtual-reality-sex-and-chocolate-cake-desire-in-a-post-virtual-world/#5161b91173a6)[↩](#note2-54-6120)
+     
+55.  [引用来源](http://rameznaam.com/2015/05/15/the-ultimate-interface-your-brain/)[↩](#note2-55-6120)
+     
+56.  [引用来源](http://rameznaam.com/2015/05/15/the-ultimate-interface-your-brain/)[↩](#note2-56-6120)
+
+[Tweet](https://twitter.com/share)
+
+[![](/images/neuralink/pinit_fg_en_rect_gray_20.png)](<//www.pinterest.com/pin/create/button/?url=https://waitbutwhy.com/2017/04/neuralink.html&description=Neuralink and the Brain’s Magical Future>)

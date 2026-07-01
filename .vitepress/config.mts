@@ -6,6 +6,10 @@ export default defineConfig({
   title: 'Wait But Why · 中译',
   description: 'Tim Urban 长文中文翻译,自用',
   base: '/',
+  ignoreDeadLinks: [
+    // Cloudflare email 保护链接 (原文里的 mailto 被 CF 换成这个 URL)
+    /^\/cdn-cgi\//,
+  ],
 
   head: [
     ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
@@ -17,6 +21,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '全部文章', link: '/posts/' },
+      { text: '归档', link: '/archive/' },
     ],
 
     sidebar: sidebar as any,
