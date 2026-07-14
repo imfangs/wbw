@@ -6,12 +6,15 @@ slug: tail-end-interactive
 layout: page
 sidebar: false
 aside: false
+navbar: false
 ---
 
 <TailEnd />
 
 <style>
-/* Full-bleed: 让组件从 VitePress page 布局中撑开 */
+/* 让互动页完全占满,不留 VitePress chrome */
+.VPNav, .VPLocalNav, .VPFooter { display: none !important; }
 .VPPage { padding: 0 !important; }
-.VPPage .Layout { min-height: 100vh; }
+.Layout { min-height: 100vh; }
+body { --vp-nav-height: 0px; --vp-layout-top-height: 0px; }
 </style>
