@@ -10,6 +10,10 @@ slug: the-tail-end
 
 > 原文:[https://waitbutwhy.com/2015/12/the-tail-end.html](https://waitbutwhy.com/2015/12/the-tail-end.html) · 2015-12-11
 
+::: tip 👉 读完不如自己算一遍
+这篇文章有一个 **[中文互动版](/posts/tail-end-interactive.html)** —— 填一下你的年龄和频率,直接看到你自己"还剩多少次"。
+:::
+
 *我们为这篇文章做了一个精美的 PDF 版本,方便打印和离线阅读。[点这里购买。](https://gum.co/wbw-tail-end)*
 
 [在去年的一篇文章里](https://waitbutwhy.com/2014/05/life-weeks.html),我们把人的一生可视化地铺开了。按年来看:
