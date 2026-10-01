@@ -1,0 +1,124 @@
+{
+  "mode": "sample",
+  "date": "2026-10-01T08:07:02.547Z",
+  "viewport": {
+    "width": 1180,
+    "height": 820
+  },
+  "capture": "Playwright recordVideo; independent contexts; source silent",
+  "speed": 1,
+  "scenes": [
+    {
+      "name": "hook",
+      "events": [
+        {
+          "label": "selected-start",
+          "wallSeconds": 7.05,
+          "url": "https://wbw.fangs.cc/posts/why-procrastinators-procrastinate.html",
+          "scrollY": 1082
+        },
+        {
+          "label": "selected-end",
+          "wallSeconds": 14.766,
+          "url": "https://wbw.fangs.cc/posts/why-procrastinators-procrastinate.html",
+          "scrollY": 1532
+        }
+      ],
+      "images": [
+        {
+          "src": "https://wbw.fangs.cc/images/why-procrastinators-procrastinate/NP-brain.png",
+          "complete": true,
+          "width": 640,
+          "height": 426
+        },
+        {
+          "src": "https://wbw.fangs.cc/images/why-procrastinators-procrastinate/P-brain.png",
+          "complete": true,
+          "width": 640,
+          "height": 426
+        },
+        {
+          "src": "https://wbw.fangs.cc/images/why-procrastinators-procrastinate/IGM-RDM-interacting-1.png",
+          "complete": true,
+          "width": 640,
+          "height": 354
+        },
+        {
+          "src": "https://wbw.fangs.cc/images/why-procrastinators-procrastinate/IGM-RDM-interacting-2.png",
+          "complete": true,
+          "width": 640,
+          "height": 436
+        },
+        {
+          "src": "https://wbw.fangs.cc/images/why-procrastinators-procrastinate/IGM-RDM-interacting-3.png",
+          "complete": true,
+          "width": 640,
+          "height": 436
+        },
+        {
+          "src": "https://wbw.fangs.cc/images/why-procrastinators-procrastinate/IGM-RDM-interacting-4.png",
+          "complete": true,
+          "width": 640,
+          "height": 436
+        },
+        {
+          "src": "https://wbw.fangs.cc/images/why-procrastinators-procrastinate/Dark-Playground.png",
+          "complete": true,
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "https://wbw.fangs.cc/images/why-procrastinators-procrastinate/Dark-Playground-people.png",
+          "complete": true,
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "https://wbw.fangs.cc/images/why-procrastinators-procrastinate/PM.png",
+          "complete": true,
+          "width": 640,
+          "height": 480
+        },
+        {
+          "src": "https://wbw.fangs.cc/images/why-procrastinators-procrastinate/PM-Scare-1.png",
+          "complete": true,
+          "width": 640,
+          "height": 436
+        },
+        {
+          "src": "https://wbw.fangs.cc/images/why-procrastinators-procrastinate/PM-Scare-2.png",
+          "complete": true,
+          "width": 640,
+          "height": 436
+        },
+        {
+          "src": "https://wbw.fangs.cc/images/why-procrastinators-procrastinate/PM-Scare-3.png",
+          "complete": true,
+          "width": 640,
+          "height": 436
+        },
+        {
+          "src": "https://wbw.fangs.cc/images/why-procrastinators-procrastinate/PDF-Gray-v2.png",
+          "complete": true,
+          "width": 400,
+          "height": 100
+        },
+        {
+          "src": "https://wbw.fangs.cc/images/why-procrastinators-procrastinate/plushies-ad-for-post.jpg",
+          "complete": true,
+          "width": 1944,
+          "height": 1067
+        },
+        {
+          "src": "https://wbw.fangs.cc/images/why-procrastinators-procrastinate/pinit_fg_en_rect_gray_20.png",
+          "complete": true,
+          "width": 40,
+          "height": 20
+        }
+      ],
+      "errors": [],
+      "source": "raw/sample/hook.webm",
+      "preparation": "Scroll to named article illustration before selected segment; selected interval uses real mouse wheel inputs"
+    }
+  ]
+}

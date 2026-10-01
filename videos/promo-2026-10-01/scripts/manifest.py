@@ -1,0 +1,12 @@
+from pathlib import Path
+import hashlib,json,subprocess
+R=Path(__file__).resolve().parents[1];FP='/opt/homebrew/Caskroom/miniforge/base/bin/ffprobe'
+def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
+def media(p):return json.loads(subprocess.check_output([FP,'-v','error','-show_format','-show_streams','-of','json',str(p)],text=True))
+assets=[]
+for p in sorted((R/'raw').glob('*/*.webm')):
+ m=media(p);assets.append({'file':str(p.relative_to(R)),'sha256':sha(p),'sourceUrl':'https://wbw.fangs.cc/','capture':'Independent Playwright browser context; live site; normal visitor; no audio recording','author':'Site organization by fangs; writing and illustrations by Tim Urban / Wait But Why','usage':'Small real reading extracts in locally reviewed product promo; original rights unchanged; unofficial Chinese translation','durationSeconds':float(m['format']['duration']),'streams':[{'type':s['codec_type'],'codec':s['codec_name'],'width':s.get('width'),'height':s.get('height'),'r_frame_rate':s.get('r_frame_rate')} for s in m['streams']]})
+for p in sorted((R/'graphics').glob('*')):assets.append({'file':str(p.relative_to(R)),'sha256':sha(p),'source':'Created for this production by scripts/make_assets.py','type':'original synthesized score, separate from source footage' if p.suffix=='.wav' else 'Original promotion typography rendered from local system fonts; no product screen recreation'})
+fonts=json.loads((R/'evidence/toolchain.json').read_text())['fonts']
+obj={'date':'2026-10-01','productLocalReferenceCommit':'f4fe33f6644f3fcb1fe7dabf950e1c3ae8de2f1f','liveVersionEvidence':'evidence/product-audit.json; no claim that public deployment commit was independently resolved','assets':assets,'fonts':fonts,'originalArticle':'https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html','originalIllustrations':['https://wbw.fangs.cc/images/why-procrastinators-procrastinate/NP-brain.png','https://wbw.fangs.cc/images/why-procrastinators-procrastinate/P-brain.png','https://wbw.fangs.cc/images/why-procrastinators-procrastinate/IGM-RDM-interacting-1.png'],'rightsBoundary':'Non-official Chinese reading site; original writing and illustrations remain property of Tim Urban / Wait But Why and applicable rights holders; no new rights asserted','outputs':[{ 'file':f,'sha256':sha(R/f),'bytes':(R/f).stat().st_size} for f in ['sample.mp4','final.mp4','poster.jpg'] if (R/f).exists()]}
+(R/'assets.json').write_text(json.dumps(obj,ensure_ascii=False,indent=2));print('assets',len(assets))

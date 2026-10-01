@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-01T08:13:13.879Z",
+  "file": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/final.mp4",
+  "sha256": "44697f390a483b764d94b24d32f85a0767f9325aa113561ae679a479704dfebe",
+  "browser": "151.0.7922.34",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "headless": true,
+  "method": "Fresh browser/context, click Play from currentTime 0 and wait in real time to ended; no seek or playbackRate changes",
+  "initial": {
+    "currentTime": 0,
+    "muted": false,
+    "volume": 1,
+    "paused": true
+  },
+  "result": {
+    "duration": 31,
+    "currentTime": 31,
+    "ended": true,
+    "width": 1920,
+    "height": 1080,
+    "error": null,
+    "muted": false,
+    "volume": 1,
+    "totalVideoFrames": 775,
+    "droppedVideoFrames": 0
+  },
+  "elapsedSeconds": 31.448,
+  "pageErrors": [],
+  "requests": [
+    {
+      "url": "/",
+      "range": null
+    },
+    {
+      "url": "/final.mp4",
+      "range": "bytes=0-"
+    }
+  ],
+  "hearing": "No actual audio perception; this is playback/decode evidence, not listening approval",
+  "temporaryServer": {
+    "host": "127.0.0.1",
+    "port": 18773,
+    "closedOnCompletion": true
+  }
+}

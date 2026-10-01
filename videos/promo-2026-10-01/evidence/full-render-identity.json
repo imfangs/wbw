@@ -1,0 +1,68 @@
+{
+  "file": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/final.mp4",
+  "sha256": "44697f390a483b764d94b24d32f85a0767f9325aa113561ae679a479704dfebe",
+  "ffmpeg": "/opt/homebrew/Caskroom/miniforge/base/bin/ffmpeg",
+  "duration": 31,
+  "sourceFiles": [
+    {
+      "path": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/scripts/render.py",
+      "sha256": "14990b4c7c287bced0a82b7f279d22fa2e3fe9a11415a43ffa4bdb74ed0dd82d"
+    },
+    {
+      "path": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/scripts/make_assets.py",
+      "sha256": "3945631056b1d8ba46c02737b5cdfbb105bd8168134dda8b9fc33c1912dd5512"
+    },
+    {
+      "path": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/scripts/capture.mjs",
+      "sha256": "12fa66ac705152b85c48cd361bada9e9b20665ed23ef0e983437044a2262cebd"
+    },
+    {
+      "path": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/scripts/audit.mjs",
+      "sha256": "46fb8110637783a068092377a5e94ef3d69f41ab51d2a4599c9d4f7475d2d8da"
+    },
+    {
+      "path": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/graphics/score.wav",
+      "sha256": "1534f516fc6107f65f2c6d886d2243acf0dae4778e034529f78bed6e2892c1bb"
+    },
+    {
+      "path": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/graphics/shot-1.png",
+      "sha256": "b3b836d4d44a8c04a05bb993975ed280ac6e04d99aef2def1306cb262e98cbff"
+    },
+    {
+      "path": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/graphics/shot-2.png",
+      "sha256": "59e4bcc80443153ec50e81ee3b872f1fdf3fe3dd3c2e9ed56efc139c1c197038"
+    },
+    {
+      "path": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/graphics/shot-3.png",
+      "sha256": "6e0f56562fdefe80b13bd14c6b4cfa215e7408dd313bb0a07781f503ddc3c1a3"
+    },
+    {
+      "path": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/graphics/shot-4.png",
+      "sha256": "fec2fb34499053aa27484d49d83d59f2057ca730b7db511586c7f4af947dde0f"
+    },
+    {
+      "path": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/graphics/shot-5.png",
+      "sha256": "bec3fda99d385c6049c54665f95673187ddf1cfe6dd0764561fb1f7ba5528db6"
+    },
+    {
+      "path": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/raw/full/hook.webm",
+      "sha256": "da42ab7597330214a4ec874d386f0824d91f6f3504888d26274ff4d1d65f7753"
+    },
+    {
+      "path": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/raw/full/catalog.webm",
+      "sha256": "3bf0022fc58ee48d2958784b296ae92eb75e4060b72d62786606f73707b69784"
+    },
+    {
+      "path": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/raw/full/source.webm",
+      "sha256": "7ac730b9adc7d9576374a992f943e049a5fee4157605bd9818e335819e8c82e2"
+    },
+    {
+      "path": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/raw/full/reading.webm",
+      "sha256": "c49a891a112d8d46c460d776f0cae3c5563f635765de71b19394daacc4940888"
+    },
+    {
+      "path": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/raw/full/closing.webm",
+      "sha256": "09f094684102689eeb1028b88a7fd5ad2d12faedd3385500a5a5db6248e70d36"
+    }
+  ]
+}

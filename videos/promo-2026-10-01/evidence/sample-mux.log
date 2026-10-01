@@ -1,0 +1,29 @@
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x131e2bc90] Auto-inserting h264_mp4toannexb bitstream filter
+Input #0, concat, from '/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/raw/sample/concat.txt':
+  Duration: N/A, start: 0.000000, bitrate: 1425 kb/s
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt470bg/unknown/unknown, progressive), 1920x1080 [SAR 1:1 DAR 16:9], 1425 kb/s, 25 fps, 25 tbr, 12800 tbn
+    Metadata:
+      handler_name    : VideoHandler
+      encoder         : Lavc62.28.101 libx264
+[aist#1:0/pcm_s16le @ 0x132804ff0] Guessed Channel Layout: stereo
+Input #1, wav, from '/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/graphics/score.wav':
+  Duration: 00:00:31.00, bitrate: 1536 kb/s
+  Stream #1:0: Audio: pcm_s16le ([1][0][0][0] / 0x0001), 48000 Hz, stereo, s16, 1536 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #1:0 -> #0:1 (pcm_s16le (native) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to '/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/sample.mp4':
+  Metadata:
+    encoder         : Lavf62.12.101
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt470bg/unknown/unknown, progressive), 1920x1080 [SAR 1:1 DAR 16:9], q=2-31, 1425 kb/s, 25 fps, 25 tbr, 12800 tbn
+    Metadata:
+      handler_name    : VideoHandler
+      encoder         : Lavc62.28.101 libx264
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 160 kb/s
+    Metadata:
+      encoder         : Lavc62.28.101 aac
+[mp4 @ 0x132805300] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0x132805200] video:1218KiB audio:136KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.488890%
+frame=  175 fps=0.0 q=-1.0 Lsize=    1361KiB time=00:00:06.92 bitrate=1610.6kbits/s speed=48.8x elapsed=0:00:00.14
+[aac @ 0x132808950] Qavg: 2835.327

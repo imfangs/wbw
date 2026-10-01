@@ -1,0 +1,79 @@
+{
+  "updatedAt": "2026-10-01",
+  "stage": "local-final-verified",
+  "productUrl": "https://wbw.fangs.cc/",
+  "hiReferenceUrl": "https://hi.fangs.cc/projects/wbw/",
+  "inputVersion": {
+    "localReferenceCommit": "f4fe33f6644f3fcb1fe7dabf950e1c3ae8de2f1f",
+    "liveEvidence": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/evidence/product-audit.json",
+    "deployedCommitResolved": false
+  },
+  "outputs": {
+    "video": {
+      "path": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/final.mp4",
+      "sha256": "44697f390a483b764d94b24d32f85a0767f9325aa113561ae679a479704dfebe"
+    },
+    "poster": {
+      "path": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/poster.jpg",
+      "sha256": "8ad1f621e36d302ab46300e006edf2edc962f7c5290389c85ec95de2c2f63d5b"
+    },
+    "sample": {
+      "path": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/sample.mp4",
+      "sha256": "5f47d7c395a3202d6ffa963c081f9d6a8c7f6c89521f535ddcfb83298b5ca322"
+    }
+  },
+  "media": {
+    "durationSeconds": 31,
+    "width": 1920,
+    "height": 1080,
+    "fps": 25,
+    "frames": 775,
+    "videoCodec": "H.264",
+    "audioCodec": "AAC",
+    "audioSampleRate": 48000,
+    "bytes": 3817979
+  },
+  "checksPassed": [
+    "Live Hi and product DOM readback",
+    "7-second sample full decode and bounded visual review",
+    "Final full decode",
+    "ffprobe identity",
+    "Black/freeze/silence checks with intentional holds and tail fade documented",
+    "All cuts before/after and dense frames bounded visual review",
+    "Independent new browser playback from 0 to ended; 775 frames; 0 dropped; no errors"
+  ],
+  "verification": {
+    "sha256": "44697f390a483b764d94b24d32f85a0767f9325aa113561ae679a479704dfebe",
+    "review": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/review.md",
+    "media": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/evidence/media-verification.json",
+    "playback": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/evidence/browser-playback.json",
+    "renderIdentity": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/evidence/full-render-identity.json"
+  },
+  "remaining": [
+    "Human listening of synthesized score",
+    "User aesthetic and pacing feedback",
+    "First-viewer interest or reading outcome",
+    "Hi integration and public playback checks if published"
+  ],
+  "publication": {
+    "status": "not_published",
+    "suggestion": "Native controls, playsinline, poster, preload none, no autoplay; keep original author and unofficial translation attribution",
+    "noPush": true
+  },
+  "feedback": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/practice-feedback.md",
+  "temporaryResources": {
+    "port": 18773,
+    "browser": "isolated headless Chromium",
+    "cleanedUp": true
+  },
+  "commit": {
+    "tracking": "Local snapshot resolved from repository history; no push",
+    "lookupCommand": "git log -1 --format=%H -- videos/promo-2026-10-01"
+  },
+  "readyForHi": true,
+  "frozenOutputs": [
+    "final.mp4",
+    "poster.jpg"
+  ],
+  "credits": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/credits.md"
+}

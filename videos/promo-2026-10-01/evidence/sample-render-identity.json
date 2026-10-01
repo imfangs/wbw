@@ -1,0 +1,28 @@
+{
+  "file": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/sample.mp4",
+  "sha256": "5f47d7c395a3202d6ffa963c081f9d6a8c7f6c89521f535ddcfb83298b5ca322",
+  "ffmpeg": "/opt/homebrew/Caskroom/miniforge/base/bin/ffmpeg",
+  "duration": 7,
+  "sourceFiles": [
+    {
+      "path": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/scripts/render.py",
+      "sha256": "4161923f54433866a5b6cfa0ea3a369cada00d6e2ba3f7daa56de0878c16a124"
+    },
+    {
+      "path": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/scripts/make_assets.py",
+      "sha256": "3945631056b1d8ba46c02737b5cdfbb105bd8168134dda8b9fc33c1912dd5512"
+    },
+    {
+      "path": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/graphics/score.wav",
+      "sha256": "1534f516fc6107f65f2c6d886d2243acf0dae4778e034529f78bed6e2892c1bb"
+    },
+    {
+      "path": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/graphics/shot-1.png",
+      "sha256": "b3b836d4d44a8c04a05bb993975ed280ac6e04d99aef2def1306cb262e98cbff"
+    },
+    {
+      "path": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/raw/sample/hook.webm",
+      "sha256": "6ae4e68403d651e1145b77a4452031c7188898d418410cc8596906a5f19c52d2"
+    }
+  ]
+}

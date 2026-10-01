@@ -1,0 +1,437 @@
+{
+  "units": "seconds",
+  "mode": "full",
+  "outputDuration": 31,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 25,
+  "shots": [
+    {
+      "id": "hook",
+      "purpose": "A familiar question and Tim Urban illustration make the content recognizable",
+      "source": "raw/full/hook.webm",
+      "sourceInSeconds": 9.6,
+      "sourceOutSeconds": 16.6,
+      "outputInSeconds": 0,
+      "outputOutSeconds": 7,
+      "speed": 1,
+      "sourceInfo": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "vp8",
+            "codec_long_name": "On2 VP8",
+            "profile": "0",
+            "codec_type": "video",
+            "codec_tag_string": "[0][0][0][0]",
+            "codec_tag": "0x0000",
+            "mime_codec_string": "vp8",
+            "width": 1180,
+            "height": 820,
+            "coded_width": 1180,
+            "coded_height": 820,
+            "has_b_frames": 0,
+            "sample_aspect_ratio": "1:1",
+            "display_aspect_ratio": "59:41",
+            "pix_fmt": "yuv420p",
+            "level": -99,
+            "chroma_location": "center",
+            "field_order": "progressive",
+            "r_frame_rate": "25/1",
+            "avg_frame_rate": "25/1",
+            "time_base": "1/1000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "eng",
+              "ENCODER": "Lavc61.3.100 libvpx",
+              "DURATION": "00:00:16.800000000"
+            }
+          }
+        ],
+        "format": {
+          "filename": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/raw/full/hook.webm",
+          "nb_streams": 1,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "matroska,webm",
+          "format_long_name": "Matroska / WebM",
+          "start_time": "0.000000",
+          "duration": "16.800000",
+          "size": "1515664",
+          "bit_rate": "721744",
+          "probe_score": 100,
+          "tags": {
+            "ENCODER": "Lavf61.1.100"
+          }
+        }
+      },
+      "screenTextImage": "graphics/shot-1.png",
+      "transition": "direct cut",
+      "sound": "Original synthesized score; source recording has no audio"
+    },
+    {
+      "id": "catalog",
+      "purpose": "Show the real catalogue entry from the homepage",
+      "source": "raw/full/catalog.webm",
+      "sourceInSeconds": 6.8,
+      "sourceOutSeconds": 12.8,
+      "outputInSeconds": 7,
+      "outputOutSeconds": 13,
+      "speed": 1,
+      "sourceInfo": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "vp8",
+            "codec_long_name": "On2 VP8",
+            "profile": "0",
+            "codec_type": "video",
+            "codec_tag_string": "[0][0][0][0]",
+            "codec_tag": "0x0000",
+            "mime_codec_string": "vp8",
+            "width": 1180,
+            "height": 820,
+            "coded_width": 1180,
+            "coded_height": 820,
+            "has_b_frames": 0,
+            "sample_aspect_ratio": "1:1",
+            "display_aspect_ratio": "59:41",
+            "pix_fmt": "yuv420p",
+            "level": -99,
+            "chroma_location": "center",
+            "field_order": "progressive",
+            "r_frame_rate": "25/1",
+            "avg_frame_rate": "25/1",
+            "time_base": "1/1000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "eng",
+              "ENCODER": "Lavc61.3.100 libvpx",
+              "DURATION": "00:00:13.000000000"
+            }
+          }
+        ],
+        "format": {
+          "filename": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/raw/full/catalog.webm",
+          "nb_streams": 1,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "matroska,webm",
+          "format_long_name": "Matroska / WebM",
+          "start_time": "0.000000",
+          "duration": "13.000000",
+          "size": "664068",
+          "bit_rate": "408657",
+          "probe_score": 100,
+          "tags": {
+            "ENCODER": "Lavf61.1.100"
+          }
+        }
+      },
+      "screenTextImage": "graphics/shot-2.png",
+      "transition": "direct cut",
+      "sound": "Original synthesized score; source recording has no audio"
+    },
+    {
+      "id": "source",
+      "purpose": "Show Chinese title and retained original link",
+      "source": "raw/full/source.webm",
+      "sourceInSeconds": 28.6,
+      "sourceOutSeconds": 34.6,
+      "outputInSeconds": 13,
+      "outputOutSeconds": 19,
+      "speed": 1,
+      "sourceInfo": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "vp8",
+            "codec_long_name": "On2 VP8",
+            "profile": "0",
+            "codec_type": "video",
+            "codec_tag_string": "[0][0][0][0]",
+            "codec_tag": "0x0000",
+            "mime_codec_string": "vp8",
+            "width": 1180,
+            "height": 820,
+            "coded_width": 1180,
+            "coded_height": 820,
+            "has_b_frames": 0,
+            "sample_aspect_ratio": "1:1",
+            "display_aspect_ratio": "59:41",
+            "pix_fmt": "yuv420p",
+            "level": -99,
+            "chroma_location": "center",
+            "field_order": "progressive",
+            "r_frame_rate": "25/1",
+            "avg_frame_rate": "25/1",
+            "time_base": "1/1000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "eng",
+              "ENCODER": "Lavc61.3.100 libvpx",
+              "DURATION": "00:00:34.800000000"
+            }
+          }
+        ],
+        "format": {
+          "filename": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/raw/full/source.webm",
+          "nb_streams": 1,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "matroska,webm",
+          "format_long_name": "Matroska / WebM",
+          "start_time": "0.000000",
+          "duration": "34.800000",
+          "size": "1897094",
+          "bit_rate": "436113",
+          "probe_score": 100,
+          "tags": {
+            "ENCODER": "Lavf61.1.100"
+          }
+        }
+      },
+      "screenTextImage": "graphics/shot-3.png",
+      "transition": "direct cut",
+      "sound": "Original synthesized score; source recording has no audio"
+    },
+    {
+      "id": "reading",
+      "purpose": "Show text and illustrations during genuine scrolling",
+      "source": "raw/full/reading.webm",
+      "sourceInSeconds": 24.6,
+      "sourceOutSeconds": 32.6,
+      "outputInSeconds": 19,
+      "outputOutSeconds": 27,
+      "speed": 1,
+      "sourceInfo": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "vp8",
+            "codec_long_name": "On2 VP8",
+            "profile": "0",
+            "codec_type": "video",
+            "codec_tag_string": "[0][0][0][0]",
+            "codec_tag": "0x0000",
+            "mime_codec_string": "vp8",
+            "width": 1180,
+            "height": 820,
+            "coded_width": 1180,
+            "coded_height": 820,
+            "has_b_frames": 0,
+            "sample_aspect_ratio": "1:1",
+            "display_aspect_ratio": "59:41",
+            "pix_fmt": "yuv420p",
+            "level": -99,
+            "chroma_location": "center",
+            "field_order": "progressive",
+            "r_frame_rate": "25/1",
+            "avg_frame_rate": "25/1",
+            "time_base": "1/1000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "eng",
+              "ENCODER": "Lavc61.3.100 libvpx",
+              "DURATION": "00:00:32.800000000"
+            }
+          }
+        ],
+        "format": {
+          "filename": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/raw/full/reading.webm",
+          "nb_streams": 1,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "matroska,webm",
+          "format_long_name": "Matroska / WebM",
+          "start_time": "0.000000",
+          "duration": "32.800000",
+          "size": "2501273",
+          "bit_rate": "610066",
+          "probe_score": 100,
+          "tags": {
+            "ENCODER": "Lavf61.1.100"
+          }
+        }
+      },
+      "screenTextImage": "graphics/shot-4.png",
+      "transition": "direct cut",
+      "sound": "Original synthesized score; source recording has no audio"
+    },
+    {
+      "id": "closing",
+      "purpose": "Invite a brief read with product and attribution visible",
+      "source": "raw/full/closing.webm",
+      "sourceInSeconds": 9.76,
+      "sourceOutSeconds": 13.76,
+      "outputInSeconds": 27,
+      "outputOutSeconds": 31,
+      "speed": 1,
+      "sourceInfo": {
+        "streams": [
+          {
+            "index": 0,
+            "codec_name": "vp8",
+            "codec_long_name": "On2 VP8",
+            "profile": "0",
+            "codec_type": "video",
+            "codec_tag_string": "[0][0][0][0]",
+            "codec_tag": "0x0000",
+            "mime_codec_string": "vp8",
+            "width": 1180,
+            "height": 820,
+            "coded_width": 1180,
+            "coded_height": 820,
+            "has_b_frames": 0,
+            "sample_aspect_ratio": "1:1",
+            "display_aspect_ratio": "59:41",
+            "pix_fmt": "yuv420p",
+            "level": -99,
+            "chroma_location": "center",
+            "field_order": "progressive",
+            "r_frame_rate": "25/1",
+            "avg_frame_rate": "25/1",
+            "time_base": "1/1000",
+            "start_pts": 0,
+            "start_time": "0.000000",
+            "disposition": {
+              "default": 1,
+              "dub": 0,
+              "original": 0,
+              "comment": 0,
+              "lyrics": 0,
+              "karaoke": 0,
+              "forced": 0,
+              "hearing_impaired": 0,
+              "visual_impaired": 0,
+              "clean_effects": 0,
+              "attached_pic": 0,
+              "timed_thumbnails": 0,
+              "non_diegetic": 0,
+              "captions": 0,
+              "descriptions": 0,
+              "metadata": 0,
+              "dependent": 0,
+              "still_image": 0,
+              "multilayer": 0
+            },
+            "tags": {
+              "language": "eng",
+              "ENCODER": "Lavc61.3.100 libvpx",
+              "DURATION": "00:00:13.960000000"
+            }
+          }
+        ],
+        "format": {
+          "filename": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/raw/full/closing.webm",
+          "nb_streams": 1,
+          "nb_programs": 0,
+          "nb_stream_groups": 0,
+          "format_name": "matroska,webm",
+          "format_long_name": "Matroska / WebM",
+          "start_time": "0.000000",
+          "duration": "13.960000",
+          "size": "274044",
+          "bit_rate": "157045",
+          "probe_score": 100,
+          "tags": {
+            "ENCODER": "Lavf61.1.100"
+          }
+        }
+      },
+      "screenTextImage": "graphics/shot-5.png",
+      "transition": "direct cut",
+      "sound": "Original synthesized score; source recording has no audio"
+    }
+  ]
+}

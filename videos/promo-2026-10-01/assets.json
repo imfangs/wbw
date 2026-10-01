@@ -1,0 +1,193 @@
+{
+  "date": "2026-10-01",
+  "productLocalReferenceCommit": "f4fe33f6644f3fcb1fe7dabf950e1c3ae8de2f1f",
+  "liveVersionEvidence": "evidence/product-audit.json; no claim that public deployment commit was independently resolved",
+  "assets": [
+    {
+      "file": "raw/full/catalog.webm",
+      "sha256": "3bf0022fc58ee48d2958784b296ae92eb75e4060b72d62786606f73707b69784",
+      "sourceUrl": "https://wbw.fangs.cc/",
+      "capture": "Independent Playwright browser context; live site; normal visitor; no audio recording",
+      "author": "Site organization by fangs; writing and illustrations by Tim Urban / Wait But Why",
+      "usage": "Small real reading extracts in locally reviewed product promo; original rights unchanged; unofficial Chinese translation",
+      "durationSeconds": 13.0,
+      "streams": [
+        {
+          "type": "video",
+          "codec": "vp8",
+          "width": 1180,
+          "height": 820,
+          "r_frame_rate": "25/1"
+        }
+      ]
+    },
+    {
+      "file": "raw/full/closing.webm",
+      "sha256": "09f094684102689eeb1028b88a7fd5ad2d12faedd3385500a5a5db6248e70d36",
+      "sourceUrl": "https://wbw.fangs.cc/",
+      "capture": "Independent Playwright browser context; live site; normal visitor; no audio recording",
+      "author": "Site organization by fangs; writing and illustrations by Tim Urban / Wait But Why",
+      "usage": "Small real reading extracts in locally reviewed product promo; original rights unchanged; unofficial Chinese translation",
+      "durationSeconds": 13.96,
+      "streams": [
+        {
+          "type": "video",
+          "codec": "vp8",
+          "width": 1180,
+          "height": 820,
+          "r_frame_rate": "25/1"
+        }
+      ]
+    },
+    {
+      "file": "raw/full/hook.webm",
+      "sha256": "da42ab7597330214a4ec874d386f0824d91f6f3504888d26274ff4d1d65f7753",
+      "sourceUrl": "https://wbw.fangs.cc/",
+      "capture": "Independent Playwright browser context; live site; normal visitor; no audio recording",
+      "author": "Site organization by fangs; writing and illustrations by Tim Urban / Wait But Why",
+      "usage": "Small real reading extracts in locally reviewed product promo; original rights unchanged; unofficial Chinese translation",
+      "durationSeconds": 16.8,
+      "streams": [
+        {
+          "type": "video",
+          "codec": "vp8",
+          "width": 1180,
+          "height": 820,
+          "r_frame_rate": "25/1"
+        }
+      ]
+    },
+    {
+      "file": "raw/full/reading.webm",
+      "sha256": "c49a891a112d8d46c460d776f0cae3c5563f635765de71b19394daacc4940888",
+      "sourceUrl": "https://wbw.fangs.cc/",
+      "capture": "Independent Playwright browser context; live site; normal visitor; no audio recording",
+      "author": "Site organization by fangs; writing and illustrations by Tim Urban / Wait But Why",
+      "usage": "Small real reading extracts in locally reviewed product promo; original rights unchanged; unofficial Chinese translation",
+      "durationSeconds": 32.8,
+      "streams": [
+        {
+          "type": "video",
+          "codec": "vp8",
+          "width": 1180,
+          "height": 820,
+          "r_frame_rate": "25/1"
+        }
+      ]
+    },
+    {
+      "file": "raw/full/source.webm",
+      "sha256": "7ac730b9adc7d9576374a992f943e049a5fee4157605bd9818e335819e8c82e2",
+      "sourceUrl": "https://wbw.fangs.cc/",
+      "capture": "Independent Playwright browser context; live site; normal visitor; no audio recording",
+      "author": "Site organization by fangs; writing and illustrations by Tim Urban / Wait But Why",
+      "usage": "Small real reading extracts in locally reviewed product promo; original rights unchanged; unofficial Chinese translation",
+      "durationSeconds": 34.8,
+      "streams": [
+        {
+          "type": "video",
+          "codec": "vp8",
+          "width": 1180,
+          "height": 820,
+          "r_frame_rate": "25/1"
+        }
+      ]
+    },
+    {
+      "file": "raw/sample/hook.webm",
+      "sha256": "6ae4e68403d651e1145b77a4452031c7188898d418410cc8596906a5f19c52d2",
+      "sourceUrl": "https://wbw.fangs.cc/",
+      "capture": "Independent Playwright browser context; live site; normal visitor; no audio recording",
+      "author": "Site organization by fangs; writing and illustrations by Tim Urban / Wait But Why",
+      "usage": "Small real reading extracts in locally reviewed product promo; original rights unchanged; unofficial Chinese translation",
+      "durationSeconds": 16.8,
+      "streams": [
+        {
+          "type": "video",
+          "codec": "vp8",
+          "width": 1180,
+          "height": 820,
+          "r_frame_rate": "25/1"
+        }
+      ]
+    },
+    {
+      "file": "graphics/score.wav",
+      "sha256": "1534f516fc6107f65f2c6d886d2243acf0dae4778e034529f78bed6e2892c1bb",
+      "source": "Created for this production by scripts/make_assets.py",
+      "type": "original synthesized score, separate from source footage"
+    },
+    {
+      "file": "graphics/shot-1.png",
+      "sha256": "b3b836d4d44a8c04a05bb993975ed280ac6e04d99aef2def1306cb262e98cbff",
+      "source": "Created for this production by scripts/make_assets.py",
+      "type": "Original promotion typography rendered from local system fonts; no product screen recreation"
+    },
+    {
+      "file": "graphics/shot-2.png",
+      "sha256": "59e4bcc80443153ec50e81ee3b872f1fdf3fe3dd3c2e9ed56efc139c1c197038",
+      "source": "Created for this production by scripts/make_assets.py",
+      "type": "Original promotion typography rendered from local system fonts; no product screen recreation"
+    },
+    {
+      "file": "graphics/shot-3.png",
+      "sha256": "6e0f56562fdefe80b13bd14c6b4cfa215e7408dd313bb0a07781f503ddc3c1a3",
+      "source": "Created for this production by scripts/make_assets.py",
+      "type": "Original promotion typography rendered from local system fonts; no product screen recreation"
+    },
+    {
+      "file": "graphics/shot-4.png",
+      "sha256": "fec2fb34499053aa27484d49d83d59f2057ca730b7db511586c7f4af947dde0f",
+      "source": "Created for this production by scripts/make_assets.py",
+      "type": "Original promotion typography rendered from local system fonts; no product screen recreation"
+    },
+    {
+      "file": "graphics/shot-5.png",
+      "sha256": "bec3fda99d385c6049c54665f95673187ddf1cfe6dd0764561fb1f7ba5528db6",
+      "source": "Created for this production by scripts/make_assets.py",
+      "type": "Original promotion typography rendered from local system fonts; no product screen recreation"
+    }
+  ],
+  "fonts": [
+    {
+      "path": "/System/Library/Fonts/Supplemental/Songti.ttc",
+      "family": "Songti SC",
+      "indicesUsed": [
+        1,
+        4
+      ],
+      "sha256": "6873ac2ccab5c2e74d87d6b690f3773098dd6a6238805363a3b3567f2caf6f47",
+      "distribution": "System font used to render graphics only; font file not bundled"
+    },
+    {
+      "path": "/System/Library/Fonts/Supplemental/Arial.ttf",
+      "family": "Arial",
+      "sha256": "525979822591a3447cfc49d943d6f7683508e25543407871c0ed8fed05fd2bd9",
+      "distribution": "System font used to render graphics only; font file not bundled"
+    }
+  ],
+  "originalArticle": "https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html",
+  "originalIllustrations": [
+    "https://wbw.fangs.cc/images/why-procrastinators-procrastinate/NP-brain.png",
+    "https://wbw.fangs.cc/images/why-procrastinators-procrastinate/P-brain.png",
+    "https://wbw.fangs.cc/images/why-procrastinators-procrastinate/IGM-RDM-interacting-1.png"
+  ],
+  "rightsBoundary": "Non-official Chinese reading site; original writing and illustrations remain property of Tim Urban / Wait But Why and applicable rights holders; no new rights asserted",
+  "outputs": [
+    {
+      "file": "sample.mp4",
+      "sha256": "5f47d7c395a3202d6ffa963c081f9d6a8c7f6c89521f535ddcfb83298b5ca322",
+      "bytes": 1393185
+    },
+    {
+      "file": "final.mp4",
+      "sha256": "44697f390a483b764d94b24d32f85a0767f9325aa113561ae679a479704dfebe",
+      "bytes": 3817979
+    },
+    {
+      "file": "poster.jpg",
+      "sha256": "8ad1f621e36d302ab46300e006edf2edc962f7c5290389c85ec95de2c2f63d5b",
+      "bytes": 104018
+    }
+  ]
+}

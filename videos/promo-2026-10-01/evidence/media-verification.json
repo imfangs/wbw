@@ -1,0 +1,122 @@
+{
+  "file": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/final.mp4",
+  "sha256": "44697f390a483b764d94b24d32f85a0767f9325aa113561ae679a479704dfebe",
+  "commands": {
+    "ffprobe": {
+      "command": [
+        "/opt/homebrew/Caskroom/miniforge/base/bin/ffprobe",
+        "-v",
+        "error",
+        "-show_streams",
+        "-show_format",
+        "-of",
+        "json",
+        "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/final.mp4"
+      ],
+      "exitCode": 0
+    },
+    "decode": {
+      "command": [
+        "/opt/homebrew/Caskroom/miniforge/base/bin/ffmpeg",
+        "-v",
+        "error",
+        "-threads",
+        "2",
+        "-i",
+        "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/final.mp4",
+        "-f",
+        "null",
+        "-"
+      ],
+      "exitCode": 0
+    },
+    "visual-detect": {
+      "command": [
+        "/opt/homebrew/Caskroom/miniforge/base/bin/ffmpeg",
+        "-hide_banner",
+        "-threads",
+        "2",
+        "-i",
+        "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/final.mp4",
+        "-vf",
+        "blackdetect=d=0.15:pix_th=0.10,freezedetect=n=-55dB:d=1",
+        "-an",
+        "-f",
+        "null",
+        "-"
+      ],
+      "exitCode": 0
+    },
+    "audio-detect": {
+      "command": [
+        "/opt/homebrew/Caskroom/miniforge/base/bin/ffmpeg",
+        "-hide_banner",
+        "-threads",
+        "2",
+        "-i",
+        "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/final.mp4",
+        "-af",
+        "silencedetect=n=-45dB:d=0.5,ebur128=peak=true",
+        "-vn",
+        "-f",
+        "null",
+        "-"
+      ],
+      "exitCode": 0
+    }
+  },
+  "visualEvents": [
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_start: 1.36",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_duration: 1.84",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_end: 3.2",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_start: 3.2",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_duration: 2.56",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_end: 5.76",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_start: 5.8",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_duration: 1.2",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_end: 7",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_start: 7.36",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_duration: 3.08",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_end: 10.44",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_start: 10.48",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_duration: 2.52",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_end: 13",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_start: 13",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_duration: 2.12",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_end: 15.12",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_start: 15.16",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_duration: 3.84",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_end: 19",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_start: 22.04",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_duration: 3.08",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_end: 25.12",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_start: 25.16",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_duration: 1.84",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_end: 27",
+    "[Parsed_freezedetect_1 @ 0x1263176c0] lavfi.freezedetect.freeze_start: 27"
+  ],
+  "silenceEvents": [
+    "[Parsed_silencedetect_0 @ 0x124119750] silence_start: 29.915979",
+    "[Parsed_silencedetect_0 @ 0x124119750] silence_end: 31.018667 | silence_duration: 1.102688"
+  ],
+  "audioSummary": "Summary:\n\n  Integrated loudness:\n    I:         -28.4 LUFS\n    Threshold: -38.7 LUFS\n\n  Loudness range:\n    LRA:         5.2 LU\n    Threshold: -48.9 LUFS\n    LRA low:   -31.7 LUFS\n    LRA high:  -26.5 LUFS\n\n  True peak:\n    Peak:      -18.8 dBFS\n[out#0/null @ 0x123705360] video:0KiB audio:5816KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown\nsize=N/A time=00:00:31.01 bitrate=N/A speed= 155x elapsed=0:00:00.20    \n",
+  "reviewFrameSeconds": [
+    0.12,
+    3.5,
+    6.88,
+    7.12,
+    10,
+    12.88,
+    13.12,
+    16,
+    18.88,
+    19.12,
+    23,
+    26.88,
+    27.12,
+    29.5,
+    30.88
+  ],
+  "posterSeconds": 4.8,
+  "posterSHA256": "8ad1f621e36d302ab46300e006edf2edc962f7c5290389c85ec95de2c2f63d5b"
+}
