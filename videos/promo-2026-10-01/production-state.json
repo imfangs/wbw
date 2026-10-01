@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-01",
-  "stage": "local-final-verified",
+  "updatedAt": "2026-10-01T09:10:26.312861+00:00",
+  "stage": "published-hi-verified",
   "productUrl": "https://wbw.fangs.cc/",
   "hiReferenceUrl": "https://hi.fangs.cc/projects/wbw/",
   "inputVersion": {
@@ -53,12 +53,155 @@
     "Human listening of synthesized score",
     "User aesthetic and pacing feedback",
     "First-viewer interest or reading outcome",
-    "Hi integration and public playback checks if published"
+    "Physical mobile devices and Safari application verification"
   ],
   "publication": {
-    "status": "not_published",
-    "suggestion": "Native controls, playsinline, poster, preload none, no autoplay; keep original author and unofficial translation attribution",
-    "noPush": true
+    "status": "published-hi-verified",
+    "verifiedAt": "2026-10-01T09:10:26.312861+00:00",
+    "scope": "Hi promotional media only; product runtime was not modified or redeployed",
+    "pageUrl": "https://hi.fangs.cc/projects/wbw/",
+    "hiSourceCommit": "c9c46221e0a2f5fcc1f09e62c93502b3ca9e591c",
+    "hiPagesCommit": "f28f5d98742925803ac7c6172fa5d980b9282fa2",
+    "productionCommit": "191974d38fc9326cc296c718fabcf86e6ca3c67b",
+    "productionStage": "local-final-verified",
+    "productionHandoff": {
+      "status": "not_published",
+      "suggestion": "Native controls, playsinline, poster, preload none, no autoplay; keep original author and unofficial translation attribution",
+      "noPush": true
+    },
+    "sourceVideoSha256": "44697f390a483b764d94b24d32f85a0767f9325aa113561ae679a479704dfebe",
+    "sourcePosterSha256": "8ad1f621e36d302ab46300e006edf2edc962f7c5290389c85ec95de2c2f63d5b",
+    "publicAssets": {
+      "video": {
+        "url": "https://hi.fangs.cc/videos/projects/wbw-promo-2026-10-01.mp4",
+        "sha256": "44697f390a483b764d94b24d32f85a0767f9325aa113561ae679a479704dfebe",
+        "bytes": 3817979
+      },
+      "poster": {
+        "url": "https://hi.fangs.cc/images/projects/wbw-promo-2026-10-01.webp",
+        "sha256": "c3a501a26c86e6b5d7075bc4c7067b3340e752e1df8a9f471e4abc4d270a9434",
+        "bytes": 141470
+      },
+      "credits": {
+        "url": "https://hi.fangs.cc/videos/projects/wbw-promo-2026-10-01-credits.html",
+        "sha256": "477ee8b0cafb40a593347ae0714fc49249454834341443d69ffcee49e38f8a94",
+        "bytes": 1181
+      },
+      "page": {
+        "url": "https://hi.fangs.cc/projects/wbw/index.html",
+        "sha256": "02ca3001ecf366b5773db241da143aefba19b3b580e2d0c77ebc2838685513de",
+        "bytes": 8485
+      }
+    },
+    "integrity": {
+      "matchedFiles": 66,
+      "totalFiles": 66,
+      "normalDnsTls": true,
+      "remoteVideoMatchesFrozenSource": true
+    },
+    "range": {
+      "id": "wbw",
+      "url": "https://hi.fangs.cc/videos/projects/wbw-promo-2026-10-01.mp4",
+      "status": 206,
+      "contentRange": "bytes 0-1023/3817979",
+      "contentType": "video/mp4",
+      "bytes": 1024,
+      "prefixSha256": "1f26ffef50b56a3bf439092828215084d90db38705f39dae75589a782a88d55a",
+      "matchesLocalPrefix": true,
+      "ok": true
+    },
+    "browser": {
+      "engine": "chromium",
+      "version": "154.0.8037.58",
+      "results": [
+        {
+          "environment": "desktop",
+          "viewport": {
+            "width": 1280,
+            "height": 900
+          },
+          "colorScheme": "light",
+          "status": "passed",
+          "finishedAt": "2026-10-01T09:04:54.426Z",
+          "seekTestFinal": {
+            "currentTime": 31,
+            "ended": true,
+            "error": null,
+            "quality": {
+              "totalVideoFrames": 1112,
+              "droppedVideoFrames": 0
+            }
+          }
+        },
+        {
+          "environment": "phone",
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "colorScheme": "light",
+          "status": "passed",
+          "finishedAt": "2026-10-01T09:05:08.162Z",
+          "seekTestFinal": {
+            "currentTime": 31,
+            "ended": true,
+            "error": null,
+            "quality": {
+              "totalVideoFrames": 366,
+              "droppedVideoFrames": 0
+            }
+          }
+        },
+        {
+          "environment": "narrow-dark",
+          "viewport": {
+            "width": 320,
+            "height": 740
+          },
+          "colorScheme": "dark",
+          "status": "passed",
+          "finishedAt": "2026-10-01T09:05:21.544Z",
+          "seekTestFinal": {
+            "currentTime": 31,
+            "ended": true,
+            "error": null,
+            "quality": {
+              "totalVideoFrames": 365,
+              "droppedVideoFrames": 0
+            }
+          }
+        }
+      ],
+      "desktopUninterruptedPlayback": {
+        "duration": 31,
+        "currentTime": 31,
+        "ended": true,
+        "playbackRate": 1,
+        "videoWidth": 1920,
+        "videoHeight": 1080,
+        "error": null,
+        "quality": {
+          "totalVideoFrames": 775,
+          "droppedVideoFrames": 0
+        }
+      },
+      "scope": "Desktop played from initial click to ended without seeking; phone and narrow-dark used documented scripted seeks before ended.",
+      "requestNotes": []
+    },
+    "receipts": {
+      "authority": "/Users/fangs/workspace/side/hi/docs/releases/2026-10-01-promo-publication-authority.json",
+      "integrity": "/Users/fangs/workspace/side/hi/docs/releases/2026-10-01-promo-integrity.json",
+      "range": "/Users/fangs/workspace/side/hi/docs/releases/2026-10-01-promo-range.json",
+      "browser": "/Users/fangs/workspace/side/hi/docs/releases/2026-10-01-promo-live-reading.json"
+    },
+    "limitations": [
+      "Synthetic viewports; physical mobile devices and the Safari application were not tested.",
+      "No human listening, human aesthetic approval or promotion-effectiveness claim.",
+      "Product CTA validation covers link opening and HTTP reachability, not product business flows."
+    ],
+    "productRuntimeChanged": false,
+    "productRuntimeDeployed": false,
+    "projectPushPerformed": false
   },
   "feedback": "/Users/fangs/workspace/side/wbw/videos/promo-2026-10-01/practice-feedback.md",
   "temporaryResources": {

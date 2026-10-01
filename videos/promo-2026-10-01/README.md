@@ -34,4 +34,4 @@ python3 -m http.server 18773 --bind 127.0.0.1 --directory /Users/fangs/workspace
 - 界面截图包含少量原文插图用于说明阅读过程，不分发完整文章内容，不声称官方译站。
 - 源录屏无音轨，输出配乐由 `make_assets.py` 原创合成，不是产品原声。没有旁白，也不将长文改编成朗读。
 - 本机字体只用于画面渲染，不分发字体文件；作者/来源/哈希见 `assets.json`。
-- 本工程未修改产品、没有部署或 push。Hi 建议仅作为待集成的本地作品，发布后的页面验收须另做。
+- 宣传片已由协调任务接入 [Hi 项目页](https://hi.fangs.cc/projects/wbw/)，公开文件 SHA256、Range 与 Chromium 1280/390/320 像素视口检查通过，桌面完整播放；发布身份与回执见 `production-state.json`。WBW 产品未修改或重发，本仓库没有 push。听感、真人反馈、真机与 Safari 尚待验证。
