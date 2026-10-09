@@ -13,8 +13,8 @@ navbar: false
 
 <style>
 /* 让互动页完全占满,不留 VitePress chrome */
-.VPNav, .VPLocalNav, .VPFooter { display: none !important; }
-.VPPage { padding: 0 !important; }
-.Layout { min-height: 100vh; }
-body { --vp-nav-height: 0px; --vp-layout-top-height: 0px; }
+.Layout:has(.app) .VPNav, .Layout:has(.app) .VPLocalNav, .Layout:has(.app) .VPFooter { display: none !important; }
+.Layout:has(.app) .VPPage { padding: 0 !important; }
+.Layout:has(.app) { min-height: 100vh; }
+body:has(.app) { --vp-nav-height: 0px; --vp-layout-top-height: 0px; }
 </style>

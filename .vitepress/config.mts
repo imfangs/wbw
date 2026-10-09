@@ -6,6 +6,7 @@ export default defineConfig({
   title: 'Wait But Why · 中译',
   description: 'Tim Urban 长文中文翻译,自用',
   base: '/',
+  srcExclude: ['AGENTS.md', 'CLAUDE.md', 'README.md', 'docs/**'],
   ignoreDeadLinks: [
     // Cloudflare email 保护链接 (原文里的 mailto 被 CF 换成这个 URL)
     /^\/cdn-cgi\//,
