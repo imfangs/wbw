@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-09",
+  "source": "8e2381b3c78feda6a9fec0d9aa4cfefdf65288a2",
+  "deployment": "daa09f05e4ba54dfdfa18b220696f615c953b3c9",
+  "ready": true,
+  "matched_files": 319,
+  "verification_scope": "HTML/JS/CSS/JSON/text; unchanged image binaries excluded",
+  "limits": [
+    "Browser viewports, not physical devices",
+    "Content/translation unchanged; no renewed semantic proof",
+    "Visitor interest not measured"
+  ]
+}
